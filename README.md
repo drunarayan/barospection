@@ -11,12 +11,15 @@ taught for BRIEF Boyce Astro Foundation by Chandru Narayan
 1. What is Light?
 1. Electromagnetic Waves
 1. Photons & Matter
+1. Jupyter Notebook - [Light Basics](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fbarospection&branch=gh-pages&urlpath=lab%2Ftree%2Fbarospection%2Fnotebooks%2Flight_basics.ipynb?reset)
+1. Jupyter Notebook - [Light & Matter](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fbarospection&branch=gh-pages&urlpath=lab%2Ftree%2Fbarospection%2Fnotebooks%2Flight_matter.ipynb?reset)
 
 ### Light & Matter Interactions
 1.  What is a Blackbody 
 1.  Electromagnetic Spectrum
 1.  Modeling a Black Body
 1.  Waves & Particles
+1. Jupyter Notebook - [Light & Matter Interactions](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fbarospection&branch=gh-pages&urlpath=lab%2Ftree%2Fbarospection%2Fnotebooks%2Flight_matter_interactions.ipynb?reset)
 
 ### Spectroscopy
 1. What is Spectroscopy
@@ -27,19 +30,21 @@ taught for BRIEF Boyce Astro Foundation by Chandru Narayan
 1. Source of Spectral Lines
 1. Calculating Balmer's Constant
 1. Doppler Effect on Spectral Lines
+1. Jupyter Notebook - Absorption & Emission Spectra
 
 ### Star Properties
 1. Star Types
 1. What can you learn from Star Spectra
 2. HertzSprung Russell Diagram (HRD)
 3. Plot an HRD for Sun's 100 Parsec neighbourhood
+1. Jupyter Notebook - HRD
 
 ### Obtain Spectra from the BARO Telescope
 1. Spectral Grating configuration on BARO
 1. Selecting Targets in the Solar Neiborhood
 1. Create Target List for Hot & Cool Stars & Nebulae
 1. Schedule to obtain Spectra
-1. Calibrate using RSpec 
+1. Calibrate using [RSpec]() 
 
 ### Analyze & Publish Sprectral Images
 1. Use RSpec to Analyze Spectral Lines
@@ -47,7 +52,7 @@ taught for BRIEF Boyce Astro Foundation by Chandru Narayan
 1. Measure Shift in Spectral Lines
 1. Compare against NIST Standard
 1. Publish yoiur results in a Jupyter Notebook
-1. Post examples to RSpec website
+1. Post examples to [RSpec website]()
 
 ### ***Workshop commences 8:00 PM Pacific Time Thursday, ?????. See below for details***
 
