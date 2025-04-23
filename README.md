@@ -12,7 +12,6 @@ taught for BRIEF Boyce Astro Foundation by Chandru Narayan
 1. Electromagnetic Waves
 1. Photons & Matter
 1. Jupyter Notebook - [Light Basics](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fbarospection&branch=gh-pages&urlpath=lab%2Ftree%2Fbarospection%2Fnotebooks%2Flight_basics.ipynb?reset)
-1. Jupyter Notebook - [Light & Matter](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fbarospection&branch=gh-pages&urlpath=lab%2Ftree%2Fbarospection%2Fnotebooks%2Flight_matter.ipynb?reset)
 
 ### Light & Matter Interactions
 1.  What is a Blackbody 
@@ -44,7 +43,7 @@ taught for BRIEF Boyce Astro Foundation by Chandru Narayan
 1. Selecting Targets in the Solar Neiborhood
 1. Create Target List for Hot & Cool Stars & Nebulae
 1. Schedule to obtain Spectra
-1. Calibrate using [RSpec]() 
+1. Calibrate using [RSpec](https://rspec-astro.com/) 
 
 ### Analyze & Publish Sprectral Images
 1. Use RSpec to Analyze Spectral Lines
@@ -52,11 +51,11 @@ taught for BRIEF Boyce Astro Foundation by Chandru Narayan
 1. Measure Shift in Spectral Lines
 1. Compare against NIST Standard
 1. Publish yoiur results in a Jupyter Notebook
-1. Post examples to [RSpec website]()
+1. Post examples to [RSpec website](https://rspec-astro.com/)
 
 ### ***Workshop commences 8:00 PM Pacific Time Thursday, ?????. See below for details***
 
-In this workshop we will cover introductory and historically significant Spectroscopy topics.  We will not only learn the basics of Spectroscopy, we will also use the Boyce Astro BARO telescope to obtain spectra. Then we will analyze the spectra using [RSPec Software](https://rspec-astro.com/). 
+In this workshop we will cover introductory and historically significant Spectroscopy topics.  We will not only learn the basics of Spectroscopy, we will also use the Boyce Astro BARO telescope to obtain spectra. Then we will analyze the spectra using [RSpec Software](https://rspec-astro.com/). 
 
 We will attempt to develop research skills primarily on Spectroscopy related topics as you clearly are astro enthusiasts!  The primary audience for this course are High School, College students, or Early Career professionals. We also care about accessibility of these resources across student communities who may be underrepresented and of a diverse socio economic background. We hope to keep these resources free and open for use as much as possible to anyone who may be interested.  
 
