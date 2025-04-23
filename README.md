@@ -29,7 +29,7 @@ taught for BRIEF Boyce Astro Foundation by Chandru Narayan
 1. Source of Spectral Lines
 1. Calculating Balmer's Constant
 1. Doppler Effect on Spectral Lines
-1. Jupyter Notebook - Absorption & Emission Spectra
+1. Jupyter Notebook - [Absorption & Emission Spectra](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fbarospection&branch=gh-pages&urlpath=lab%2Ftree%2Fbarospection%2Fnotebooks%2Fmatter_absorption_emission.ipynb?reset)
 
 ### Star Properties
 1. Star Types
