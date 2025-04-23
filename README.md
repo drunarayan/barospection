@@ -11,14 +11,14 @@ taught for BRIEF Boyce Astro Foundation by Chandru Narayan
 1. What is Light?
 1. Electromagnetic Waves
 1. Photons & Matter
-1. Jupyter Notebook - [Light Basics](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fbarospection&branch=gh-pages&urlpath=lab%2Ftree%2Fbarospection%2Fnotebooks%2Flight_basics.ipynb?reset) | [View Only](https://nbviewer.org/github/drunarayan/barospection/blob/gh-pages/notebooks/light_basics.ipynb)
+1. Jupyter Notebook - [Light Basics](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fbarospection&branch=gh-pages&urlpath=lab%2Ftree%2Fbarospection%2Fnotebooks%2Flight_basics.ipynb?reset){:target="_blank"} | [View Only](https://nbviewer.org/github/drunarayan/barospection/blob/gh-pages/notebooks/light_basics.ipynb){:target="_blank"}
 
 ### Light & Matter Interactions
 1.  What is a Blackbody 
 1.  Electromagnetic Spectrum
 1.  Modeling a Black Body
 1.  Waves & Particles
-1. Jupyter Notebook - [Light & Matter Interactions](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fbarospection&branch=gh-pages&urlpath=lab%2Ftree%2Fbarospection%2Fnotebooks%2Flight_matter_interactions.ipynb?reset) | [View Only](https://nbviewer.org/github/drunarayan/barospection/blob/gh-pages/notebooks/light_matter_interactions.ipynb)
+1. Jupyter Notebook - [Light & Matter Interactions](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fbarospection&branch=gh-pages&urlpath=lab%2Ftree%2Fbarospection%2Fnotebooks%2Flight_matter_interactions.ipynb?reset){:target="_blank"} | [View Only](https://nbviewer.org/github/drunarayan/barospection/blob/gh-pages/notebooks/light_matter_interactions.ipynb){:target="_blank"}
 
 ### Spectroscopy
 1. What is Spectroscopy
@@ -29,7 +29,7 @@ taught for BRIEF Boyce Astro Foundation by Chandru Narayan
 1. Source of Spectral Lines
 1. Calculating Balmer's Constant
 1. Doppler Effect on Spectral Lines
-1. Jupyter Notebook - [Absorption & Emission Spectra](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fbarospection&branch=gh-pages&urlpath=lab%2Ftree%2Fbarospection%2Fnotebooks%2Fmatter_absorption_emission.ipynb?reset) | [View Only](https://nbviewer.org/github/drunarayan/barospection/blob/gh-pages/notebooks/matter_absorption_emission.ipynb)
+1. Jupyter Notebook - [Absorption & Emission Spectra](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fbarospection&branch=gh-pages&urlpath=lab%2Ftree%2Fbarospection%2Fnotebooks%2Fmatter_absorption_emission.ipynb?reset){:target="_blank"} | [View Only](https://nbviewer.org/github/drunarayan/barospection/blob/gh-pages/notebooks/matter_absorption_emission.ipynb){:target="_blank"}
 
 ### Star Properties
 1. Star Types
