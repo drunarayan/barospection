@@ -1,20 +1,23 @@
 ## Course repository for the ***Intro to Spectroscopy 2025*** Workshop 
-### taught for BRIEF Boyce Astro Foundation by Chandru Narayan
+taught for BRIEF Boyce Astro Foundation by Chandru Narayan
 
 
 ## Course Outline
 
 ### BAROSpection - Introduction to Spectroscopy
 ![](barospection.png)
+
 ### Introduction to Light & Matter and Electromagnetism
 1. What is Light?
 1. Electromagnetic Waves
 1. Photons & Matter
+
 ### Light & Matter Interactions
 1.  What is a Blackbody 
 1.  Electromagnetic Spectrum
 1.  Modeling a Black Body
 1.  Waves & Particles
+
 ### Spectroscopy
 1. What is Spectroscopy
 1. Types of Spectra
@@ -24,17 +27,20 @@
 1. Source of Spectral Lines
 1. Calculating Balmer's Constant
 1. Doppler Effect on Spectral Lines
+
 ### Star Properties
 1. Star Types
 1. What can you learn from Star Spectra
 2. HertzSprung Russell Diagram (HRD)
 3. Plot an HRD for Sun's 100 Parsec neighbourhood
+
 ### Obtain Spectra from the BARO Telescope
 1. Spectral Grating configuration on BARO
 1. Selecting Targets in the Solar Neiborhood
 1. Create Target List for Hot & Cool Stars & Nebulae
 1. Schedule to obtain Spectra
 1. Calibrate using RSpec 
+
 ### Analyze & Publish Sprectral Images
 1. Use RSpec to Analyze Spectral Lines
 1. Measure Wavelenghts & Frequencies
@@ -43,8 +49,7 @@
 1. Publish yoiur results in a Jupyter Notebook
 1. Post examples to RSpec website
 
-
-#### ***Workshop commences 8:00 PM Pacific Time Thursday, ?????. See below for details***
+### ***Workshop commences 8:00 PM Pacific Time Thursday, ?????. See below for details***
 
 In this workshop we will cover introductory and historically significant Spectroscopy topics.  We will not only learn the basics of Spectroscopy, we will also use the Boyce Astro BARO telescope to obtain spectra. Then we will analyze the spectra using [RSPec Software](https://rspec-astro.com/). 
 
