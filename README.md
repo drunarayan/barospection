@@ -76,7 +76,7 @@ Please check this website & classroom for ALL UPDATES.  I will try not to send 
 
 Item|Date|Google Meet Link|Google Recording Link
 ---|---|---|---
-1|Thu, Aug 7, 2025 7:00 - 8:00 PM Pacific Time|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|Google Meeting Recording TBA
+1|Thu, Aug 07, 2025 7:00 - 8:00 PM Pacific Time|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|Google Meeting Recording TBA
 2|Thu, Aug 14, 2025 7:00 - 8:00 PM Pacific Time|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|Google Meeting Recording TBA
 3|Thu, Aug 21, 2025 7:00 - 8:00 PM Pacific Time|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|Google Meeting Recording TBA
 4|Thu, Aug 28, 2025 7:00 - 8:00 PM Pacific Time|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|Google Meeting Recording TBA
