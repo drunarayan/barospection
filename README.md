@@ -7,6 +7,12 @@ taught for BRIEF Boyce Astro Foundation by Chandru Narayan
 ### BAROSpection - Introduction to Spectroscopy
 ![](barospection.png)
 
+### Introduction & References to for using Python in Spectroscopy
+1. [Intro to JupyterLab & Jupyter Notebooks](https://nbviewer.org/github/drunarayan/barospection/blob/gh-pages/notebooks/01_jupyter_notebooks.ipynb){:target="_blank"}
+1. Jupyter Notebook - [Intro to Python](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fbarospection&branch=gh-pages&urlpath=lab%2Ftree%2Fbarospection%2Fnotebooks%2F02_Python.ipynb?reset){:target="_blank"} | [View Only](https://nbviewer.org/github/drunarayan/barospection/blob/gh-pages/notebooks/02_Python.ipynb){:target="_blank"}
+1. Jupyter Notebook - [Intro to Numpy](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fbarospection&branch=gh-pages&urlpath=lab%2Ftree%2Fbarospection%2Fnotebooks%2F03_numpy.ipynb?reset){:target="_blank"} | [View Only](https://nbviewer.org/github/drunarayan/barospection/blob/gh-pages/notebooks/03_numpy.ipynb){:target="_blank"}
+1. Jupyter Notebook - [Intro to Visualization](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fbarospection&branch=gh-pages&urlpath=lab%2Ftree%2Fbarospection%2Fnotebooks%2F04_Visualization.ipynb?reset){:target="_blank"} | [View Only](https://nbviewer.org/github/drunarayan/barospection/blob/gh-pages/notebooks/04_Visualization.ipynb){:target="_blank"}
+
 ### Introduction to Light & Matter and Electromagnetism
 1. What is Light?
 1. Electromagnetic Waves
