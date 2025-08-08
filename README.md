@@ -4,7 +4,7 @@ taught for BRIEF Boyce Astro Foundation by Chandru Narayan
 
 ## Course Outline
 
-### BAROSpection - Introduction to Spectroscopy
+### BAROSpection - Introduction to Spectroscopy [course flyer](docs/barospection_flyer.png)
 ![](barospection.png)
 
 ### Introduction & References for using Python in Spectroscopy
@@ -59,7 +59,7 @@ taught for BRIEF Boyce Astro Foundation by Chandru Narayan
 1. Publish yoiur results in a Jupyter Notebook
 1. Post examples to [RSpec website](https://rspec-astro.com/)
 
-### ***Workshop commences 8:00 PM Pacific Time Thursday, Aug 7, 2025 for 5 weekly sessions. See below for details***
+### ***Workshop commences 7:00 PM Pacific Time Fri, Aug 15, 2025 for 5 weekly sessions. See below for details***
 
 In this workshop we will cover introductory and historically significant Spectroscopy topics.  We will not only learn the basics of Spectroscopy, we will also use the Boyce Astro BARO telescope to obtain spectra. Then we will analyze the spectra using [RSpec Software](https://rspec-astro.com/). 
 
@@ -80,12 +80,13 @@ Please check this website & classroom for ALL UPDATES.  I will try not to send 
 
 ## Workshop Zoom Meeting and Recording Links 
 
-Item|Date|Google Meet Link|Google Recording Link
----|---|---|---
-1|Thu, Aug 07, 2025 7:00 - 8:00 PM Pacific Time|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|Google Meeting Recording TBA
-2|Thu, Aug 14, 2025 7:00 - 8:00 PM Pacific Time|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|Google Meeting Recording TBA
-3|Thu, Aug 21, 2025 7:00 - 8:00 PM Pacific Time|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|Google Meeting Recording TBA
-4|Thu, Aug 28, 2025 7:00 - 8:00 PM Pacific Time|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|Google Meeting Recording TBA
-5|Thu, Sep 04, 2025 7:00 - 8:00 PM Pacific Time|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|Google Meeting Recording TBA
+Item|Date|Topic|Google Meet Link|Google Recording Link
+---|---|---|---|---
+1a|Fri, Aug 15, 2025 6:30 - 8:00 PM Pacific Time|Intro to Spectroscopy & Jupyter Notebooks|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|Google Meeting Recording TBA
+1b|Fri, Aug 15, 2025 8:00 - 11:00 PM Pacific Time|OPTIONAL - Obtain Spectra from BARO telescope|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|Google Meeting Recording TBA
+2|Fri, Aug 22, 2025 6:30 - 8:00 PM Pacific Time|Light & Matter. Absorption & Emission Spectra & Types of Spectroscopy|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|Google Meeting Recording TBA
+3|Fri, Aug 29, 2025 6:30 - 8:00 PM Pacific Time|Star Classifications and RSpec analysis of BARO spectra obtained|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|Google Meeting Recording TBA
+4|Fri, Sep 05, 2025 6:30 - 8:00 PM Pacific Time| Properties of Stars and Galaxies using Spectra|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|Google Meeting Recording TBA
+5|Fri, Sep 12, 2025 6:30 - 8:00 PM Pacific Time|Share our final results by sharing our published data in Jupyter Notebooks|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|Google Meeting Recording TBA
 
 
