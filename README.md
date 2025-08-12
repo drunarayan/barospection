@@ -2,9 +2,10 @@
 taught for BRIEF Boyce Astro Foundation by Chandru Narayan
 
 
-## Course Outline
-
 ### BAROSpection - Introduction to Spectroscopy [course flyer](docs/barospection_flyer.png)
+![](barospection.png)
+
+### Students and Star Assignments
 ![](barospection.png)
 
 ### Introduction & References for using Python in Spectroscopy
