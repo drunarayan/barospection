@@ -31,7 +31,7 @@ Pat|Boyce|Polaris|pat.p4b
 Grady|Boyce|Zeta1 Lyra|grady.p4b
 Puneeth|Sethi|Kochab|puneeth.p4b
 Shalini|Sankarkumar|Alpheratz|shalini.p4b
-Ayush |Roy|P Cygnus|ayush .p4b
+Ayush |Roy|P Cygnus|ayush.p4b
 Miracle|Marcel|Altair|miracle.p4b
 Jae|Calanog|Dschubba|jae.p4b
 Girish|Bajaj|Enif|girish.p4b
@@ -45,8 +45,8 @@ Geoff|Stone|Alioth|geoff.p4b
 Karissa|Belzer|Minelauva|karissa.p4b
 Salem|Sherman|Alkaid|salem.p4b
 Yaritza|Villa|Vega|yaritza.p4b
-Ricks|Shobs|Vega|ricks.p4b
-Reed|Estrada|Vega|reed.p4b
+Ricks|Shobs|Altair|ricks.p4b
+Reed|Estrada|Zeta1 Lyra|reed.p4b
 Tom|Field|Eltanin|tom.p4b
 
 
