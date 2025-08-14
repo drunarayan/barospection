@@ -158,7 +158,7 @@ Skills we will teach includes:
 1. Pandas & Numpy (dataframes and math libraries for Python)
 
 
-We expect to run for 5 sessions ***every week starting Thursday Aug 7, 2025 ***. Look for the Google Meet schedule links to be available at the end of this page. 
+We expect to run for 5 sessions ***every week starting Friday, Aug 15th, 2025 ***. Look for the Google Meet schedule links to be available at the end of this page. 
 
 Please check this website & classroom for ALL UPDATES.  I will try not to send emails or notifications for any updates.  All materials will show up on this link below.  So please bookmark it check it frequently. 
 
