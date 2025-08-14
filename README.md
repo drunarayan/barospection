@@ -45,6 +45,8 @@ Geoff|Stone|Alioth|geoff.p4b
 Karissa|Belzer|Minelauva|karissa.p4b
 Salem|Sherman|Alkaid|salem.p4b
 Yaritza|Villa|Vega|yaritza.p4b
+Ricks|Shobs|Vega|ricks.p4b
+Reed|Estrada|Vega|reed.p4b
 Tom|Field|Eltanin|tom.p4b
 
 
