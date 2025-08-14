@@ -9,8 +9,9 @@ taught for BRIEF Boyce Astro Foundation by Chandru Narayan
 ![](docs/spectroscopy_student_assignments.png)
 
 ### Class Star Target List for Spectra and their Adjusted RA and Dec 
-Target Name|HD Number|Adj RA|Adj Dec|Magnitude|Calculated Exposure
----|---|---|---|---|---
+
+Target Name|HD Number|Adj RA|Adj Dec|Magnitude|Calculated Exposure|
+---|---|---|---|---|---|
 Rasalhague_HD_159561_Typ_A5|HD 159561|263.7891|12.5383|2.07|3.74
 Rasalgethi_HD_156014_Typ_M5|HD 156014|258.7178|14.3686|5.3|64.60
 Altair_HD_187642_Typ_A7|HD 187642|297.7506|8.8466|0.76|1.18
