@@ -8,6 +8,36 @@ taught for BRIEF Boyce Astro Foundation by Chandru Narayan
 ### Students and Star Assignments
 ![](docs/spectroscopy_student_assignments.png)
 
+### Class Star Target List for Spectra and their Adjusted RA and Dec 
+Target Name|HD Number|Adj RA|Adj Dec|Magnitude|Calculated Exposure
+---|---|---|---|---|---
+Rasalhague_HD_159561_Typ_A5|HD 159561|263.7891|12.5383|2.07|3.74
+Rasalgethi_HD_156014_Typ_M5|HD 156014|258.7178|14.3686|5.3|64.60
+Altair_HD_187642_Typ_A7|HD 187642|297.7506|8.8466|0.76|1.18
+Vega_HD_172167_Typ_A0|HD 172167|279.3041|38.7619|0.026|0.62
+Dubhe_HD_95689_Typ_K0|HD 95689|166.0462|61.7292|1.79|2.92
+Scheat_HD_217906_Typ_M2|HD 217906|346.0049|28.0610|2.42|5.09
+Mizar_HD_116656_Typ_A2|HD 116656|201.0756|54.9036|2.04|3.64
+Alcor_HD_116657_Typ_MK|HD 116657|201.4007|54.9662|3.88|18.46
+R_Lyr_HD_175865_Typ_M5|HD 175865|283.9089|43.9243|3.9|18.79
+Alpheratz_HD_358_Typ_B8_A7|HD 358|2.1588|29.0687|2.06|3.70
+Albireo_HD_183912_Typ_K2|HD 183912|292.7416|27.9379|3.21|10.22
+Albireo_HD_183913_Typ_B8|HD 183913|292.7416|27.9379|5.11|54.63
+Denebola_HD_102647_Typ_A3|HD 102647|177.3208|14.5503|2.14|3.98
+Zosma_HD_97603_Typ_A4|HD 97603|168.5849|20.5020|2.56|5.76
+Alioth_HD_112185_Typ_A1|HD 112185|193.6039|55.9380|1.77|2.87
+Minelauva_HD_112300_Typ_M3|HD 112300|193.9551|3.3757|3.32|11.26
+Arcturus_HD_124897_Typ_K1|HD 124897|213.9726|19.1606|-0.05|0.58
+P_Cyg_HD_193237_Typ_B1|HD 193237|304.5154|38.0112|4.82|42.30
+Polaris_HD_8890_Typ_F7|HD 8890|42.0407|89.2404|1.98|3.45
+Zet1_Lyr_HD_173648_Typ_kA5|HD 173648|281.2615|37.5833|4.37|28.44
+Zet2_Lyr_HD_173649_Typ_F0|HD 173649|281.2691|37.5728|5.74|95.25
+Kochab_HD_131873_Typ_K4|HD 131873|222.8743|74.1337|2.08|3.77
+Dschubba_HD_143275_Typ_B0|HD 143275|240.1420|-22.6435|1.59|2.45
+Enif_HD_206778_Typ_K2|HD 206778|326.1014|9.8532|2.37|4.87
+Alphecca_HD_139006_Typ_A0|HD 139006|233.7325|26.6929|2.24|4.34
+Eltanin_HD_164058_Typ_K5|HD 164058|269.2384|51.4671|2.23|4.30
+
 ### Introduction & References for using Python in Spectroscopy
 1. Jupyter Notebook - [Intro to Jupyter](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fbarospection&branch=gh-pages&urlpath=lab%2Ftree%2Fbarospection%2Fnotebooks%2F01_jupyter_notebooks.ipynb?reset){:target="_blank"} | [View Only](https://nbviewer.org/github/drunarayan/barospection/blob/gh-pages/notebooks/01_jupyter_notebooks.ipynb?flush_cache=true){:target="_blank"}
 1. Jupyter Notebook - [Intro to Python](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fbarospection&branch=gh-pages&urlpath=lab%2Ftree%2Fbarospection%2Fnotebooks%2F02_Python.ipynb?reset){:target="_blank"} | [View Only](https://nbviewer.org/github/drunarayan/barospection/blob/gh-pages/notebooks/02_Python.ipynb){:target="_blank"}
