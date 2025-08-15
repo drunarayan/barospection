@@ -6,7 +6,7 @@ taught for BRIEF Boyce Astro Foundation by Chandru Narayan
 ![](barospection.png)
 
 ---
-### [The Cosmic Perspective](cosmic_perspective) - please read this account written by one of my high school students
+### [A Cosmic Perspective](cosmic_perspective) - please read this account written by one of my high school students
 
 #### ***Workshop commences 6:30 PM Pacific Time Friday, Aug 15th, 2025. See below for details***
 
@@ -26,11 +26,9 @@ We expect to run for a total of 5 sessions ***every Friday starting Aug 15th, 20
 
 Please check this link below for ALL UPDATES.  I will try not to send emails or notifications for any updates.  All materials will show up on this link below.  So please bookmark it check it frequently. 
 
-[BAROspection - Intro to Spectroscopy Website](http://drunarayan.github.io/barospection)  (this site)
-
 ## What is Jupyter?
 
-If you are not familiar with [Project Jupyter](http://jupyter.org/), [Jupyter Notebook](https://jupyter.org/try-jupyter/retro/notebooks/?path=notebooks/Intro.ipynb) [JupyterLab](https://jupyter.org/try-jupyter/retro/notebooks/?path=notebooks/Intro.ipynb) or [JupyterHub](http://jupyter.org/hub), I highly recommend learning about them by following the embedded links.  
+If you are not familiar with [Project Jupyter](http://jupyter.org/), and [JupyterHub](http://jupyter.org/hub), I highly recommend learning about them by following the embedded links.  
 
 All of the content provided here are accessible to you using a combination of technologies provided by [Jupyter](http://jupyter.org/) and [Github](https://github.com/) where 83+ million researchers around the world come together to publish the share their work.  
 
