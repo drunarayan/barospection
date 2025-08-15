@@ -82,6 +82,8 @@ Salem|Sherman|Alkaid|salem.p4b
 Yaritza|Villa|Vega|yaritza.p4b
 Ricks|Shobs|Altair|ricks.p4b
 Reed|Estrada|Zeta1 Lyra|reed.p4b
+Mark|Harris|Rasalgethi|mark.p4b
+Cam|Narayan|Polaris|cam.p4b
 Tom|Field|Eltanin|tom.p4b
 
 
