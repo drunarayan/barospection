@@ -84,7 +84,7 @@ Ricks|Shobs|Altair|ricks.p4b
 Reed|Estrada|Zeta1 Lyra|reed.p4b
 Mark|Harris|Rasalgethi|mark.p4b
 Cam|Narayan|Polaris|cam.p4b
-Tom|Field|Eltanin|tom.p4b
+Tom|Field|Eltanin|tomf.p4b
 
 
 
