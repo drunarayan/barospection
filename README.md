@@ -38,7 +38,7 @@ You will be accessing your own 'virtual laptop' hosted on a Google virtual machi
 
 You will be logging into JupyterHub for getting workshop materials and creating your own Jupyter Notebooks.  Your username is simply ```<your first name>.``` followed by the word ```p4b```. For instance, my username would be ```chandru.p4b```. ***See & use the created usernames below. The first time you log in, create and type in any password you make up yourself.***  That will become your actual password for this JupyterHub - please try not to forget it.  If you do, email me at drunarayan@gmail.com, I will reset it.  Please see created usernames below.
 
-## User Names created for the Fall 2025 Class
+## User Names & Star Assignments created for the Fall 2025 Class
 
 ### Students, Star Assignments, Usernames
 
@@ -147,11 +147,9 @@ V906_Her_HD_150409_Typ_Ma|HD 150409|249.7178|48.8405|6.6|203.42
 Project|Topics|Notebook|Due Date|Partial Solution|
 ---|---|---|---|---|
 0.|Introduction to JupyterLab Markdown and Python syntax|[Intro to Jupyter](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fbarospection&branch=gh-pages&urlpath=lab%2Ftree%2Fbarospection%2Fnotebooks%2F01_jupyter_notebooks.ipynb?reset){:target="_blank"} | 8/18/25|[View Only](https://nbviewer.org/github/drunarayan/barospection/blob/gh-pages/notebooks/01_jupyter_notebooks.ipynb?flush_cache=true){:target="_blank"}
-1.|Compute Celestial Coordinates to obtain Live Spectra of Stars|[Celestial Coordinates](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fbarospection&branch=gh-pages&urlpath=lab%2Ftree%2Fbarospection%2Fnotebooks%2F02B_Celestial_Coordinates.ipynb?reset){:target="_blank"} | 8/14/25|[View Only](https://nbviewer.org/github/drunarayan/barospection/blob/gh-pages/notebooks/02B_Celestial_Coordinates.ipynb){:target="_blank"}
-2.| Introduction to JupyterLab Markdown and Python syntax|[Intro to Jupyter](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fbarospection&branch=gh-pages&urlpath=lab%2Ftree%2Fbarospection%2Fnotebooks%2F01_jupyter_notebooks.ipynb?reset){:target="_blank"} | 8/18/25|[View Only](https://nbviewer.org/github/drunarayan/barospection/blob/gh-pages/notebooks/01_jupyter_notebooks.ipynb?flush_cache=true){:target="_blank"}
-3.|Introduction to coding Python inside JupyterLab|[Intro to Python](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fbarospection&branch=gh-pages&urlpath=lab%2Ftree%2Fbarospection%2Fnotebooks%2F02_Python.ipynb?reset){:target="_blank"} |8/18/25 |[View Only](https://nbviewer.org/github/drunarayan/barospection/blob/gh-pages/notebooks/02_Python.ipynb){:target="_blank"}
-
-1. Jupyter Notebook - [Intro to Python](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fbarospection&branch=gh-pages&urlpath=lab%2Ftree%2Fbarospection%2Fnotebooks%2F02C_Python.ipynb?reset){:target="_blank"} | [View Only](https://nbviewer.org/github/drunarayan/barospection/blob/gh-pages/notebooks/02C_Python.ipynb){:target="_blank"}
+1.|Introduction to coding Python inside JupyterLab|[Intro to Python Part 1](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fbarospection&branch=gh-pages&urlpath=lab%2Ftree%2Fbarospection%2Fnotebooks%2F02_Python.ipynb?reset){:target="_blank"} |8/18/25 |[View Only](https://nbviewer.org/github/drunarayan/barospection/blob/gh-pages/notebooks/02_Python.ipynb){:target="_blank"}
+2.|Compute Celestial Coordinates to obtain Live Spectra of Stars|[Celestial Coordinates](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fbarospection&branch=gh-pages&urlpath=lab%2Ftree%2Fbarospection%2Fnotebooks%2F02B_Celestial_Coordinates.ipynb?reset){:target="_blank"} | 8/18/25|[View Only](https://nbviewer.org/github/drunarayan/barospection/blob/gh-pages/notebooks/02B_Celestial_Coordinates.ipynb){:target="_blank"}
+3.|More Advanced topics in Python|[Intro to Python Part 2](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fbarospection&branch=gh-pages&urlpath=lab%2Ftree%2Fbarospection%2Fnotebooks%2F02C_Python.ipynb?reset){:target="_blank"} | None. For reference and help only|[View Only](https://nbviewer.org/github/drunarayan/barospection/blob/gh-pages/notebooks/02C_Python.ipynb){:target="_blank"}
 1. Jupyter Notebook - [Intro to Numpy](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fbarospection&branch=gh-pages&urlpath=lab%2Ftree%2Fbarospection%2Fnotebooks%2F03_numpy.ipynb?reset){:target="_blank"} | [View Only](https://nbviewer.org/github/drunarayan/barospection/blob/gh-pages/notebooks/03_numpy.ipynb){:target="_blank"}
 1. Jupyter Notebook - [Intro to Visualization](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fbarospection&branch=gh-pages&urlpath=lab%2Ftree%2Fbarospection%2Fnotebooks%2F04_Visualization.ipynb?reset){:target="_blank"} | [View Only](https://nbviewer.org/github/drunarayan/barospection/blob/gh-pages/notebooks/04_Visualization.ipynb){:target="_blank"}
 
@@ -201,24 +199,6 @@ Project|Topics|Notebook|Due Date|Partial Solution|
 1. Publish yoiur results in a Jupyter Notebook
 1. Post examples to [RSpec website](https://rspec-astro.com/)
 
-### ***Workshop commences 7:00 PM Pacific Time Fri, Aug 15, 2025 for 5 weekly sessions. See below for details***
-
-In this workshop we will cover introductory and historically significant Spectroscopy topics.  We will not only learn the basics of Spectroscopy, we will also use the Boyce Astro BARO telescope to obtain spectra. Then we will analyze the spectra using [RSpec Software](https://rspec-astro.com/). 
-
-We will attempt to develop research skills primarily on Spectroscopy related topics as you clearly are astro enthusiasts!  The primary audience for this course are High School, College students, or Early Career professionals. We also care about accessibility of these resources across student communities who may be underrepresented and of a diverse socio economic background. We hope to keep these resources free and open for use as much as possible to anyone who may be interested.  
-
-Skills we will teach includes:
-1. JupyterLab (dev environment for Jupyter Notebooks adopted widely by universities - logins for each student will be provided)
-1. Markdown Syntax (dynamic text, images, video and code embedded publishing)
-1. LaTeX (web and github enables equation editor for research)
-1. Python (language of choice for data science and STEM publications)
-1. Matplotlib (plotting large amounts of data)
-1. Pandas & Numpy (dataframes and math libraries for Python)
-
-
-We expect to run for 5 sessions ***every week starting Friday, Aug 15th, 2025 ***. Look for the Google Meet schedule links to be available at the end of this page. 
-
-Please check this website & classroom for ALL UPDATES.  I will try not to send emails or notifications for any updates.  All materials will show up on this link below.  So please bookmark it check it frequently. 
 
 ## Workshop Meeting and Recording Links 
 
