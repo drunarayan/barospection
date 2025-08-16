@@ -48,7 +48,7 @@ First|Last|Assigned Star|username
 Anisha|Bajaj|Altair|anisha.p4b
 Louis|Petersen|Vega|louis.p4b
 Dhruv|Mehrotra|Dubhe|dhruv.p4b
-Kripita|Srivatsava|Scheat|kripita.p4b
+Kripita|Srivatsava|Alioth|kripita.p4b
 Jacob|John|Mizar|jacob.p4b
 Maya|McGreevy|R Lyra|maya.p4b
 Pranav|Muthukumaran|Rasalgethi|pranav.p4b
@@ -109,6 +109,7 @@ When you do so, it will make your own initial copy to your JupyterHub account an
 
 Target Name|HD Number|Adj RA|Adj Dec|Magnitude|Calculated Exposure|
 ---|---|---|---|---|---|
+Rasalhague_HD_159561_Typ_A5|HD 159561|263.7891|12.5383|2.07|3.74
 Rasalgethi_HD_156014_Typ_M5|HD 156014|258.7178|14.3686|5.3|64.60
 Altair_HD_187642_Typ_A7|HD 187642|297.7506|8.8466|0.76|1.18
 Vega_HD_172167_Typ_A0|HD 172167|279.3041|38.7619|0.026|0.62
@@ -117,7 +118,6 @@ Scheat_HD_217906_Typ_M2|HD 217906|346.0049|28.0610|2.42|5.09
 Mizar_HD_116656_Typ_A2|HD 116656|201.0756|54.9036|2.04|3.64
 Alcor_HD_116657_Typ_MK|HD 116657|201.4007|54.9662|3.88|18.46
 R_Lyr_HD_175865_Typ_M5|HD 175865|283.9089|43.9243|3.9|18.79
-HD_142145_HD142145_Typ_K0|HD142145|238.3549|-7.6771|7.45|430.62
 Alpheratz_HD_358_Typ_B8_A7|HD 358|2.1588|29.0687|2.06|3.70
 Albireo_HD_183912_Typ_K2|HD 183912|292.7416|27.9379|3.21|10.22
 Albireo_HD_183913_Typ_B8|HD 183913|292.7416|27.9379|5.11|54.63
@@ -142,6 +142,10 @@ VZ_Cam_HD_55966_Typ_M4|HD 55966|113.1773|82.3895|4.92|46.20
 Erakis_HD_206936_Typ_M2|HD 206936|325.9813|58.7582|4.08|22.02
 42_Her_HD_150450_Typ_M2|HD 150450|249.7692|48.9066|4.86|43.82
 V906_Her_HD_150409_Typ_Ma|HD 150409|249.7178|48.8405|6.6|203.42
+3C273_Quasar_3C273_Typ_Qu|Quasar_3C273|187.3321|2.0306|12.9|52772.22
+Neptune_Neptune_Typ_Pl|Neptune|0.1331|-1.3658|7.8|586.41
+Saturn_Saturn_Typ_Pl|Saturn|1.6737|-1.9659|0.99|1.44
+Uranus_Uranus_Typ_Pl|Uranus|52.5611|18.6892|5.75|96.09
 
 
 ### Python for Spectroscopy Course Content Notebooks & Assignments
