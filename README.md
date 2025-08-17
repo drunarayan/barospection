@@ -13,11 +13,10 @@ taught for BRIEF Boyce Astro Foundation by Chandru Narayan
 
 
 ### NEWS - READ THIS SECTION BELOW FOR UPDATES EACH TIME!
-#### Aug 17th: Migration to Slack Channel for all future communications! 
-Thank you for participating in the introduction and imaging session we held on Friday last.  Our next 2 sessions for the upcoming week are scheduled for Thursday Aug 21 & Friday Aug 22, details of which you can obtain at the end of this website. I would like for each of you join the slack channel, please say hello to your fellow students by posting something about yourself there as soon as you join in the slack channel, In addition, I want you to write a single paragraph of at least 5 lines about something that peaked your interest about your assigned star, especially as it relates to spectroscopy, star type, temperature color etc.  Historical notes (discoverer, specific star events since its discovery) are also welcome and important for fully understanding the importance of Spectroscopy to Astronomy and other sciences we will study in this course. To do this properly, please study your star carefully from the wikipedia and other related references. 
+- Aug 17th: [Migration to Slack Channel for all future communications!](news/aug17) 
+- Aug 15th: [Workshop commences 6:30 PM Pacific Time Friday, Aug 15th, 2025. See below for full details](#workshop-meeting-and-recording-links)
+- Aug 10th: [A Cosmic Perspective](cosmic_perspective) - please read this account written by one of my high school students
 
-#### ***Workshop commences 6:30 PM Pacific Time Friday, Aug 15th, 2025. See full below for details***
-### [A Cosmic Perspective](cosmic_perspective) - please read this account written by one of my high school students
 Our workshop will cover a smattering of interesting or historically significant Spectroscopy topics in no particular sequence.  However, the main goal of this course is to teach critical college and research skills that you will need as a student & professional. We will attempt to develop these skills primarily on Spectroscopy related topics as you clearly are astro enthusiasts!  The primary audience for this course are High/Middle School, College students, or Early Career professionals. We also care about accessibility of these resources across student communities who may be underrepresented and of a diverse socio economic background. We hope to keep these resources free and open for use as much as possible to anyone who may be interested.  Please contact me at drunarayan@gmail.com if you would like to learn more about this course.
 
 Skills we will teach include:
@@ -87,7 +86,7 @@ Rishwanth|Babu|Rasalhague|rishwanth.p4b|<span style="color:red;">pending</span>
 Priyanka|Sindhu|Zosma|priyanka.p4b|current
 Geoff|Stone|Alioth|geoff.p4b|current
 Karissa|Belzer|Minelauva|karissa.p4b|current
-Salem|Sherman|Alkaid|salem.p4b|dropped
+Salem|Sherman|Alkaid|salem.p4b||<span style="color:red;">dropped</span>
 Yaritza|Villa|Vega|yaritza.p4b|<span style="color:red;">pending</span>
 Ricks|Shobs|Altair|ricks.p4b|current
 Reed|Estrada|Zeta1 Lyra|reed.p4b|current
