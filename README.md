@@ -11,6 +11,7 @@ taught for BRIEF Boyce Astro Foundation by Chandru Narayan
 
 
 ### NEWS - READ THIS SECTION BELOW FOR UPDATES EACH TIME!
+- Aug 17th: [Video of Aug 15 Friday sessions](#workshop-meeting-and-recording-links) and [Course Assignments](#python-for-spectroscopy-course-content-notebooks--assignments) posted!
 - Aug 17th: [Migration to Slack Channel for all future communications!](news/aug17) 
 - Aug 15th: [Workshop commences 6:30 PM Pacific Time Friday, Aug 15th, 2025. See below for full details](#workshop-meeting-and-recording-links)
 - Aug 10th: [A Cosmic Perspective](cosmic_perspective) - please read this account written by one of my high school students
