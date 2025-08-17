@@ -46,7 +46,7 @@ You will be logging into JupyterHub for getting workshop materials and creating 
 
 ## User Names & Star Assignments created for the Fall 2025 Class
 
-### Students, Star Assignments, Usernames, Staus
+### Students, Star Assignments, Usernames, Status
 if your status shows <span style="color:red;">pending</span> you did not start the course and you will need to contact me by email drunarayan@gmail.com to continue in the workshop. 
 
 
@@ -93,7 +93,6 @@ Mark|Harris|Rasalgethi|mark.p4b|<span style="color:red;">pending</span>
 Cam|Narayan|Polaris|cam.p4b|<span style="color:red;">pending</span>
 Tom|Field|Eltanin|tomf.p4b|current
 
-Target Name|HD Number|A
 
 ## Workshop organization & JupyterLab - your own virtual laptop in the sky!
 
@@ -112,7 +111,7 @@ When you do so, it will make your own initial copy to your JupyterHub account an
 * Complete ```Project 0.2: First Login to JupyterHub  - What is JupyterLab - Jupyter Notebooks - Learn Basics``` should be available for you to create your first lines of code in Python for this class.  I encourage you to click the first project below, ***login with your username and password as identified in the previous paragraphs***. See if you can complete this ahead of our first session!
 
 
-### Class Star Target List for Spectra and their Adjusted RA and Dec 
+### Class Star Target List for Spectra, Adjusted RA/Dec and Imaging Status 
 
 Target Name|HD Number|Adj RA|Adj Dec|Magnitude|Calculated Exposure|Status
 ---|---|---|---|---|---|---
