@@ -85,7 +85,7 @@ Rishwanth|Babu|Rasalhague|rishwanth.p4b|<span style="color:red;">pending</span>
 Priyanka|Sindhu|Zosma|priyanka.p4b|current
 Geoff|Stone|Alioth|geoff.p4b|current
 Karissa|Belzer|Minelauva|karissa.p4b|current
-Salem|Sherman|Alkaid|salem.p4b||<span style="color:red;">dropped</span>
+Salem|Sherman|Alkaid|salem.p4b|<span style="color:red;">dropped</span>
 Yaritza|Villa|Vega|yaritza.p4b|<span style="color:red;">pending</span>
 Ricks|Shobs|Altair|ricks.p4b|current
 Reed|Estrada|Zeta1 Lyra|reed.p4b|current
