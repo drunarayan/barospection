@@ -4,12 +4,20 @@ taught for BRIEF Boyce Astro Foundation by Chandru Narayan
 
 ### BAROSpection - Introduction to Spectroscopy [course flyer](docs/barospection_flyer.png)
 ![](barospection.png)
-
+#### *last updated Aug 17th*
 ---
+
+### [SLACK CHANNEL FOR ALL COMMUNICATIONS](https://briefprograms.slack.com/archives/C0918TX0SVC)! - Please look here for Q&A
+
+
+
+
+### NEWS - READ THIS SECTION BELOW FOR UPDATES EACH TIME!
+#### Aug 17th: Migration to Slack Channel for all future communications! 
+Thank you for participating in the introduction and imaging session we held on Friday last.  Our next 2 sessions for the upcoming week are scheduled for Thursday Aug 21 & Friday Aug 22, details of which you can obtain at the end of this website. I would like for each of you join the slack channel, please say hello to your fellow students by posting something about yourself there as soon as you join in the slack channel, In addition, I want you to write a single paragraph of at least 5 lines about something that peaked your interest about your assigned star, especially as it relates to spectroscopy, star type, temperature color etc.  Historical notes (discoverer, specific star events since its discovery) are also welcome and important for fully understanding the importance of Spectroscopy to Astronomy and other sciences we will study in this course. To do this properly, please study your star carefully from the wikipedia and other related references. 
+
+#### ***Workshop commences 6:30 PM Pacific Time Friday, Aug 15th, 2025. See full below for details***
 ### [A Cosmic Perspective](cosmic_perspective) - please read this account written by one of my high school students
-
-#### ***Workshop commences 6:30 PM Pacific Time Friday, Aug 15th, 2025. See below for details***
-
 Our workshop will cover a smattering of interesting or historically significant Spectroscopy topics in no particular sequence.  However, the main goal of this course is to teach critical college and research skills that you will need as a student & professional. We will attempt to develop these skills primarily on Spectroscopy related topics as you clearly are astro enthusiasts!  The primary audience for this course are High/Middle School, College students, or Early Career professionals. We also care about accessibility of these resources across student communities who may be underrepresented and of a diverse socio economic background. We hope to keep these resources free and open for use as much as possible to anyone who may be interested.  Please contact me at drunarayan@gmail.com if you would like to learn more about this course.
 
 Skills we will teach include:
@@ -40,52 +48,52 @@ You will be logging into JupyterHub for getting workshop materials and creating 
 
 ## User Names & Star Assignments created for the Fall 2025 Class
 
-### Students, Star Assignments, Usernames
+### Students, Star Assignments, Usernames, Staus
+if your status shows <span style="color:red;">pending</span> you did not start the course and you will need to contact me by email drunarayan@gmail.com to continue in the workshop. 
 
 
-First|Last|Assigned Star|username
----|---|---|---|
-Anisha|Bajaj|Altair|anisha.p4b
-Louis|Petersen|Vega|louis.p4b
-Dhruv|Mehrotra|Dubhe|dhruv.p4b
-Kripita|Srivatsava|Alioth|kripita.p4b
-Jacob|John|Mizar|jacob.p4b
-Maya|McGreevy|R Lyra|maya.p4b
-Pranav|Muthukumaran|Rasalgethi|pranav.p4b
-Abbas|Mokhtarzadeh|Alcor|abbas.p4b
-Nicholas|Bettwy|Alpheratz|nicholas.p4b
-Heinz|Valbruch|Albireo A|heinz.p4b
-Adam|Brown|R Lyra|adam.p4b
-Ahmad|Naeem|Zosma|ahmad.p4b
-Richard |Jaworski|Alioth|richard .p4b
-Ronald|Lawrence|Minelauva|ronald.p4b
-Christopher|Rowe|Arcturus|christopher.p4b
-Dave|Dobrotka|Rasalhague|dave.p4b
-Tom|Smith|P Cygnus|tom.p4b
-Pat|Boyce|Polaris|pat.p4b
-Grady|Boyce|Zeta1 Lyra|grady.p4b
-Puneeth|Sethi|Kochab|puneeth.p4b
-Shalini|Sankarkumar|Alpheratz|shalini.p4b
-Ayush |Roy|P Cygnus|ayush.p4b
-Miracle|Marcel|Altair|miracle.p4b
-Jae|Calanog|Dschubba|jae.p4b
-Girish|Bajaj|Enif|girish.p4b
-John|Petersen|Alphecca|john.p4b
-Sumit|Mehrotra|Alkaid|sumit.p4b
-Demis|John|Mizar|demis.p4b
-Rajaabarami|Rajakumar|Zeta1 Lyra|rajaabarami.p4b
-Rishwanth|Babu|Rasalhague|rishwanth.p4b
-Priyanka|Sindhu|Zosma|priyanka.p4b
-Geoff|Stone|Alioth|geoff.p4b
-Karissa|Belzer|Minelauva|karissa.p4b
-Salem|Sherman|Alkaid|salem.p4b
-Yaritza|Villa|Vega|yaritza.p4b
-Ricks|Shobs|Altair|ricks.p4b
-Reed|Estrada|Zeta1 Lyra|reed.p4b
-Mark|Harris|Rasalgethi|mark.p4b
-Cam|Narayan|Polaris|cam.p4b
-Tom|Field|Eltanin|tomf.p4b
-
+First|Last|Assigned Star|username|status
+---|---|---|---|---|
+Anisha|Bajaj|Altair|anisha.p4b|current
+Louis|Petersen|Vega|louis.p4b|current
+Dhruv|Mehrotra|Dubhe|dhruv.p4b|current
+Kripita|Srivatsava|Alioth|kripita.p4b|current
+Jacob|John|Mizar|jacob.p4b|<span style="color:red;">pending</span>
+Maya|McGreevy|R Lyra|maya.p4b|current
+Pranav|Muthukumaran|Rasalgethi|pranav.p4b|<span style="color:red;">pending</span>
+Abbas|Mokhtarzadeh|Alcor|abbas.p4b|current
+Nicholas|Bettwy|Alpheratz|nicholas.p4b|current
+Heinz|Valbruch|Albireo A|heinz.p4b|current
+Adam|Brown|R Lyra|adam.p4b|current
+Ahmad|Naeem|Zosma|ahmad.p4b|current
+Richard |Jaworski|Alioth|richard.p4b|current
+Ronald|Lawrence|Minelauva|ronald.p4b|current
+Christopher|Rowe|Arcturus|christopher.p4b|current
+Dave|Dobrotka|Rasalhague|dave.p4b|<span style="color:red;">pending</span>
+Tom|Smith|P Cygnus|tom.p4b|current
+Pat|Boyce|Polaris|pat.p4b|current
+Grady|Boyce|Zeta1 Lyra|grady.p4b|<span style="color:red;">pending</span>
+Puneeth|Sethi|Kochab|puneeth.p4b|current
+Shalini|Sankarkumar|Alpheratz|shalini.p4b|current
+Ayush |Roy|P Cygnus|ayush.p4b|<span style="color:red;">pending</span>
+Miracle|Marcel|Altair|miracle.p4b|<span style="color:red;">pending</span>
+Jae|Calanog|Dschubba|jae.p4b|current
+Girish|Bajaj|Enif|girish.p4b|current
+John|Petersen|Alphecca|john.p4b|current
+Sumit|Mehrotra|Alkaid|sumit.p4b|current
+Demis|John|Mizar|demis.p4b|current
+Rajaabarami|Rajakumar|Zeta1 Lyra|rajaabarami.p4b|current
+Rishwanth|Babu|Rasalhague|rishwanth.p4b|<span style="color:red;">pending</span>
+Priyanka|Sindhu|Zosma|priyanka.p4b|current
+Geoff|Stone|Alioth|geoff.p4b|current
+Karissa|Belzer|Minelauva|karissa.p4b|current
+Salem|Sherman|Alkaid|salem.p4b|dropped
+Yaritza|Villa|Vega|yaritza.p4b|<span style="color:red;">pending</span>
+Ricks|Shobs|Altair|ricks.p4b|current
+Reed|Estrada|Zeta1 Lyra|reed.p4b|current
+Mark|Harris|Rasalgethi|mark.p4b|<span style="color:red;">pending</span>
+Cam|Narayan|Polaris|cam.p4b|<span style="color:red;">pending</span>
+Tom|Field|Eltanin|tomf.p4b|current
 
 
 ## Workshop organization & JupyterLab - your own virtual laptop in the sky!
