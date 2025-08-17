@@ -108,7 +108,7 @@ When you do so, it will make your own initial copy to your JupyterHub account an
 #### Please complete these steps including ``Project 0`` ahead of the first session
 
 * [Access Online OpenStax Astronomy Textbook here](https://openstax.org/books/astronomy-2e/pages/1-introduction)
-* Complete ```Project 0.2: First Login to JupyterHub  - What is JupyterLab - Jupyter Notebooks - Learn Basics``` should be available for you to create your first lines of code in Python for this class.  I encourage you to click the first project below, ***login with your username and password as identified in the previous paragraphs***. See if you can complete this ahead of our first session!
+* Complete ```Project 0-3: First Login to Jupyter & Slack and other introductory assignments``` which should be available for you to create your first lines of code in Markdown & Python for this class.  I encourage you to click each of the Project 0-3 Notebooks below, ***login with your username and password as identified in the previous paragraphs***. See if you can complete these ahead of our first 2 introductory sessions!
 
 
 ### Class Star Target List for Spectra, Adjusted RA/Dec and Imaging Status 
