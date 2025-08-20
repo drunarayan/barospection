@@ -4,7 +4,7 @@ taught for BRIEF Boyce Astro Foundation by Chandru Narayan
 
 ### BAROSpection - Introduction to Spectroscopy [course flyer](docs/barospection_flyer.png)
 ![](barospection.png)
-#### *last updated Aug 17th*
+#### *last updated Aug 20th*
 ---
 
 ### [SLACK CHANNEL FOR ALL COMMUNICATIONS](https://briefprograms.slack.com/archives/C0918TX0SVC)! - Please look here for Q&A
