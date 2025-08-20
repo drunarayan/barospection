@@ -60,7 +60,7 @@ Anisha|Bajaj|Altair|anisha.p4b|current
 Louis|Petersen|Vega|louis.p4b|current
 Dhruv|Mehrotra|Dubhe|dhruv.p4b|current
 Kripita|Srivatsava|Alioth|kripita.p4b|current
-Jacob|John|Mizar|jacob.p4b|<span style="color:red;">pending</span>
+Jacob|John|Mizar|jacob.p4b|current
 Maya|McGreevy|R Lyra|maya.p4b|current
 Pranav|Muthukumaran|Rasalgethi|pranav.p4b|<span style="color:red;">pending</span>
 Abbas|Mokhtarzadeh|Alcor|abbas.p4b|current
