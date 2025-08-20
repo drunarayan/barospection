@@ -71,7 +71,7 @@ Ahmad|Naeem|Zosma|ahmad.p4b|current
 Richard |Jaworski|Alioth|richard.p4b|current
 Ronald|Lawrence|Minelauva|ronald.p4b|current
 Christopher|Rowe|Arcturus|christopher.p4b|current
-Dave|Dobrotka|Rasalhague|dave.p4b|<span style="color:red;">pending</span>
+Dave|Dobrotka|Rasalhague|dave.p4b|current
 Tom|Smith|P Cygnus|tom.p4b|current
 Pat|Boyce|Polaris|pat.p4b|current
 Grady|Boyce|Zeta1 Lyra|grady.p4b|<span style="color:red;">pending</span>
