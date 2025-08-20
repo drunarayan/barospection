@@ -11,10 +11,14 @@ taught for BRIEF Boyce Astro Foundation by Chandru Narayan
 
 
 ### NEWS - READ THIS SECTION BELOW FOR UPDATES EACH TIME!
+- Aug 19th: [Dropbox folder with all images captured on Aug 15th](#workshop-meeting-and-recording-links)
+- Aug 10th: [A Cosmic Perspective](cosmic_perspective) - please read this account written by one of my high school students
 - Aug 17th: [Video of Aug 15 Friday sessions](#workshop-meeting-and-recording-links) and [Course Assignments](#python-for-spectroscopy-course-content-notebooks--assignments) posted!
 - Aug 17th: [Migration to Slack Channel for all future communications!](news/aug17) 
 - Aug 15th: [Workshop commences 6:30 PM Pacific Time Friday, Aug 15th, 2025. See below for full details](#workshop-meeting-and-recording-links)
 - Aug 10th: [A Cosmic Perspective](cosmic_perspective) - please read this account written by one of my high school students
+
+
 
 Our workshop will cover a smattering of interesting or historically significant Spectroscopy topics in no particular sequence.  However, the main goal of this course is to teach critical college and research skills that you will need as a student & professional. We will attempt to develop these skills primarily on Spectroscopy related topics as you clearly are astro enthusiasts!  The primary audience for this course are High/Middle School, College students, or Early Career professionals. We also care about accessibility of these resources across student communities who may be underrepresented and of a diverse socio economic background. We hope to keep these resources free and open for use as much as possible to anyone who may be interested.  Please contact me at drunarayan@gmail.com if you would like to learn more about this course.
 
@@ -110,6 +114,15 @@ When you do so, it will make your own initial copy to your JupyterHub account an
 * [Access Online OpenStax Astronomy Textbook here](https://openstax.org/books/astronomy-2e/pages/1-introduction)
 * Complete ```Project 0-3: First Login to Jupyter & Slack and other introductory assignments``` which should be available for you to create your first lines of code in Markdown & Python for this class.  I encourage you to click each of the Project 0-3 Notebooks below, ***login with your username and password as identified in the previous paragraphs***. See if you can complete these ahead of our first 2 introductory sessions!
 
+## Dropbox link and instructions for access to Spectral Images
+
+### [Click Dropbox Link here for access to Images](https://www.dropbox.com/scl/fo/hvf0pk8xs5x4f0lrquvkl/ALFW_pY5oaAEs4Xi_Kv9WlA?rlkey=tyyn7sl0gpr224h9983qqsvuh&st=j7o9hmzq&dl=0)
+1. You do not need a Dropbox accout to access images!
+1. Click the link above. It will open in your default browser.
+
+1. First click down to the "Images" Folder. In the Browser. You will have choices to download
+    1. Click down to your "star folder" under "Images" folder. Then Download your specific "Star" folder or some other "Star" folder. You will get a zip file which you can extract on your system.
+    1. Download the entire "Images" Folder.  You will get a zip file which you can extract on your system. Be warned - this is several GB and wmight take a very long time. Although we may not exceed this limit, Dropbox will prevent you from downloading more than 20GB
 
 ### Class Star Target List for Spectra, Adjusted RA/Dec and Imaging Status 
 
