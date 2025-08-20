@@ -1,0 +1,7 @@
+Hello class! I'm a U.S. Space Force enlisted veteran, but I currently work as a Space Systems Engineer at Eglin AFB in Florida. I'm originally from the Philadelphia area in Pennsylvania, and I hope to eventually move out to Colorado in a few years. I'm currently working on my M.S. in Space Systems at Embry-Riddle Aeronautical University. For work, I test new programs and upgrades aimed for use by the Department of Defense. This includes telescopes, radar systems, space-based systems, software, and more. I found myself thrown into space when I enlisted, asking for an ASAP training date, back in 2020 and I've only become more invested. I can't wait to work more with it in class!
+
+
+Onto my star, Minelauva, it's a M3 III red giant. An interesting note I found about it was how its atmosphere is 67 times the radius of our Sun, but it only has 1.19x the Sun's mass in comparison. Minelauva, or Delta Virginis, is part of the semiregular variables. This means that has multiple periods of pulsation where the brightness varies from magnitude +3.32 to +3.40. Historically, its name was officially recognized just 8 years ago. I found this interesting because it's a naked-eye star and it's part of the largest zodiac constellation, Virgo. I've attached an image of the star in its constellation, and an image of a light curve collected that depicts how it pulsates.
+
+![](https://briefprograms.slack.com/files/U02ACL9LK62/F09AK288T8F/deltavirlightcurve.png)
+![](https://briefprograms.slack.com/files/U09BQ1KH3HN/F09AK282F63/y-of-virgo.webp)
