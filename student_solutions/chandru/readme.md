@@ -1,4 +1,4 @@
-### Chandru Narayan
+## Chandru Narayan
 
 My name is Chandru Narayan. I came to the US in 1984 to do my MAsters in Mechanical Engineering. My research are was in Solar Engineering investigating Phase Change Industrial space heating systems. I was on a full scholarship from DuPont Corporation for this research work. I did my Masters at Clemson University, South Carolina. M published my research as a paper in the Solar Enineering Journal in 1985.  
 
@@ -9,3 +9,5 @@ After 10 years, I took on an assignment with Boeing and then Siemens and Crane A
 My young students work on advanced topics in citizen science, learn computing & data science and publish their work in journals.  Two of my students have won comprtitions and earned $80k scholarships for college.  I take students to Mt Wilson each year for research work in various Astronomy topics.
 
 ### [My linkedin site is here](https://www.linkedin.com/in/chandrunarayan/)
+
+### [My solution for Hand Compute Celestial Coordinates](soln_00_hand_compute_cc.ipynb)
