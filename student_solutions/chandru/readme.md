@@ -1,6 +1,6 @@
 ## Chandru Narayan
 
-My name is Chandru Narayan. I came to the US in 1984 to do my MAsters in Mechanical Engineering. My research are was in Solar Engineering investigating Phase Change Industrial space heating systems. I was on a full scholarship from DuPont Corporation for this research work. I did my Masters at Clemson University, South Carolina. M published my research as a paper in the Solar Enineering Journal in 1985.  
+My name is Chandru Narayan. I came to the US in 1984 to do my Masters in Mechanical Engineering. My research are was in Solar Engineering investigating Phase Change Industrial space heating systems. I was on a full scholarship from DuPont Corporation for this research work. I did my Masters at Clemson University, South Carolina. M published my research as a paper in the Solar Enineering Journal in 1985.  
 
 My first job was at General Motors in Warren Michigan at their research labs.  I designed and implemented real time software to test automobile engines on huge dynamometers. I wrote interruptible real-time software to drive the dynamometers on multi-week long cycles to test engine components and parameters like valves, crank shaft, emissions etc.
 
@@ -10,4 +10,4 @@ My young students work on advanced topics in citizen science, learn computing & 
 
 ### [My linkedin site is here](https://www.linkedin.com/in/chandrunarayan/)
 
-### [My solution for Hand Compute Celestial Coordinates](soln_00_hand_compute_cc.ipynb)
+### [My solution for Hand Compute Celestial Coordinates](https://nbviewer.org/github/drunarayan/barospection/blob/gh-pages/student_solutions/chandru/soln_00_hand_compute_cc.ipynb?flush_cache=true)
