@@ -86,7 +86,7 @@ Sumit|Mehrotra|Alkaid|sumit.p4b|current
 Demis|John|Mizar|demis.p4b|current
 Rajaabarami|Rajakumar|Zeta1 Lyra|rajaabarami.p4b|current
 Rishwanth|Babu|Rasalhague|rishwanth.p4b|<span style="color:red;">pending</span>
-Priyanka|Sindhu|<span style="color:red;"><del>Zosma</del></span> <ins>h Uma</ins></ins>|priyanka.p4b|current
+Priyanka|Sindhu|<span style="color:red;"><del>Zosma</del></span> <ins>h Uma</ins>|priyanka.p4b|current
 Geoff|Stone|Alioth|geoff.p4b|current
 Pranav|Muthukumaran|Rasalgethi|pranav.p4b|<span style="color:red;">pending</span>
 Karissa|Belzer|<span style="color:red;"><del>Minelauva</del></span><ins> Rasalgethi</ins>|karissa.p4b|current
