@@ -11,7 +11,7 @@ taught for BRIEF Boyce Astro Foundation by Chandru Narayan
 
 
 ### NEWS - READ THIS SECTION BELOW FOR UPDATES EACH TIME!
-- Aug 21st: [2nd round of Imaging Spectra. See here for details!](./news/aug21/readme.md)
+- Aug 21st: [2nd round of imaging Spectra. See here for details!](./news/aug21/readme.md)
 - Aug 20th: [Student Contributions added!](student_solutions/readme.md) Also added a new [OPTIONAL Session on September 4th where Dr. Demis John will talk to us about Photonics!](#workshop-meeting-and-recording-links)  Please make every effort to attend!
 - Aug 19th: [Dropbox folder with all images captured on Aug 15th](#dropbox-link-and-instructions-for-access-to-spectral-images)
 - Aug 17th: [Video of Aug 15 Friday sessions](#workshop-meeting-and-recording-links) and [Course Assignments](#python-for-spectroscopy-course-content-notebooks--assignments) posted!
