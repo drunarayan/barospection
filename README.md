@@ -11,6 +11,7 @@ taught for BRIEF Boyce Astro Foundation by Chandru Narayan
 
 
 ### NEWS - READ THIS SECTION BELOW FOR UPDATES EACH TIME!
+- Aug 21st: [2nd round of Imaging Spectra. See here for details!](./news/aug21/readme.md)
 - Aug 20th: [Student Contributions added!](student_solutions/readme.md) Also added a new [OPTIONAL Session on September 4th where Dr. Demis John will talk to us about Photonics!](#workshop-meeting-and-recording-links)  Please make every effort to attend!
 - Aug 19th: [Dropbox folder with all images captured on Aug 15th](#dropbox-link-and-instructions-for-access-to-spectral-images)
 - Aug 17th: [Video of Aug 15 Friday sessions](#workshop-meeting-and-recording-links) and [Course Assignments](#python-for-spectroscopy-course-content-notebooks--assignments) posted!
@@ -53,7 +54,6 @@ You will be logging into JupyterHub for getting workshop materials and creating 
 ### Students, Star Assignments, Usernames, Status
 if your status shows <span style="color:red;">pending</span> you did not start the course and you will need to contact me by email drunarayan@gmail.com to continue in the workshop. 
 
-
 First|Last|Assigned Star|username|status
 ---|---|---|---|---|
 Anisha|Bajaj|Altair|anisha.p4b|current
@@ -67,9 +67,9 @@ Abbas|Mokhtarzadeh|Alcor|abbas.p4b|current
 Nicholas|Bettwy|Alpheratz|nicholas.p4b|current
 Heinz|Valbruch|Albireo A|heinz.p4b|current
 Adam|Brown|R Lyra|adam.p4b|current
-Ahmad|Naeem|Zosma|ahmad.p4b|current
+Ahmad|Naeem|<span style="color:red;"><del>Zosma</del></span> <ins>h Uma</ins>|ahmad.p4b|current
 Richard |Jaworski|Alioth|richard.p4b|current
-Ronald|Lawrence|Minelauva|ronald.p4b|current
+Ronald|Lawrence|<span style="color:red;"><del>Minelauva</del></span> <ins>Polaris|ronald.p4b|current
 Christopher|Rowe|Arcturus|christopher.p4b|current
 Dave|Dobrotka|Rasalhague|dave.p4b|current
 Tom|Smith|P Cygnus|tom.p4b|current
@@ -86,9 +86,10 @@ Sumit|Mehrotra|Alkaid|sumit.p4b|current
 Demis|John|Mizar|demis.p4b|current
 Rajaabarami|Rajakumar|Zeta1 Lyra|rajaabarami.p4b|current
 Rishwanth|Babu|Rasalhague|rishwanth.p4b|<span style="color:red;">pending</span>
-Priyanka|Sindhu|Zosma|priyanka.p4b|current
+Priyanka|Sindhu|<span style="color:red;"><del>Zosma</del></span> <ins>h Uma</ins></ins>|priyanka.p4b|current
 Geoff|Stone|Alioth|geoff.p4b|current
-Karissa|Belzer|Minelauva|karissa.p4b|current
+Pranav|Muthukumaran|Rasalgethi|pranav.p4b|<span style="color:red;">pending</span>
+Karissa|Belzer|<span style="color:red;"><del>Minelauva</del></span><ins> Rasalgethi</ins>|karissa.p4b|current
 Salem|Sherman|Alkaid|salem.p4b|<span style="color:red;">dropped</span>
 Yaritza|Villa|Vega|yaritza.p4b|<span style="color:red;">pending</span>
 Ricks|Shobs|Altair|ricks.p4b|current
