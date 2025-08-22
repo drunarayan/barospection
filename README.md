@@ -233,15 +233,15 @@ Project|Topics|Notebook|Due Date|Partial Solution|
 
 ## Workshop Meeting and Recording Links 
 
-Item|Date|Topic|Google Meet Link|Google Recording Link
----|---|---|---|---
-1a|Fri, Aug 15, 2025 6:30 - 8:00 PM Pacific Time|Intro to Spectroscopy & Jupyter Notebooks|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|The recording from the following session contains the full 3.5 hours from Aug 15th
-1b|Fri, Aug 15, 2025 8:00 - 11:00 PM Pacific Time|OPTIONAL - Obtain Spectra from BARO telescope|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meeting Recording](https://drive.google.com/file/d/18gcrqDIVmb6X6sJXX8UXVBMbA17a9oRf/view?usp=sharing)
-2|Thu, Aug 21, 2025 6:30 - 8:00 PM Pacific Time|OPTIONAL - Informal/Friendly Walkthrough of RSpec by Mr. Tom Field|[Zoom link](https://us02web.zoom.us/j/86288551677?pwd=pS1hZBz2puUwFNIY09FDK8eO7jVoDd.1)|Zoom Meeting Recording TBA
-3|Fri, Aug 22, 2025 6:30 - 8:00 PM Pacific Time|Light & Matter. Absorption & Emission Spectra & Types of Spectroscopy|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|Google Meeting Recording TBA
-4|Fri, Aug 29, 2025 6:30 - 8:00 PM Pacific Time|Star Classifications and RSpec analysis of BARO spectra obtained|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|Google Meeting Recording TBA
-5|Fri, Sep 04, 2025 6:30 - 8:00 PM Pacific Time| OPTIONAL - Photonics Guest Lecture by Demis John!!|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|Google Meeting Recording TBA
-6|Fri, Sep 05, 2025 6:30 - 8:00 PM Pacific Time| Properties of Stars and Galaxies using Spectra|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|Google Meeting Recording TBA
-7|Fri, Sep 12, 2025 6:30 - 8:00 PM Pacific Time|Share our final results by sharing our published data in Jupyter Notebooks|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|Google Meeting Recording TBA
+Item|Status|Date|Topic|Google Meet Link|Google Recording Link
+---|---|---|---|---|---
+1a|<span style="color:red;">COMPLETE</span>|Fri, Aug 15, 2025 6:30 - 8:00 PM Pacific Time|Intro to Spectroscopy & Jupyter Notebooks|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|The recording from the following session contains the full 3.5 hours from Aug 15th
+1b|<span style="color:red;">COMPLETE</span>|Fri, Aug 15, 2025 8:00 - 11:00 PM Pacific Time|OPTIONAL - Obtain Spectra from BARO telescope|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meeting Recording](https://drive.google.com/file/d/18gcrqDIVmb6X6sJXX8UXVBMbA17a9oRf/view?usp=sharing)
+2|<span style="color:blue;">CURRENT</span>|Thu, Aug 21, 2025 6:30 - 8:00 PM Pacific Time|OPTIONAL - Informal/Friendly Walkthrough of RSpec by Mr. Tom Field|[Zoom link](https://us02web.zoom.us/j/86288551677?pwd=pS1hZBz2puUwFNIY09FDK8eO7jVoDd.1)|Zoom Meeting Recording TBA
+3|<span style="color:green;">UPCOMING</span>|Fri, Aug 22, 2025 6:30 - 8:00 PM Pacific Time|Light & Matter. Absorption & Emission Spectra & Types of Spectroscopy|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|Google Meeting Recording TBA
+4|<span style="color:green;">COMPLETE</span>|Fri, Aug 29, 2025 6:30 - 8:00 PM Pacific Time|Star Classifications and RSpec analysis of BARO spectra obtained|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|Google Meeting Recording TBA
+5|<span style="color:green;">COMPLETE</span>|Fri, Sep 04, 2025 6:30 - 8:00 PM Pacific Time| OPTIONAL - Photonics Guest Lecture by Demis John!!|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|Google Meeting Recording TBA
+6|<span style="color:green;">COMPLETE</span>|Fri, Sep 05, 2025 6:30 - 8:00 PM Pacific Time| Properties of Stars and Galaxies using Spectra|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|Google Meeting Recording TBA
+7|<span style="color:green;">COMPLETE</span>|Fri, Sep 12, 2025 6:30 - 8:00 PM Pacific Time|Share our final results by sharing our published data in Jupyter Notebooks|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|Google Meeting Recording TBA
 
 
