@@ -1,16 +1,17 @@
 ## Course repository for the ***Intro to Spectroscopy 2025*** Workshop 
-taught for BRIEF Boyce Astro Foundation by Chandru Narayan
+taught for BRIEF Boyce Astro Foundation by Chandru Narayan. (updated aug 21, 2025)
 
 
 ### BAROSpection - Introduction to Spectroscopy [course flyer](docs/barospection_flyer.png)
 ![](barospection.png)
-#### *last updated Aug 20th*
+
 ---
 
 ### [SLACK CHANNEL FOR ALL COMMUNICATIONS](https://briefprograms.slack.com/archives/C0918TX0SVC)! - Please look here for Q&A
 
 
 ### NEWS - READ THIS SECTION BELOW FOR UPDATES EACH TIME!
+- Aug 21st: [Tonight's BONUS session by Mr Tom Field, the creator of the excellent RSpec software](https://drunarayan.github.io/barospection/#workshop-meeting-and-recording-links). Tom will do a an informal and friendly video walkthrough of RSpec. It is recommended that you have RSpec download and installed on your Windows system duringhis talk so that you can try it out LIVE!
 - Aug 21st: [2nd round of imaging Spectra. See here for details!](./news/aug21/readme.md)
 - Aug 20th: [Student Contributions added!](student_solutions/readme.md) Also added a new [OPTIONAL Session on September 4th where Dr. Demis John will talk to us about Photonics!](#workshop-meeting-and-recording-links)  Please make every effort to attend!
 - Aug 19th: [Dropbox folder with all images captured on Aug 15th](#dropbox-link-and-instructions-for-access-to-spectral-images)
