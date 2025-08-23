@@ -11,6 +11,7 @@ taught for BRIEF Boyce Astro Foundation by Chandru Narayan. (updated aug 23, 202
 
 
 ### NEWS - READ THIS SECTION BELOW FOR UPDATES EACH TIME!
+- Aug 23rd: [Meeting recordings added](https://drunarayan.github.io/barospection/#workshop-meeting-and-recording-links). I will be creating this week's assignment later today and posting it.
 - Aug 21st: [Tonight's BONUS session by Mr Tom Field, the creator of the excellent RSpec software](https://drunarayan.github.io/barospection/#workshop-meeting-and-recording-links). Tom will do a an informal and friendly video walkthrough of RSpec. It is recommended that you have RSpec download and installed on your Windows system duringhis talk so that you can try it out LIVE!
 - Aug 21st: [2nd round of imaging Spectra. See here for details!](./news/aug21/readme.md)
 - Aug 20th: [Student Contributions added!](student_solutions/readme.md) Also added a new [OPTIONAL Session on September 4th where Dr. Demis John will talk to us about Photonics!](#workshop-meeting-and-recording-links)  Please make every effort to attend!
