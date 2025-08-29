@@ -233,10 +233,12 @@ Project|Topics|Notebook|Due Date|Partial Solution|
 1. Publish your results in a Jupyter Notebook
 1. Post examples to [RSpec website](https://rspec-astro.com/)
 
+
+
+
 ### References for creating your descriptions about your calibration and assigned stars
-1. <a href="http://www.astrosurf.com/heidemann/spectroscopie/spectroscopic_atlas_walker_4.pdf"
-   download="spectroscopic_atlas_walker_4.pdf" rel="noopener">Walker Spectroscopic Atlas from Astrosurf: 
-</a> Use this amazing resource to look at professional calibrated spectra of stars of all types. This is a very useful document to use in yoru analysis of calibrated RSpec spectra of your star and identification stellar elements. Look up the Stellar type and see if you can identify absorption/emission features identified for the specific stellar type in your own spectrum. If you do identify it, annotate the spectrum with the wavelength and the element noted!  You will be using this reference to fully complete your annotated spectra and Jupyter Notebook assignment #4: ````light_basics_assignment_with_rspec.ipynb````.
+1. <a href="http://www.astrosurf.com/heidemann/spectroscopie/spectroscopic_atlas_walker_4.pdf" download="spectroscopic_atlas_walker_4.pdf" rel="noopener">Walker Spectroscopic Atlas from Astrosurf: </a> Use this amazing resource to look at professional calibrated spectra of stars of all types. This is a very useful document to use in yoru analysis of calibrated RSpec spectra of your star and identification stellar elements. Look up the Stellar type and see if you can identify absorption/emission features identified for the specific stellar type in your own spectrum. If you do identify it, annotate the spectrum with the wavelength and the element noted!  You will be using this reference to fully complete your annotated spectra and Jupyter Notebook assignment #4: ````light_basics_assignment_with_rspec.ipynb````.
+
 1. The ````02B_Celestial_Coordinates.ipynb```` and beyond. notebook you already completed, contains a cell which produced many reference links that can also be used to get much more information about your star. These should be used to describe everything you discovered about your star with external pictures, text and any interesting observations. You will be using this reference to fully complete your annotated spectra and Jupyter Notebook assignment #4: ````light_basics_assignment_with_rspec.ipynb```` and beyond.
 
 ## Workshop Meeting and Recording Links 
