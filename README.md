@@ -1,5 +1,5 @@
 ## Course repository for the ***Intro to Spectroscopy 2025*** Workshop 
-taught for BRIEF Boyce Astro Foundation by Chandru Narayan. (updated aug 23, 2025)
+taught for BRIEF Boyce Astro Foundation by Chandru Narayan. (updated aug 29, 2025)
 
 
 ### BAROSpection - Introduction to Spectroscopy [course flyer](docs/barospection_flyer.png)
