@@ -241,6 +241,8 @@ Project|Topics|Notebook|Due Date|Partial Solution|
 
 1. The ````02B_Celestial_Coordinates.ipynb```` and beyond. notebook you already completed, contains a cell which produced many reference links that can also be used to get much more information about your star. These should be used to describe everything you discovered about your star with external pictures, text and any interesting observations. You will be using this reference to fully complete your annotated spectra and Jupyter Notebook assignment #4: ````light_basics_assignment_with_rspec.ipynb```` and beyond.
 
+1. [Online OpenStax Astronomy Textbook](https://openstax.org/books/astronomy-2e/pages/1-introduction) An excelent online Astronomy textbook written and maintained by over 30 academics. I highly recommend that you use this resource for clarifications of concepts in Astronomy, and specifically Spectroscopy. I recommend reading Chapter 5 in its entireity.
+
 ## Workshop Meeting and Recording Links 
 
 Item|Status|Date|Topic|Google Meet Link|Google Recording Link
