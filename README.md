@@ -243,6 +243,8 @@ Project|Topics|Notebook|Due Date|Partial Solution|
 
 1. [Online OpenStax Astronomy Textbook](https://openstax.org/books/astronomy-2e/pages/1-introduction) An excelent online Astronomy textbook written and maintained by over 30 academics. I highly recommend that you use this resource for clarifications of concepts in Astronomy, and specifically Spectroscopy. I recommend reading Chapter 5 in its entireity.
 
+1. [Stars are not Blackbodies](https://rspec-astro.com/download/Weins-Law-not-so-simple-paper.pdf) Here is an excellent paper on why estimating star surface temperatures using Wein's displacement law could be inaccurate. However, you can get a rough estimation.
+
 ## Workshop Meeting and Recording Links 
 
 Item|Status|Date|Topic|Google Meet Link|Google Recording Link
