@@ -9,9 +9,9 @@ taught for BRIEF Boyce Astro Foundation by Chandru Narayan. (updated aug 23, 202
 
 ### [SLACK CHANNEL FOR ALL COMMUNICATIONS](https://briefprograms.slack.com/archives/C0918TX0SVC)! - Please look here for Q&A
 
-
 ### NEWS - READ THIS SECTION BELOW FOR UPDATES EACH TIME!
-- Aug 28th: [A reference section has been added to guide your research]() about your calibration and assigned stars. Please use the Reference Section  section liberally to complete your assignments!
+- Aug 28th: [Where to find your graded notebooks?](docs/see_graded_notebooks.pdf)
+- Aug 28th: [A reference section has been added to guide your research](#references-for-creating-your-descriptions-about-your-calibration-and-assigned-stars) about your calibration and assigned stars. Please use the Reference Section  section liberally to complete your assignments!
 - Aug 23rd: [Meeting recordings added](#workshop-meeting-and-recording-links). I will be creating this week's assignment later today and posting it.
 - Aug 21st: [Tonight's BONUS session by Mr Tom Field, the creator of the excellent RSpec software](#workshop-meeting-and-recording-links). Tom will do a an informal and friendly video walkthrough of RSpec. It is recommended that you have RSpec download and installed on your Windows system duringhis talk so that you can try it out LIVE!
 - Aug 21st: [2nd round of imaging Spectra. See here for details!](./news/aug21/readme.md)
@@ -234,7 +234,9 @@ Project|Topics|Notebook|Due Date|Partial Solution|
 1. Post examples to [RSpec website](https://rspec-astro.com/)
 
 ### References for creating your descriptions about your calibration and assigned stars
-1. [Walker Spectroscopic Atlas from Astrosurf](http://www.astrosurf.com/heidemann/spectroscopie/spectroscopic_atlas_walker_4.pdf) - Use this amazing resource to look at professional calibrated spectra of stars of all types. This is a very useful document to use in yoru analysis of calibrated RSpec spectra of your star and identification stellar elements. Look up the Stellar type and see if you can identify absorption/emission features identified for the specific stellar type in your own spectrum. If you do identify it, annotate the spectrum with the wavelength and the element noted!  You will be using this reference to fully complete your annotated spectra and Jupyter Notebook assignment #4: ````light_basics_assignment_with_rspec.ipynb````.
+1. <a href="http://www.astrosurf.com/heidemann/spectroscopie/spectroscopic_atlas_walker_4.pdf"
+   download="spectroscopic_atlas_walker_4.pdf" rel="noopener">Walker Spectroscopic Atlas from Astrosurf: 
+</a> Use this amazing resource to look at professional calibrated spectra of stars of all types. This is a very useful document to use in yoru analysis of calibrated RSpec spectra of your star and identification stellar elements. Look up the Stellar type and see if you can identify absorption/emission features identified for the specific stellar type in your own spectrum. If you do identify it, annotate the spectrum with the wavelength and the element noted!  You will be using this reference to fully complete your annotated spectra and Jupyter Notebook assignment #4: ````light_basics_assignment_with_rspec.ipynb````.
 1. The ````02B_Celestial_Coordinates.ipynb```` and beyond. notebook you already completed, contains a cell which produced many reference links that can also be used to get much more information about your star. These should be used to describe everything you discovered about your star with external pictures, text and any interesting observations. You will be using this reference to fully complete your annotated spectra and Jupyter Notebook assignment #4: ````light_basics_assignment_with_rspec.ipynb```` and beyond.
 
 ## Workshop Meeting and Recording Links 
