@@ -1,5 +1,5 @@
 ## Course repository for the ***Intro to Spectroscopy 2025*** Workshop 
-taught for BRIEF Boyce Astro Foundation by Chandru Narayan. (updated aug 29, 2025)
+taught for BRIEF Boyce Astro Foundation by Chandru Narayan. (updated aug 31, 2025)
 
 
 ### BAROSpection - Introduction to Spectroscopy [course flyer](docs/barospection_flyer.png)
@@ -10,7 +10,7 @@ taught for BRIEF Boyce Astro Foundation by Chandru Narayan. (updated aug 29, 202
 ### [SLACK CHANNEL FOR ALL COMMUNICATIONS](https://briefprograms.slack.com/archives/C0918TX0SVC)! - Please look here for Q&A
 
 ### NEWS - READ THIS SECTION BELOW FOR UPDATES EACH TIME!
-- Aug 29th: [How to create an instrument Response profile for BARO](https://rspec-astro.com/more-videos/#:~:text=15.%20Adjustment%20for%20Instrument%20Response%20(part%20of%20Update%203))
+- Aug 29th: [How to create an instrument Response profile for BARO by using the spectral image of your own star!](https://rspec-astro.com/more-videos/#:~:text=15.%20Adjustment%20for%20Instrument%20Response%20(part%20of%20Update%203))
 - Aug 28th: [Where to find your graded notebooks?](docs/see_graded_notebooks.pdf)
 - Aug 28th: [A reference section has been added to guide your research](#references-for-creating-your-descriptions-about-your-calibration-and-assigned-stars) about your calibration and assigned stars. Please use the Reference Section  section liberally to complete your assignments!
 - Aug 23rd: [Meeting recordings added](#workshop-meeting-and-recording-links). I will be creating this week's assignment later today and posting it.
