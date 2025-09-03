@@ -79,7 +79,7 @@ I urge you to already start work on the Final Project by examining your stars an
 
 ## Dropbox link and instructions for access to Spectral Images
 
-### [Click Dropbox Link here for access to Images](https://www.dropbox.com/scl/fo/hvf0pk8xs5x4f0lrquvkl/ALFW_pY5oaAEs4Xi_Kv9WlA?rlkey=tyyn7sl0gpr224h9983qqsvuh&st=j7o9hmzq&dl=0)
+### [Click Dropbox Link here for access to Images](https://www.dropbox.com/scl/fo/hvf0pk8xs5x4f0lrquvkl/ALFW_pY5oaAEs4Xi_Kv9WlA?rlkey=tyyn7sl0gpr224h9983qqsvuh&st=j7o9hmzq&dl=0){:target="_blank"}
 1. You do not need a Dropbox accout to access images!
 1. Click the link above. It will open in your default browser.
 1. First click down to the "Images" Folder. In the Browser. You will have choices to download
@@ -159,9 +159,9 @@ Project|Topics|Notebook|Due Date|Partial Solution|
 
 1. [Online OpenStax Astronomy Textbook](https://openstax.org/books/astronomy-2e/pages/1-introduction) An excelent online Astronomy textbook written and maintained by over 30 academics. I highly recommend that you use this resource for clarifications of concepts in Astronomy, and specifically Spectroscopy. I recommend reading Chapter 5 in its entireity.
 
-1. [Stars are not Blackbodies](https://rspec-astro.com/download/Weins-Law-not-so-simple-paper.pdf) Here is an excellent paper on why estimating star surface temperatures using Wein's displacement law could be inaccurate. However, you can get a rough estimation.
+1. <a href="https://rspec-astro.com/download/Weins-Law-not-so-simple-paper.pdf" download="spectroscopic_atlas_walker_4.pdf" rel="noopener">Stars are not Blackbodies - Here is an excellent paper on why estimating star surface temperatures using Wein's displacement law could be inaccurate. However, you can get a rough estimation.</a>
 
-1. [How to create an instrument Response profile for BARO](https://rspec-astro.com/more-videos/#:~:text=15.%20Adjustment%20for%20Instrument%20Response%20(part%20of%20Update%203)) Follow this excellent video from Tom that shows how to create an instrument response profile on your own and apply it to a mystery star!
+1. [How to create an instrument Response profile for BARO](https://rspec-astro.com/more-videos/#:~:text=15.%20Adjustment%20for%20Instrument%20Response%20(part%20of%20Update%203)){:target="_blank"}. Follow this excellent video from Tom that shows how to create an instrument response profile on your own and apply it to a mystery star!
 
 ## Workshop Meeting and Recording Links 
 
