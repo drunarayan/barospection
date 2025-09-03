@@ -103,6 +103,12 @@ Mark|Harris|Rasalgethi|mark.p4b|<span style="color:red;">pending</span>
 Cam|Narayan|Polaris|cam.p4b|<span style="color:red;">pending</span>
 Tom|Field|Eltanin|tomf.p4b|current
 
+### Mystery Star Assignments for Final Project!
+Linked below are your "Mystery" star assignments.  The analysis and placement of these in a class-level Hertzsprung Russel diagram will be done as part of your final project!  However, first we need to calibrate anf identify the spectral types for each of the five stars assigned to you (see below) using spectral analysis on RSpec.  To do this properly, we will  will then apply the instrument response correction after calibrating your star. ***[Please watch video (currently-in-work)]()*** below detailing these steps. Once the stars have been classified with a type, we will calculate the absolute magnitude of the star using a specified Jupyter Notebook. we will then place all of your stars (about 90 of them) in a class-level Hertzsprung Russel diagram. See the NEWS section for the Final Project Assignment coming this week!
+
+#### [Click here for your Mystery Star Assignments!](docs/mystery_star.csv)
+I urge you to already start work on the Final Project by eamining your stars and post your calibration curves on Slack.  I would appreciate this very much!
+
 ## [Click here to see Student Submissions!](student_solutions/readme.md)
 
 ## Workshop organization & JupyterLab - your own virtual laptop in the sky!
