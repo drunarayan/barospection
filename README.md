@@ -10,8 +10,8 @@ taught for BRIEF Boyce Astro Foundation by Chandru Narayan. (updated Sep 3rd, 20
 ### [SLACK CHANNEL FOR ALL COMMUNICATIONS](https://briefprograms.slack.com/archives/C0918TX0SVC)! - Please look here for Q&A
 
 ### NEWS - READ THIS SECTION BELOW FOR UPDATES EACH TIME!
-- Sep 3rd: [Student Hertzsprung Russell Diagram Final Project - prework]()
-- Sep 2nd: [Use this notebook to explore your Mystery Star!](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fbarospection&branch=gh-pages&urlpath=lab%2Ftree%2Fbarospection%2Fnotebooks%2Fdecode_star.ipynb?reset)
+- Sep 3rd: [Student Hertzsprung Russell Diagram Final Project - prework](#mystery-star-assignments-for-final-project)
+- Sep 2nd: [Use this notebook to explore your Mystery Star!](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fbarospection&branch=gh-pages&urlpath=lab%2Ftree%2Fbarospection%2Fnotebooks%2Fdecode_star.ipynb?reset){:target="_blank"}
 - Aug 29th: [How to create an instrument Response profile for BARO by using the spectral image of your own star!](https://rspec-astro.com/more-videos/#:~:text=15.%20Adjustment%20for%20Instrument%20Response%20(part%20of%20Update%203))
 - Aug 28th: [Where to find your graded notebooks?](docs/see_graded_notebooks.pdf)
 - Aug 28th: [A reference section has been added to guide your research](#references-for-creating-your-descriptions-about-your-calibration-and-assigned-stars) about your calibration and assigned stars. Please use the Reference Section  section liberally to complete your assignments!
@@ -57,24 +57,24 @@ You will be logging into JupyterHub for getting workshop materials and creating 
 
 ## User Names & Student Assignments 
 
-### [Click here to see Students, Intial Star Assignments, Usernames, Status](notebooks/initial_students_usernames.md)
+### [Click here to see Students, Intial Star Assignments, Usernames, Status](notebooks/initial_students_usernames.md){:target="_blank"}
 
 ### Mystery Star Assignments for Final Project!
 Linked below are your "Mystery" star assignments.  The analysis and placement of these in a class-level Hertzsprung Russel diagram will be done as part of your final project!  However, first we need to calibrate anf identify the spectral types for each of the five stars assigned to you (see below) using spectral analysis on RSpec.  To do this properly, we will  will then apply the instrument response correction after calibrating your star. ***Please watch video (currently-in-work)*** below detailing these steps. Once the stars have been classified with a type, we will calculate the absolute magnitude of the star using a specified Jupyter Notebook. we will then place all of your stars (about 90 of them) in a class-level Hertzsprung Russel diagram. See the NEWS section for the Final Project Assignment coming this week!
 
-#### [Click here to see your Mystery Star Assignments!](docs/mystery_star_assignments.md)
+#### [Click here to see your Mystery Star Assignments!](notebooks/mystery_star_assignments.md){:target="_blank"}
 I urge you to already start work on the Final Project by examining your stars and post your calibration curves on Slack.  I would appreciate this very much!
 
-#### [Click here to see Student Submissions!](student_solutions/readme.md)
+#### [Click here to see Student Submissions!](student_solutions/readme.md){:target="_blank"}
 
 ## Workshop organization & JupyterLab - your own virtual laptop in the sky!
-### [Click here to read about the BAROSpection workshop Infrastructure](notebooks/barospection_workshop_infrastructure.md)
+### [Click here to read about the BAROSpection workshop Infrastructure](notebooks/barospection_workshop_infrastructure.md){:target="_blank"}
 
 
 ## Projects & Materials Access
 #### Please complete these steps including ``Project 0`` ahead of the first session
 
-* [Access Online OpenStax Astronomy Textbook here](https://openstax.org/books/astronomy-2e/pages/1-introduction)
+* [Access Online OpenStax Astronomy Textbook here](https://openstax.org/books/astronomy-2e/pages/1-introduction){:target="_blank"}
 * Complete ```Project 0-3: First Login to Jupyter & Slack and other introductory assignments``` which should be available for you to create your first lines of code in Markdown & Python for this class.  I encourage you to click each of the Project 0-3 Notebooks below, ***login with your username and password as identified in the previous paragraphs***. See if you can complete these ahead of our first 2 introductory sessions!
 
 ## Dropbox link and instructions for access to Spectral Images
