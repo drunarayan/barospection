@@ -1,5 +1,5 @@
 ## Course repository for the ***Intro to Spectroscopy 2025*** Workshop 
-taught for BRIEF Boyce Astro Foundation by Chandru Narayan. (updated aug 31, 2025)
+taught for BRIEF Boyce Astro Foundation by Chandru Narayan. (updated Sep 3rd, 2025)
 
 
 ### BAROSpection - Introduction to Spectroscopy [course flyer](docs/barospection_flyer.png)
@@ -10,6 +10,7 @@ taught for BRIEF Boyce Astro Foundation by Chandru Narayan. (updated aug 31, 202
 ### [SLACK CHANNEL FOR ALL COMMUNICATIONS](https://briefprograms.slack.com/archives/C0918TX0SVC)! - Please look here for Q&A
 
 ### NEWS - READ THIS SECTION BELOW FOR UPDATES EACH TIME!
+- Sep 3rd: [Student Hertzsprung Russell Diagram Final Project - prework]()
 - Sep 2nd: [Use this notebook to explore your Mystery Star!](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fbarospection&branch=gh-pages&urlpath=lab%2Ftree%2Fbarospection%2Fnotebooks%2Fdecode_star.ipynb?reset)
 - Aug 29th: [How to create an instrument Response profile for BARO by using the spectral image of your own star!](https://rspec-astro.com/more-videos/#:~:text=15.%20Adjustment%20for%20Instrument%20Response%20(part%20of%20Update%203))
 - Aug 28th: [Where to find your graded notebooks?](docs/see_graded_notebooks.pdf)
@@ -54,27 +55,21 @@ You will be accessing your own 'virtual laptop' hosted on a Google virtual machi
 
 You will be logging into JupyterHub for getting workshop materials and creating your own Jupyter Notebooks.  Your username is simply ```<your first name>.``` followed by the word ```p4b```. For instance, my username would be ```chandru.p4b```. ***See & use the created usernames below. The first time you log in, create and type in any password you make up yourself.***  That will become your actual password for this JupyterHub - please try not to forget it.  If you do, email me at drunarayan@gmail.com, I will reset it.  Please see created usernames below.
 
-## User Names & Star Assignments created for the Fall 2025 Class
+## User Names & Student Assignments 
 
 ### [Click here to see Students, Intial Star Assignments, Usernames, Status](notebooks/initial_students_usernames.md)
 
 ### Mystery Star Assignments for Final Project!
-Linked below are your "Mystery" star assignments.  The analysis and placement of these in a class-level Hertzsprung Russel diagram will be done as part of your final project!  However, first we need to calibrate anf identify the spectral types for each of the five stars assigned to you (see below) using spectral analysis on RSpec.  To do this properly, we will  will then apply the instrument response correction after calibrating your star. ***[Please watch video (currently-in-work)]()*** below detailing these steps. Once the stars have been classified with a type, we will calculate the absolute magnitude of the star using a specified Jupyter Notebook. we will then place all of your stars (about 90 of them) in a class-level Hertzsprung Russel diagram. See the NEWS section for the Final Project Assignment coming this week!
+Linked below are your "Mystery" star assignments.  The analysis and placement of these in a class-level Hertzsprung Russel diagram will be done as part of your final project!  However, first we need to calibrate anf identify the spectral types for each of the five stars assigned to you (see below) using spectral analysis on RSpec.  To do this properly, we will  will then apply the instrument response correction after calibrating your star. ***Please watch video (currently-in-work)*** below detailing these steps. Once the stars have been classified with a type, we will calculate the absolute magnitude of the star using a specified Jupyter Notebook. we will then place all of your stars (about 90 of them) in a class-level Hertzsprung Russel diagram. See the NEWS section for the Final Project Assignment coming this week!
 
-#### ![Click here to see your Mystery Star Assignments!](docs/mystery_star_assignments.md)
+#### [Click here to see your Mystery Star Assignments!](docs/mystery_star_assignments.md)
 I urge you to already start work on the Final Project by examining your stars and post your calibration curves on Slack.  I would appreciate this very much!
 
 #### [Click here to see Student Submissions!](student_solutions/readme.md)
 
 ## Workshop organization & JupyterLab - your own virtual laptop in the sky!
+### [Click here to read about the BAROSpection workshop Infrastructure](notebooks/barospection_workshop_infrastructure.md)
 
-The structure of this Workshop includes specific ***Projects*** below.  These Projects provide access to multiple materials, including **your own virtual laptop**, Jupyter Notebooks, media files (images, video), presentations, PDF files, CSV files, database files and the like.  Each Project wil have its own collection of content linked below.  When you click on the very first project link below to get started!
-
-When you do so, it will make your own initial copy to your JupyterHub account and allow you to edit and modify them.  As you modify them, ***JupyterLab*** (the IDE inside JupyterHub) will keep track of the modifications and you ***should never lose your edits***.  It is highly recommended that you ***do not change the names of the notebooks or files*** as they are being tracked and version controlled. You can always return to this page to access any specific project below where you can access your latest edits.  JupyterHub is widely used and state-of-the-art mechanism that universities use to manage Jupyter Notebooks and other course materials.  It is expected that future courses taught by me for BRIEF Programs will provide access to the same user account you are using now.
-
-## Availability of JupyterLab Virtual Machine (Your Virtual Laptop)
-
-***Your virtual laptops will be online and available Wednesday Morning 8:00 AM Pacific to Sunday Evening 11:00 PM Pacific each week.  You will be able to login during these times and complete your assignments ahead of, during and after the web meeting sessions each week.***  At other times, the virtual machine will be taken down to reduce the cost of using the Google Cloud. If you have a special need, you can contact me and I will try and make accommodations.
 
 ## Projects & Materials Access
 #### Please complete these steps including ``Project 0`` ahead of the first session
@@ -87,7 +82,6 @@ When you do so, it will make your own initial copy to your JupyterHub account an
 ### [Click Dropbox Link here for access to Images](https://www.dropbox.com/scl/fo/hvf0pk8xs5x4f0lrquvkl/ALFW_pY5oaAEs4Xi_Kv9WlA?rlkey=tyyn7sl0gpr224h9983qqsvuh&st=j7o9hmzq&dl=0)
 1. You do not need a Dropbox accout to access images!
 1. Click the link above. It will open in your default browser.
-
 1. First click down to the "Images" Folder. In the Browser. You will have choices to download
     1. Click down to your "star folder" under "Images" folder. Then Download your specific "Star" folder or some other "Star" folder. You will get a zip file which you can extract on your system.
     1. Download the entire "Images" Folder.  You will get a zip file which you can extract on your system. Be warned - this is several GB and wmight take a very long time. Although we may not exceed this limit, Dropbox will prevent you from downloading more than 20GB
@@ -156,8 +150,6 @@ Project|Topics|Notebook|Due Date|Partial Solution|
 1. Compare against NIST Standard
 1. Publish your results in a Jupyter Notebook
 1. Post examples to [RSpec website](https://rspec-astro.com/)
-
-
 
 
 ### References for creating your descriptions about your calibration and assigned stars
