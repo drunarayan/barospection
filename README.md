@@ -56,60 +56,15 @@ You will be logging into JupyterHub for getting workshop materials and creating 
 
 ## User Names & Star Assignments created for the Fall 2025 Class
 
-### Students, Star Assignments, Usernames, Status
-if your status shows <span style="color:red;">pending</span> you did not start the course and you will need to contact me by email drunarayan@gmail.com to continue in the workshop. 
-
-First|Last|Assigned Star|username|status
----|---|---|---|---|
-Anisha|Bajaj|Altair|anisha.p4b|current
-Louis|Petersen|Vega|louis.p4b|current
-Dhruv|Mehrotra|Dubhe|dhruv.p4b|current
-Kripita|Srivatsava|Alioth|kripita.p4b|current
-Jacob|John|Mizar|jacob.p4b|current
-Maya|McGreevy|R Lyra|maya.p4b|current
-Pranav|Muthukumaran|Rasalgethi|pranav.p4b|<span style="color:red;">pending</span>
-Abbas|Mokhtarzadeh|Alcor|abbas.p4b|current
-Nicholas|Bettwy|Alpheratz|nicholas.p4b|current
-Heinz|Valbruch|Albireo A|heinz.p4b|current
-Adam|Brown|R Lyra|adam.p4b|current
-Ahmad|Naeem|<span style="color:red;"><del>Zosma</del></span> <ins>h Uma</ins>|ahmad.p4b|current
-Richard |Jaworski|Alioth|richard.p4b|current
-Ronald|Lawrence|<span style="color:red;"><del>Minelauva</del></span> <ins>Polaris|ronald.p4b|current
-Christopher|Rowe|Arcturus|christopher.p4b|current
-Dave|Dobrotka|Rasalhague|dave.p4b|current
-Tom|Smith|P Cygnus|tom.p4b|current
-Pat|Boyce|Polaris|pat.p4b|current
-Grady|Boyce|Zeta1 Lyra|grady.p4b|<span style="color:red;">pending</span>
-Puneeth|Sethi|Kochab|puneeth.p4b|current
-Shalini|Sankarkumar|Alpheratz|shalini.p4b|current
-Ayush |Roy|P Cygnus|ayush.p4b|<span style="color:red;">pending</span>
-Miracle|Marcel|Altair|miracle.p4b|<span style="color:red;">pending</span>
-Jae|Calanog|Dschubba|jae.p4b|current
-Girish|Bajaj|Enif|girish.p4b|current
-John|Petersen|Alphecca|john.p4b|current
-Sumit|Mehrotra|Alkaid|sumit.p4b|current
-Demis|John|Mizar|demis.p4b|current
-Rajaabarami|Rajakumar|Zeta1 Lyra|rajaabarami.p4b|current
-Rishwanth|Babu|Rasalhague|rishwanth.p4b|<span style="color:red;">pending</span>
-Priyanka|Sindhu|<span style="color:red;"><del>Zosma</del></span> <ins>h Uma</ins>|priyanka.p4b|current
-Geoff|Stone|Alioth|geoff.p4b|current
-Pranav|Muthukumaran|Rasalgethi|pranav.p4b|<span style="color:red;">pending</span>
-Karissa|Belzer|<span style="color:red;"><del>Minelauva</del></span><ins> Rasalgethi</ins>|karissa.p4b|current
-Salem|Sherman|Alkaid|salem.p4b|<span style="color:red;">dropped</span>
-Yaritza|Villa|Vega|yaritza.p4b|<span style="color:red;">pending</span>
-Ricks|Shobs|Altair|ricks.p4b|current
-Reed|Estrada|Zeta1 Lyra|reed.p4b|current
-Mark|Harris|Rasalgethi|mark.p4b|<span style="color:red;">pending</span>
-Cam|Narayan|Polaris|cam.p4b|<span style="color:red;">pending</span>
-Tom|Field|Eltanin|tomf.p4b|current
+### [Click here to see Students, Intial Star Assignments, Usernames, Status](notebooks/initial_students_usernames.md)
 
 ### Mystery Star Assignments for Final Project!
 Linked below are your "Mystery" star assignments.  The analysis and placement of these in a class-level Hertzsprung Russel diagram will be done as part of your final project!  However, first we need to calibrate anf identify the spectral types for each of the five stars assigned to you (see below) using spectral analysis on RSpec.  To do this properly, we will  will then apply the instrument response correction after calibrating your star. ***[Please watch video (currently-in-work)]()*** below detailing these steps. Once the stars have been classified with a type, we will calculate the absolute magnitude of the star using a specified Jupyter Notebook. we will then place all of your stars (about 90 of them) in a class-level Hertzsprung Russel diagram. See the NEWS section for the Final Project Assignment coming this week!
 
-#### ![Click here for your Mystery Star Assignments!](docs/mystery_star.csv)
-I urge you to already start work on the Final Project by eamining your stars and post your calibration curves on Slack.  I would appreciate this very much!
+#### ![Click here to see your Mystery Star Assignments!](docs/mystery_star_assignments.md)
+I urge you to already start work on the Final Project by examining your stars and post your calibration curves on Slack.  I would appreciate this very much!
 
-## [Click here to see Student Submissions!](student_solutions/readme.md)
+#### [Click here to see Student Submissions!](student_solutions/readme.md)
 
 ## Workshop organization & JupyterLab - your own virtual laptop in the sky!
 
@@ -137,47 +92,6 @@ When you do so, it will make your own initial copy to your JupyterHub account an
     1. Click down to your "star folder" under "Images" folder. Then Download your specific "Star" folder or some other "Star" folder. You will get a zip file which you can extract on your system.
     1. Download the entire "Images" Folder.  You will get a zip file which you can extract on your system. Be warned - this is several GB and wmight take a very long time. Although we may not exceed this limit, Dropbox will prevent you from downloading more than 20GB
 
-### Class Star Target List for Spectra, Adjusted RA/Dec and Imaging Status 
-
-Target Name|HD Number|Adj RA|Adj Dec|Magnitude|Calculated Exposure|Status
----|---|---|---|---|---|---
-Rasalhague_HD_159561_Typ_A5|HD 159561|263.7891|12.5383|2.07|3.74|Imaged 8-15-2025
-Rasalgethi_HD_156014_Typ_M5|HD 156014|258.7178|14.3686|5.3|64.60|Imaged 8-15-2025
-Altair_HD_187642_Typ_A7|HD 187642|297.7506|8.8466|0.76|1.18|Imaged 8-15-2025
-Vega_HD_172167_Typ_A0|HD 172167|279.3041|38.7619|0.026|0.62|Imaged 8-15-2025
-Dubhe_HD_95689_Typ_K0|HD 95689|166.0462|61.7292|1.79|2.92|Imaged 8-20-2025
-Scheat_HD_217906_Typ_M2|HD 217906|346.0049|28.0610|2.42|5.09|Imaged 8-15-2025
-Mizar_HD_116656_Typ_A2|HD 116656|201.0756|54.9036|2.04|3.64|Imaged 8-20-2025
-Alcor_HD_116657_Typ_MK|HD 116657|201.4007|54.9662|3.88|18.46|Imaged 8-15-2025 & 8-20-2025
-R_Lyr_HD_175865_Typ_M5|HD 175865|283.9089|43.9243|3.9|18.79|Imaged 8-15-2025
-Alpheratz_HD_358_Typ_B8_A7|HD 358|2.1588|29.0687|2.06|3.70|Imaged 8-15-2025
-Albireo_HD_183912_Typ_K2|HD 183912|292.7416|27.9379|3.21|10.22|Imaged 8-15-2025
-Albireo_HD_183913_Typ_B8|HD 183913|292.7416|27.9379|5.11|54.63|Imaged 8-15-2025
-Denebola_HD_102647_Typ_A3|HD 102647|177.3208|14.5503|2.14|3.98|<span style="color:red;">Pending</span>
-Zosma_HD_97603_Typ_A4|HD 97603|168.5849|20.5020|2.56|5.76|<span style="color:red;">Pending</span>
-Alioth_HD_112185_Typ_A1|HD 112185|193.6039|55.9380|1.77|2.87|Imaged 8-20-2025
-Minelauva_HD_112300_Typ_M3|HD 112300|193.9551|3.3757|3.32|11.26|<span style="color:red;">Pending</span>
-Arcturus_HD_124897_Typ_K1|HD 124897|213.9726|19.1606|-0.05|0.58|Imaged 8-20-2025
-P_Cyg_HD_193237_Typ_B1|HD 193237|304.5154|38.0112|4.82|42.30|Imaged 8-15-2025
-Polaris_HD_8890_Typ_F7|HD 8890|42.0407|89.2404|1.98|3.45|Imaged 8-20-2025
-Zet1_Lyr_HD_173648_Typ_kA5|HD 173648|281.2615|37.5833|4.37|28.44|Imaged 8-15-2025
-Zet2_Lyr_HD_173649_Typ_F0|HD 173649|281.2691|37.5728|5.74|95.25|Imaged 8-15-2025
-Kochab_HD_131873_Typ_K4|HD 131873|222.8743|74.1337|2.08|3.77|Imaged 8-20-2025
-Dschubba_HD_143275_Typ_B0|HD 143275|240.1420|-22.6435|1.59|2.45|Imaged 8-20-2025
-Enif_HD_206778_Typ_K2|HD 206778|326.1014|9.8532|2.37|4.87|Imaged 8-15-2025
-Alphecca_HD_139006_Typ_A0|HD 139006|233.7325|26.6929|2.24|4.34|Imaged 8-15-2025
-Eltanin_HD_164058_Typ_K5|HD 164058|269.2384|51.4671|2.23|4.30|Imaged 8-15-2025
-Thuban_HD_123299_Typ_A0|HD 123299|211.2224|64.3541|3.67|15.33|Imaged 8-20-2025
-h_Uma_HD_81937_Typ_F0|HD 81937|143.0015|63.0401|3.65|15.07|Imaged 8-20-2025
-Theta_Cep_HD_195725_Typ_A7|HD 195725|307.5145|62.9723|4.22|24.91|Imaged 8-15-2025
-VZ_Cam_HD_55966_Typ_M4|HD 55966|113.1773|82.3895|4.92|46.20|<span style="color:red;">Pending</span>
-Erakis_HD_206936_Typ_M2|HD 206936|325.9813|58.7582|4.08|22.02|Imaged 8-15-2025
-42_Her_HD_150450_Typ_M2|HD 150450|249.7692|48.9066|4.86|43.82|Imaged 8-15-2025
-V906_Her_HD_150409_Typ_Ma|HD 150409|249.7178|48.8405|6.6|203.42|Imaged 8-15-2025 & 8-20-2025
-3C273_Quasar_3C273_Typ_Qu|Quasar_3C273|187.3321|2.0306|12.9|52772.22|<span style="color:red;">Pending</span>
-Neptune_Neptune_Typ_Pl|Neptune|0.1331|-1.3658|7.8|586.41|Imaged 8-15-2025
-Saturn_Saturn_Typ_Pl|Saturn|1.6737|-1.9659|0.99|1.44|<span style="color:red;">Pending</span>
-Uranus_Uranus_Typ_Pl|Uranus|52.5611|18.6892|5.75|96.09|<span style="color:red;">Pending</span>
 
 
 ### Python for Spectroscopy Course Content Notebooks & Assignments

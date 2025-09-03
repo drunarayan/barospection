@@ -1,5 +1,5 @@
 Student|Mystery Star|Status
----|---|--|
+---|---|---|
 Adam|BID202082008_Dist432.9004_Mag1.25|Imaged 09-01-2025
 Adam|BID211741400_Dist211.4165_Mag2.38|Imaged 09-01-2025
 Adam|BID219521752_Dist65.5738_Mag5.04|Imaged 09-01-2025
