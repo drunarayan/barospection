@@ -55,15 +55,17 @@ You will be accessing your own 'virtual laptop' hosted on a Google virtual machi
 
 You will be logging into JupyterHub for getting workshop materials and creating your own Jupyter Notebooks.  Your username is simply ```<your first name>.``` followed by the word ```p4b```. For instance, my username would be ```chandru.p4b```. ***See & use the created usernames below. The first time you log in, create and type in any password you make up yourself.***  That will become your actual password for this JupyterHub - please try not to forget it.  If you do, email me at drunarayan@gmail.com, I will reset it.  Please see created usernames below.
 
+## Workshop organization & JupyterLab - your own virtual laptop in the sky!
+
+### [Click here to read about the BAROSpection workshop Infrastructure](notebooks/barospection_workshop_infrastructure.md){:target="_blank"}
+
 ## User Names & Student Assignments 
 
 ### [Click here to see Students, Intial Star Assignments, Usernames, Status](notebooks/initial_students_usernames.md){:target="_blank"}
 
 ### [Click here to see Student Submissions!](student_solutions/readme.md){:target="_blank"}
 
-## Workshop organization & JupyterLab - your own virtual laptop in the sky!
 
-### [Click here to read about the BAROSpection workshop Infrastructure](notebooks/barospection_workshop_infrastructure.md){:target="_blank"}
 
 ## [FINAL PROJECT - Analyze Mystery Star and Build Hertzsprung Russell Diagram - Click for Instructions!](notebooks/hrd_project.md){:target="_blank"}. 
 
