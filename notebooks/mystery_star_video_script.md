@@ -22,23 +22,29 @@
     16. Then Apply. Note the 2-digit precision of the Pixel Resolution.
     17. Take a Screen Shot with visible file names of your profile curves to post in Slack and the Jupyter Notebook for later.
     18. Enter the Pixel Resolution in the Google HRD Sheet. Also fill out the Distance and Magnitude of the Star from the BID name into the Google HRD sheet.
-    19. Validate The type of your calibration star by doing the following steps.
+    19. Validate The type of your 1st mystery star doing the following steps.
         1. Close all RSpec windows except main to start clean. 
         2. Drag and drop the previously downloaded one of 5 mystery star FITS file into RSpec
         3. Rotate horizontal if needed
         4. Move boxing lines to the top and bottom of star.  Cinch it close without interfering with the star or spectrum
         5. Subtract the background.
         6. Click Calibrate. Select 1-point Calibration. 
+        1. Put cursor on field marke "pixel #1"
+        1. Enter the dispersion (Pixel Resolution) you previiosly noted if necessary in the dispersion field
+       
         7. Identify the zero-order by a click on the peak or donut hole with your mouse if star is defocused
+         Then Apply the calibration and close button on the calibration window
         8. Click on Color Wheel
-        9. Click the 3dots button to navigate to the instrument response file you downloaded previously and click on it
+        9. Click the 3dots button to navigate to the instrument response file you downloaded previously and click on it and click Open button
         10. Click Apply to apply your instrument response. 
+        1. Click the synthesise button for color in bottom bar. 
         11. Click ????somewhere To restrict only to visible wavelengths
-        12. Now downselect (down arrow) Reference
-        13. Star at the beginning (o5) reference by continuously clicking down or up arrow keys and see the magic of visual comparison between your corrected master star profile and standard reference profile! 
+        12. Click Reference button and select the Reference Library.
+        13. Check mark the crop to visible wavelengths 
+        13. Start at the beginning (o5) reference by continuously clicking down or up arrow keys on the keyboard and see the magic of visual comparison between your corrected mystery star profile and standard reference profile! 
         14. You will see the standard reference peak travel from the invisible ultraviolet wavelengths into the visible region and far infra-red regions as you click the mouse.  
-        15. Somewhere during your clicking the 2 curves will look very similar between the vertical lines bounding the visible region. Note the Star Type with best match (say a5v) going from hot O-types to cool M-types.
-        16. “Best Match” means no crossovers and “being parallel”.
+        15. Somewhere during your clicking the 2 curves will look very similar between the vertical Red lines bounding the visible region. Note the Star Type with best match (say a5v) going from hot O-types to cool M-types.
+        16. “Best Match” means no crossovers and “being parallel”. You should also be looking at features matching.
         17. Now repeat the process again going backward from cool M-types to hot O-types. Again note the Star Type with best match (say g2iii). 
         18. The correct answer is most probably between a5v and g2iii.
         19. Take a Screen Shot of your final star type determination with visible file names of your profile curves to post in Slack and the Jupyter Notebook for later.
