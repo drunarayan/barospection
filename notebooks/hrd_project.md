@@ -14,4 +14,4 @@ Each of you have been assigned ***ONE Calibration Type A Star*** and ***FIVE dif
 
 I urge you to already start work on the Final Project by examining your stars and post your calibration curves ***for your FIVE stars*** on Slack. You will also be filling out the HRD Google Sheet linked below. Please enter the results of your Mystery Star analysis here. See my ***Chandru's Final Project*** posting in Slack and Results in the ***HRD Google Sheet*** against my name. Please follow my example for your ***five mystery stars*** and make entries in both Slack and the HRD Google Sheet against your name. ***Please start TODAY***, I would appreciate this very much!
 
-### [Click here to see the Prework Video IN-WORK NOT READY YET]()
+### [Click here to see the Final Project Prework Video in-work not ready as of yet]()
