@@ -164,6 +164,8 @@ Project|Topics|Notebook|Due Date|Partial Solution|
 
 1. [HR Diagram References](references/stellar_classification_references.md)
 
+1. [Mystery Star Video Script](notebooks/mystery_star_video_script.md)
+
 ## Workshop Meeting and Recording Links 
 
 Item|Status|Date|Topic|Google Meet Link|Google Recording Link

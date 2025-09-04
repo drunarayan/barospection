@@ -25,6 +25,6 @@ Please note the following important points when doing this exercise.
 
 1. It is better to ````reduce window clutter```` (described in video) before starting analysis on a new star for analysis. This is shown in the video below. 
 
-1. [Mystery Star Video Script]()
+1. [Mystery Star Video Script](notebooks/mystery_star_video_script.md)
 
 ### [Click here to see the Final Project Prework Video in-work not ready as of yet]()
