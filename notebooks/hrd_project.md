@@ -7,15 +7,10 @@ Each of you have been assigned ***ONE Calibration Type A Star*** and ***FIVE dif
 
 1. Download the type A star linked here and perform a 2-point calibration on it using a Hydrogen Beta line. Note the Pixel Resolution with 2 decimal precision  and enter into the HRD Google Sheet linked above.
 
-1. [Download the instrument Response linked here]() and save it to your desktop to later be be used in RSpec. 
+1. [Download the instrument Response linked here](docs/baro_inst_resp2.dat) and save it to your desktop to later be be used in RSpec. 
 
-1. Download your 5 Stars from Dropbox and use it to apply the instrument response and determine the Star Type for each star. Enter the Type and other details requested into the HRD Google Sheet linked above.
+1. Download your 5 Stars from Dropbox and use it to apply the instrument response and determine the Star Type for each star. Enter the Type and other details requested into the HRD Google Sheet linked above. See Video below for detailed instructions.
 
-and identify the spectral types for each of the ***five stars assigned to you*** (see below) using spectral analysis on RSpec.  ***Please watch video (currently-in-work)*** below detailing these steps
-
-1.  by plotting it on a HRD. To do this properly, you will need to apply the instrument response correction after calibrating your star. . 
-
-1. Once the stars have been classified with a type, you will calculate the absolute magnitude of the star using a this Jupyter Notebook Jupyter Notebook ***(currently-in-work)***. we will then place all of your stars (about 90 of them!) in a class-level Hertzsprung Russell diagram. 
 
 ### [Click here to see your Mystery Star Assignments!](notebooks/mystery_star_assignments.md){:target="_blank"}
 I urge you to already start work on the Final Project by examining your stars and post your calibration curves ***for your FIVE stars*** on Slack. You will also be filling out the HRD Google Sheet linked below. Please enter the results of your Mystery Star analysis here. See my ***Chandru's Final Project*** posting in Slack and Results in the ***HRD Google Sheet*** against my name. Please follow my example for your ***five mystery stars*** and make entries in both Slack and the HRD Google Sheet against your name. ***Please start TODAY***, I would appreciate this very much!

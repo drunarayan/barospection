@@ -158,6 +158,8 @@ Project|Topics|Notebook|Due Date|Partial Solution|
 
 1. [How to create an instrument Response profile for BARO](https://rspec-astro.com/more-videos/#:~:text=15.%20Adjustment%20for%20Instrument%20Response%20(part%20of%20Update%203)){:target="_blank"}. Follow this excellent video from Tom that shows how to create an instrument response profile on your own and apply it to a mystery star!
 
+1. [Download Pre-created Instrument Response File for BARO](docs/baro_inst_resp2.dat)
+
 ## Workshop Meeting and Recording Links 
 
 Item|Status|Date|Topic|Google Meet Link|Google Recording Link
