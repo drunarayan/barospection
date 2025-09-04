@@ -62,9 +62,10 @@ You will be logging into JupyterHub for getting workshop materials and creating 
 ### [Click here to see Student Submissions!](student_solutions/readme.md){:target="_blank"}
 
 ## Workshop organization & JupyterLab - your own virtual laptop in the sky!
+
 ### [Click here to read about the BAROSpection workshop Infrastructure](notebooks/barospection_workshop_infrastructure.md){:target="_blank"}
 
-### [FINAL PROJECT - Analyze Mystery Star and Build Hertzsprung Russell Diagram - Click for Instructions!](notebooks/hrd_project.md){:target="_blank"}. See the NEWS section for the Final Project Assignment coming this week.
+## [FINAL PROJECT - Analyze Mystery Star and Build Hertzsprung Russell Diagram - Click for Instructions!](notebooks/hrd_project.md){:target="_blank"}. 
 
 ## Projects & Materials Access
 #### Please complete these steps including ``Project 0`` ahead of the first session
