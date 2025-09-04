@@ -1,5 +1,6 @@
 
-## Mystery Star Assignments & Instructions for Final Project!
+## Mystery Star Assignments & Instructions for Final Project
+
 Each of you have been assigned ***ONE Calibration Type A Star*** and ***FIVE different and distinct Mystery stars*** for which you do ***NOT*** know their ***Star Type classification***.  You will find the Star Types for all FIVE stars by analysing them on RSpec. You will then place the FIVE stars in a class-level ***Hertzsprung Russel diagram***. Here is the overall process description of the final project.
 
 1. Note that you will need to enter information as you go into the [Global HRD Data Input Google Sheet linked here](https://docs.google.com/spreadsheets/d/1tRVdZ1ojMYrLLjbfzVTEa1W06D4c7lnKBFFzTx0IRO0/edit?usp=sharing){:target="_blank"} as you perform these steps. This Google Sheet also contains your Mystery Star Assignments!
