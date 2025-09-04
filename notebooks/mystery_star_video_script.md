@@ -45,7 +45,7 @@
         20. Do the process again by looking at the feature matches. 
         21. There is so much to learn here during this process. Be observant all around!
         22. Note your final determination of star type  into the Google HRD sheet. Also fill out the Distance and Magnitude of the Star from the BID name into the Google HRD sheet.
-    20. REPEAT this last major step #19 with all sub-tasks for each of your 5 stars!  
+    20. REPEAT this last major step #xix with all sub-tasks for each of your 5 stars!  
     21. YOU ARE DONE.  CONGRATULATIONS!! YOU ARE AN AMATEUR SPECTROSCOPIST!!!
 
 
