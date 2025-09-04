@@ -6,7 +6,7 @@ Each of you have been assigned ***ONE Calibration Type A Star*** and ***FIVE dif
 
 1. Please note that the Star Type is no longer given to you. The BIDXXXXXXX you see is an encoded number You will have to find the Star Type by doing a spectral analysis on RSpec.
 
-1. Download the type A star ````BID225343192_TypeA5v_Dist49.5786_Mag4.58```` in the Dropbox ````5.Spectroscopy->Images->2025-0901```` folder and perform a 2-point calibration on it using a Hydrogen Beta line in RSpec. Note the Pixel Resolution with 2 decimal precision  and enter into the HRD Google Sheet linked above.
+1. Download the type A star ````BID225343192_TypeA5v_Dist49.5786_Mag4.58```` in the Dropbox ````5.Spectroscopy->Images->2025-09-01```` folder and perform a 2-point calibration on it using a Hydrogen Beta line in RSpec. Note the Pixel Resolution with 2 decimal precision  and enter into the HRD Google Sheet linked above.
 
 1. [Download the instrument Response linked here](../docs/baro_inst_resp2.dat) and save it to your desktop to later be be used in RSpec. 
 
