@@ -63,11 +63,9 @@ You will be logging into JupyterHub for getting workshop materials and creating 
 
 ### [Click here to see Students, Intial Star Assignments, Usernames, Status](notebooks/initial_students_usernames.md){:target="_blank"}
 
-### [Click here to see Student Submissions!](student_solutions/readme.md){:target="_blank"}
+### [Click here to see Student Submissions](student_solutions/readme.md){:target="_blank"}
 
-
-
-## [FINAL PROJECT - Analyze Mystery Star and Build Hertzsprung Russell Diagram - Click for Instructions!](notebooks/hrd_project.md){:target="_blank"}. 
+### [Click for FINAL PROJECT Instructions - Analyze Mystery Star and Build Hertzsprung Russell Diagram](notebooks/hrd_project.md){:target="_blank"} 
 
 ## Projects & Materials Access
 #### Please complete these steps including ``Project 0`` ahead of the first session
