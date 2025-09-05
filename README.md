@@ -10,6 +10,7 @@ taught for BRIEF Boyce Astro Foundation by Chandru Narayan. (updated Sep 5, 2025
 ### [SLACK CHANNEL FOR ALL COMMUNICATIONS](https://briefprograms.slack.com/archives/C0918TX0SVC)! - Please look here for Q&A
 
 ### NEWS - READ THIS SECTION BELOW FOR UPDATES EACH TIME!
+- Sep 5th: [The Hertzsprung Russell Diagram (HRD)](references/hrd_presentation.md) discussion is posted
 - Sep 5th: Final Project Assignment: [Mystery Star Video and details](https://drunarayan.github.io/barospection/notebooks/hrd_project.html) posted. Please start your work!
 - Sep 5th: Another set of 100+ spectral images obtained for the final HRD project! See dropbox.
 - Sep 4th: [Student Hertzsprung Russell Diagram Final Project - prework](https://drunarayan.github.io/barospection/notebooks/hrd_project.html)
@@ -132,7 +133,8 @@ Project|Topics|Notebook|Due Date|Partial Solution|
 1. What can you learn from Star Spectra
 2. HertzSprung Russell Diagram (HRD)
 3. Plot an HRD for Sun's 100 Parsec neighbourhood
-1. Jupyter Notebook - HRD
+1. Final Project - [Mystery Stars & HRD](https://drunarayan.github.io/barospection/notebooks/hrd_project.html)
+1. [HRD Presetntation](references/hrd_presentation.md)
 
 ### Obtain Spectra from the BARO Telescope
 1. Spectral Grating configuration on BARO
