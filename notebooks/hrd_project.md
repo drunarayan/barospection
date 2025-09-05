@@ -25,6 +25,6 @@ Please note the following important points when doing this exercise.
 
 1. It is better to ````reduce window clutter```` (described in video) before starting analysis on a new star for analysis. This is shown in the video below. 
 
-### Here is the complete [Mystery Star Video Script](./mystery_star_video_script.md) (Ready now!) that can be used as exhaustive written instructions for completing your Mystery Star Type detection process.
+### Here is the complete [Mystery Star Video Script](./mystery_star_video_script.md) (<span style="color:red;">Ready to start now!</span>)  that can be used as exhaustive written instructions for completing your Mystery Star Type detection process.
 
-### Click here to see the [Mystery Star Video](https://drive.google.com/file/d/1xTcVLy7Xq3XSe9HQQLNQcQiAhuGX2AHM/view?usp=sharing) (Ready now!) for doing the Final Project
+### Click here to see the [Mystery Star Video](https://drive.google.com/file/d/1pEHbaTYbnZXCiCaL9wNx9DpGtP_dJxHp/view?usp=sharing) (<span style="color:red;">Ready to view now!</span>) for doing the Final Project
