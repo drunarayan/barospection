@@ -160,6 +160,8 @@ Project|Topics|Notebook|Due Date|Partial Solution|
 
 1. [Online OpenStax Astronomy Textbook](https://openstax.org/books/astronomy-2e/pages/1-introduction){:target="_blank"} An excelent online Astronomy textbook written and maintained by over 30 academics. I highly recommend that you use this resource for clarifications of concepts in Astronomy, and specifically Spectroscopy. I recommend reading Chapter 5 in its entireity.
 
+1. [Astro 801](https://courses.ems.psu.edu/astro801/content) - A penn state online undergraduate study in Astronomy
+
 1. <a href="https://rspec-astro.com/download/Weins-Law-not-so-simple-paper.pdf" download="spectroscopic_atlas_walker_4.pdf" target="_blank" rel="noopener">Stars are not Blackbodies</a>  Here is an excellent paper on why estimating star surface temperatures using Wein's displacement law could be inaccurate. However, you can get a rough estimation.
 
 1. [How to create an instrument Response profile for BARO](https://rspec-astro.com/more-videos/#:~:text=15.%20Adjustment%20for%20Instrument%20Response%20(part%20of%20Update%203)){:target="_blank"}. Follow this excellent video from Tom that shows how to create an instrument response profile on your own and apply it to a mystery star!
