@@ -13,8 +13,11 @@
 1. ***SMALLER range of Stellar Masses***
 1. ***TINY range of Stellar Temperatures***
 1. Luminosity Classes - Stellar Radii - Isochrones
+1. [HRD explorer](https://astro.unl.edu/naap/hr/animations/hrExplorer.html) Show effect of varying star mass, luminosity, temperature and star radius
 1. Stellar Evolution
 1. ![electronexcitation](https://upload.wikimedia.org/wikipedia/commons/3/31/Bohr_atom_animation.gif)
+![jumps](../notebooks/jumps.png)
+
 1. What is regulating the surface temperature of a star?
 1. Somewhat similar to the water kettle in your kitchen!
 1. Why is the surface temperature of a star orders of magnitude cooler than the core temperature?
