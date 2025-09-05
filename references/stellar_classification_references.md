@@ -8,5 +8,5 @@
 1. [Intro to Stellar Spectra Video - Excellent](https://www.youtube.com/watch?v=PX3u5lJ5d5g&list=PLDNkB8B6SMxlaGASnVvzhdnShHXuCqm8m)
 1. [Star Color HRD Notes](https://www.ucolick.org/~woosley/lectures_fall2012/lecture6.12.4x.pdf#:~:text=Note%20that%20the%20“%20bluer”%20the%20object%2C,supplemented%20with%201000%20stars%20from%20other%20catalogs.)
 1. [Annotated HR Diagram](https://people.highline.edu/iglozman/classes/astronotes/media/hr_diagram.jpg)
-1. [Spectral Type Classification & Lines Identification Aid](../references/)
+1. [Spectral Type Classification & Lines Identification Aid](./zoology_star_spectra.pdf)
 
