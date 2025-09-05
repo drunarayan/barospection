@@ -31,4 +31,6 @@ Please note the following important points when doing this exercise.
 
 ### Click here to see the [Mystery Star Video](https://youtu.be/q8m3gAsRHYk?si=Dl585-uJ-1AseHsH) (<span style="color:red;">Ready to view now!</span>) for doing the Final Project
 
-### Download [Spectral Type Classification & Lines Identification Aid](../references/zoology_star_spectra.pdf). These are notes created by Dr. Chris Churchill from New Mexico State Univerysity
+### Download [Spectral Type Classification & Lines Identification Aid](../references/zoology_star_spectra.pdf). These are notes created by Dr. Chris Churchill from New Mexico State University
+
+### [Read these Useful HRD Specific References](https://drunarayan.github.io/barospection/references/stellar_classification_references.html)
