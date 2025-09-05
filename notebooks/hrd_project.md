@@ -27,4 +27,4 @@ Please note the following important points when doing this exercise.
 
 ### Here is the complete [Mystery Star Video Script](./mystery_star_video_script.md) (Ready now!) that can be used as exhaustive written instructions for completing your Mystery Star Type detection process.
 
-### Click here to see the [Mystery Star Video]() (still in-work. to be released soon) for doing the Final Project
+### Click here to see the [Mystery Star Video](https://drive.google.com/file/d/1xTcVLy7Xq3XSe9HQQLNQcQiAhuGX2AHM/view?usp=sharing) (Ready now!) for doing the Final Project

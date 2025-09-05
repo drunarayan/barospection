@@ -10,6 +10,7 @@ taught for BRIEF Boyce Astro Foundation by Chandru Narayan. (updated Sep 5, 2025
 ### [SLACK CHANNEL FOR ALL COMMUNICATIONS](https://briefprograms.slack.com/archives/C0918TX0SVC)! - Please look here for Q&A
 
 ### NEWS - READ THIS SECTION BELOW FOR UPDATES EACH TIME!
+- Sep 5th: Final Project Assignment: Mystery Star Video and details posted. Please start your work!
 - Sep 5th: Another set of 100+ spectral images obtained for the final HRD project! See dropbox.
 - Sep 4th: [Student Hertzsprung Russell Diagram Final Project - prework](https://drunarayan.github.io/barospection/notebooks/hrd_project.html)
 - Sep 1st: 100+ spectral images obtained for the final HRD project! See dropbox.
