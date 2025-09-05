@@ -44,4 +44,4 @@
 
 ## The Ultimate yellow brick road !!
 
-### Visual Magnitude ($m$) + Distance Ladder ($d$ parsecs) $\Longrightarrow$ Absolute Magnitude ($M$) $\Longrightarrow$ Stellar Type/Temperature/Luminosity/Radius!
+![](./yellowbrickroad.png)
