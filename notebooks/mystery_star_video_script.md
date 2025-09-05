@@ -31,16 +31,14 @@
         6. Click Calibrate. Select 1-point Calibration. 
         1. Put cursor on field marke "pixel #1"
         1. Enter the dispersion (Pixel Resolution) you previiosly noted if necessary in the dispersion field
-       
         7. Identify the zero-order by a click on the peak or donut hole with your mouse if star is defocused
          Then Apply the calibration and close button on the calibration window
         8. Click on Color Wheel
-        9. Click the 3dots button to navigate to the instrument response file you downloaded previously and click on it and click Open button
+        9. Click the 3dots (ellipsis) button to navigate to the instrument response file you downloaded previously and click on it and click Open button
         10. Click Apply to apply your instrument response. 
         1. Click the synthesise button for color in bottom bar. 
-        11. Click ????somewhere To restrict only to visible wavelengths
         12. Click Reference button and select the Reference Library.
-        13. Check mark the crop to visible wavelengths 
+        11. Click selection in Reference Library window to restrict only to visible wavelengths
         13. Start at the beginning (o5) reference by continuously clicking down or up arrow keys on the keyboard and see the magic of visual comparison between your corrected mystery star profile and standard reference profile! 
         14. You will see the standard reference peak travel from the invisible ultraviolet wavelengths into the visible region and far infra-red regions as you click the mouse.  
         15. Somewhere during your clicking the 2 curves will look very similar between the vertical Red lines bounding the visible region. Note the Star Type with best match (say a5v) going from hot O-types to cool M-types.
@@ -51,7 +49,7 @@
         20. Do the process again by looking at the feature matches. 
         21. There is so much to learn here during this process. Be observant all around!
         22. Note your final determination of star type  into the Google HRD sheet. Also fill out the Distance and Magnitude of the Star from the BID name into the Google HRD sheet.
-    20. REPEAT this last major step #xix with all sub-tasks for each of your 5 stars!  
+    20. REPEAT this last major step with all 25 or so sub-tasks for each of your 5 stars!  
     21. YOU ARE DONE.  CONGRATULATIONS!! YOU ARE AN AMATEUR SPECTROSCOPIST!!!
 
 
