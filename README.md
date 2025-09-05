@@ -164,6 +164,8 @@ Project|Topics|Notebook|Due Date|Partial Solution|
 
 1. [HR Diagram References](references/stellar_classification_references.md)
 
+1. Use this notebook to [explore your Mystery Star!](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fbarospection&branch=gh-pages&urlpath=lab%2Ftree%2Fbarospection%2Fnotebooks%2Fdecode_star.ipynb?reset){:target="_blank"}
+
 
 ## Workshop Meeting and Recording Links 
 
