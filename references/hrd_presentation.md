@@ -4,12 +4,19 @@
 
 ![](https://people.highline.edu/iglozman/classes/astronotes/media/betelgeuse_sizecomp.jpg) 
 
+![](./stellar_evolution.png)
+
 1. Most Important in all of Astrophysics
 1. Spectroscopy is a ***Keystone*** of Astronomy
 1. ***HUGE Dynamic Range of Stellar Luminosities***
 1. ***MEDIUM range of Stellar Radii***
 1. ***SMALLER range of Stellar Masses***
 1. ***TINY range of Stellar Temperatures***
+1. Luminosity Classes - Stellar Radii - Isochrones
+1. Stellar Evolution
+1. What is regulating the surface temperature of a star?
+1. Somewhat similar to the water kettle in your kitchen!
+1. Why is the surface temperature of a star orders of magnitude cooler than the core temperature?
 
 ![](radius.jpg)
 
