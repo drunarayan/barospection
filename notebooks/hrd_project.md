@@ -25,6 +25,6 @@ Please note the following important points when doing this exercise.
 
 1. It is better to ````reduce window clutter```` (described in video) before starting analysis on a new star for analysis. This is shown in the video below. 
 
-1. [Mystery Star Video Script](https://drunarayan.github.io/barospection/notebooks/mystery_star_video_script.html)
+### Here is the complete [Mystery Star Video Script](notebooks/mystery_star_video_script.md) (Ready now!) that can be used as exhaustive written instructions for completing your Mystery Star Type detection process.
 
-### [Click here to see the Final Project Prework Video in-work not ready as of yet]()
+### Click here to see the [Mystery Star Video]() (still in-work. to be released soon) for doing the Final Project
