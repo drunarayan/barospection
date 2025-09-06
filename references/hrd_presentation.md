@@ -18,7 +18,7 @@
 1. ![electronexcitation](https://upload.wikimedia.org/wikipedia/commons/3/31/Bohr_atom_animation.gif)
 ![jumps](../notebooks/jumps.png)
 
-1. What is regulating the surface temperature of a star?
+1. What is regulating the surface temperature of a star? Gas pressure in the stellar atmosphere a.k.a Surface gravity, Density
 1. Somewhat similar to the water kettle in your kitchen!
 1. Why is the surface temperature of a star orders of magnitude cooler than the core temperature?
 
