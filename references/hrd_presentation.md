@@ -33,7 +33,7 @@
 
 ![](absmag.png)
 
-![](./spectral_sequence.jpg)
+![](./annotated_spectral_sequence.png)
 
 
 ## What can you get out of Spectra (Spectroscopy)?
