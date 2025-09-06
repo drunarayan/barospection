@@ -29,10 +29,11 @@
 ## What can you get out of Star brightness (Photometry)?
 1. Apparent magnitude $m$
 1. [Calculate Absolute from Apparent Magnitude](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https://github.com/drunarayan/barospection&branch=gh-pages&urlpath=lab/tree/barospection/references/soln_star_plx_lum_mag_v2.ipynb)
+1. Absolute Magnitude $M$
 
 ![](absmag.png)
-2. Absolute Magnitude $M$
 
+![](./spectral_sequence.jpg)
 
 
 ## What can you get out of Spectra (Spectroscopy)?
