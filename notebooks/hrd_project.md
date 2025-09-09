@@ -34,3 +34,5 @@ Please note the following important points when doing this exercise.
 ### Download [Spectral Type Classification & Lines Identification Aid](../references/zoology_star_spectra.pdf). These are notes created by Dr. Chris Churchill from New Mexico State University
 
 ### [Read these Useful HRD Specific References](https://drunarayan.github.io/barospection/references/stellar_classification_references.html)
+
+### [BID Key Sheet is linked here](https://docs.google.com/spreadsheets/d/1eRtMpNg4EZ9bWFoRq0m8W-D5UW4ehGkpofw-NYtZrlo/edit?usp=sharing)
