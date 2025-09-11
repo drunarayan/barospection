@@ -7,6 +7,8 @@ Each of you have been assigned ***ONE Calibration Type A Star*** and ***FIVE dif
 
 1. Please note that the Star Type is no longer given to you. The BIDXXXXXXX you see is an encoded number You will have to find the Star Type by doing a spectral analysis on RSpec.  Once you have completed this step and ````entered all 5 of your Estimated Star Types into the Google HRD sheet````, I will release the decode Jupyter Notebook which will reveal the Henry Draper catalog number (HD Catalog Number) and give you helpful links to find the actual Star Type and much more interesting information about yout star.
 
+1. Please use this [Global HRD Results sheet with wikipedia actual types](https://docs.google.com/spreadsheets/d/1plTJLogCdBa8GP1pFGH6Z-wDuR2y6bDwrjkFmcB-NUs/edit?usp=sharing) reported side-by-side to your estimated star type. This sheet is view only.
+
 1. Download the type A star ````BID225343192_TypeA5v_Dist49.5786_Mag4.58```` in the Dropbox ````5.Spectroscopy->Images->2025-09-01```` folder and perform a 2-point calibration on it using a Hydrogen Beta line in RSpec. Note the Pixel Resolution with 2 decimal precision  and enter into the HRD Google Sheet linked above.
 
 1. Download the Instrument Response <a href="../docs/090125_baro_inst_resp2.dat" download="090125_baro_inst_resp2.dat"  target="_blank" rel="noopener">for Spectral images on Sep 1, 2025 linked here</a> and/or Download the instrument Response <a href="../docs/090425_baro_inst_resp3.dat" download="090425_baro_inst_resp3.dat"  target="_blank" rel="noopener">for Spectral images on Sep 4, 2025 linked here</a>. Save it to your desktop to later be be used in RSpec. Use the correct instrument response based on what date your spectrum was obtained.
