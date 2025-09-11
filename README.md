@@ -1,5 +1,5 @@
 ## Course repository for the ***Intro to Spectroscopy 2025*** Workshop 
-taught for BRIEF Boyce Astro Foundation by Chandru Narayan. (updated Sep 5, 2025)
+taught for BRIEF Boyce Astro Foundation by Chandru Narayan. (updated Sep 10, 2025)
 
 
 ### BAROSpection - Introduction to Spectroscopy [course flyer](docs/barospection_flyer.png)
@@ -10,6 +10,8 @@ taught for BRIEF Boyce Astro Foundation by Chandru Narayan. (updated Sep 5, 2025
 ### [SLACK CHANNEL FOR ALL COMMUNICATIONS](https://briefprograms.slack.com/archives/C0918TX0SVC)! - Please look here for Q&A
 
 ### NEWS - READ THIS SECTION BELOW FOR UPDATES EACH TIME!
+- Sep 10th: [Instrument Response files for spectral images taken on both 09/01/25 & 09/04/25](https://drunarayan.github.io/barospection/notebooks/hrd_project.html) are posted for downloading to be used in RSpec
+- Sep 10th: [Q&A session is @6:30 PM today, please join!](https://drunarayan.github.io/barospection/#workshop-meeting-and-recording-links)
 - Sep 5th: [The Hertzsprung Russell Diagram (HRD)](references/hrd_presentation.md) discussion is posted
 - Sep 5th: Final Project Assignment: [Mystery Star Video and details](https://drunarayan.github.io/barospection/notebooks/hrd_project.html) posted. Please start your work!
 - Sep 5th: Another set of 100+ spectral images obtained for the final HRD project! See dropbox.

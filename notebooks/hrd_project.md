@@ -9,7 +9,7 @@ Each of you have been assigned ***ONE Calibration Type A Star*** and ***FIVE dif
 
 1. Download the type A star ````BID225343192_TypeA5v_Dist49.5786_Mag4.58```` in the Dropbox ````5.Spectroscopy->Images->2025-09-01```` folder and perform a 2-point calibration on it using a Hydrogen Beta line in RSpec. Note the Pixel Resolution with 2 decimal precision  and enter into the HRD Google Sheet linked above.
 
-1. <a href="../docs/baro_inst_resp2.dat" download="baro_inst_resp2.dat"  target="_blank" rel="noopener">Download the instrument Response linked here</a> and save it to your desktop to later be be used in RSpec.
+1. Download the Instrument Response <a href="../docs/090125_baro_inst_resp2.dat" download="090125_baro_inst_resp2.dat"  target="_blank" rel="noopener">for Spectral images on Sep 1, 2025 linked here</a> and/or Download the instrument Response <a href="../docs/090425_baro_inst_resp3.dat" download="090425_baro_inst_resp3.dat"  target="_blank" rel="noopener">for Spectral images on Sep 4, 2025 linked here</a>. Save it to your desktop to later be be used in RSpec. Use the correct instrument response based on what date your spectrum was obtained.
 
 1. Download your 5 Stars noted in the Google Sheet above from Dropbox and use it to apply the instrument response and determine the Star Type for each star. Enter the Type and other details requested into the HRD Google Sheet linked above. You will need to ***````Request Edit access````*** for you to to be able to enter data into the Google Sheet. Please note that the ***````Gold and Yellow````*** fields require your input. See Video below for detailed instructions.
 
