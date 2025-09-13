@@ -1,5 +1,5 @@
 ## Course repository for the ***Intro to Spectroscopy 2025*** Workshop 
-taught for BRIEF Boyce Astro Foundation by Chandru Narayan. (updated Sep 11, 2025)
+taught for BRIEF Boyce Astro Foundation by Chandru Narayan. (updated Sep 13, 2025)
 
 
 ### BAROSpection - Introduction to Spectroscopy [course flyer](docs/barospection_flyer.png)
@@ -10,6 +10,8 @@ taught for BRIEF Boyce Astro Foundation by Chandru Narayan. (updated Sep 11, 202
 ### [SLACK CHANNEL FOR ALL COMMUNICATIONS](https://briefprograms.slack.com/archives/C0918TX0SVC)! - Please look here for Q&A
 
 ### NEWS - READ THIS SECTION BELOW FOR UPDATES EACH TIME!
+
+- Sep 13th: ***The BAROSpection course is now complete! Thank you for attending and providing feedback.  It looks like it was well received by all of you. Thank you! The Google VM prices have gone higher. Hence, I have decided that the Google VM will be available only upon request. I am sorry about this. However, please let me know on slack the dates and when (including Timezones) during those days you need it, I will schedule it to be turned on. Please give me several days notice. I would like to not waste money on unused CPU time.  I will write once more about scheduling special sessions for Poster and Paper Publications work on Spectroscopy.***
 - Sep 10th: [Instrument Response files for spectral images taken on both 09/01/25 & 09/04/25](https://drunarayan.github.io/barospection/notebooks/hrd_project.html) are posted for downloading to be used in RSpec
 - Sep 10th: [Q&A session is @6:30 PM today, please join!](https://drunarayan.github.io/barospection/#workshop-meeting-and-recording-links)
 - Sep 5th: [The Hertzsprung Russell Diagram (HRD)](references/hrd_presentation.md) discussion is posted
@@ -186,7 +188,7 @@ Item|Status|Date|Topic|Google Meet Link|Google Recording Link
 4|<span style="color:red;">COMPLETE</span>|Fri, Aug 29, 2025 6:30 - 8:00 PM Pacific Time|Star Classifications and RSpec analysis of BARO spectra obtained|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meeting Recording](https://drive.google.com/file/d/1-zORvrkzrrhorLQOlRUDBPMCC5-cn7Si/view?usp=sharing)
 5|<span style="color:red;">COMPLETE</span>|Thu, Sep 04, 2025 6:30 - 8:00 PM Pacific Time| OPTIONAL - Photonics Guest Lecture by Demis John!!|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meeting Recording](https://drive.google.com/file/d/1oKOTCnEsVXtxT3TUNMgfeWFC61cqf8ph/view?usp=sharing)
 6|<span style="color:red;">COMPLETE</span>|Fri, Sep 05, 2025 6:30 - 8:00 PM Pacific Time| Hertzsprung Russell Diagram and Final Project ***<span style="color:red;">Mystery Stars</span>***|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meeting Recording](https://drive.google.com/file/d/106CCIG462yEFKdxMCqJpw0aNds8xwTb9/view?usp=sharing)
-6|<span style="color:green;">UPCOMING</span>|Wed, Sep 10, 2025 6:30 - 8:00 PM Pacific Time| <span style="color:red;">***HRD WORK SESSION  Mystery Stars***</span>|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|Google Meeting Recording TBA
-7|<span style="color:green;">UPCOMING</span>|Fri, Sep 12, 2025 6:30 - 8:00 PM Pacific Time|Share our final results by sharing our published data in Jupyter Notebooks|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|Google Meeting Recording TBA
+6|<span style="color:red;">COMPLETE</span>|Wed, Sep 10, 2025 6:30 - 8:00 PM Pacific Time| <span style="color:red;">***HRD WORK SESSION  Mystery Stars***</span>|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meeting Recording](https://drive.google.com/file/d/1lJAdNlRE1h1y-6JF2XZfxsjSWoobAx4y/view?usp=sharing)
+7|<span style="color:red;">COMPLETE</span>|Fri, Sep 12, 2025 6:30 - 8:00 PM Pacific Time|Share our final results by sharing our published data in Jupyter Notebooks|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meeting Recording](https://drive.google.com/file/d/1qQSj7ZEbag185FsXvCT3ji0m2eHrwK8X/view?usp=sharing)
 
 
