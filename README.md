@@ -2,7 +2,7 @@
 taught for BRIEF Boyce Astro Foundation by Chandru Narayan. (updated Dec 27, 2025)
 
 
-### BAROSpection - Introduction to Spectroscopy [course flyer](docs/barospection_flyer.png)
+### BAROSpection - Introduction to Spectroscopy [2026 course flyer](docs/barospection_flyer.png)
 ![](barospection.png)
 
 ---
