@@ -1,5 +1,5 @@
 ## Course repository for the ***Intro to Spectroscopy 2026*** Workshop 
-taught for BRIEF Boyce Astro Foundation by Chandru Narayan. (updated March 23, 2025)
+taught for BRIEF Boyce Astro Foundation by Chandru Narayan. (updated April 3, 2026) - email chandru @ drunarayan@gmail.com if you have any questions about the seminar.
 
 
 ### BAROSpection - Introduction to Spectroscopy [2026 course flyer](docs/barospection_flyer.png)
@@ -11,6 +11,7 @@ taught for BRIEF Boyce Astro Foundation by Chandru Narayan. (updated March 23, 2
 
 ### NEWS - READ THIS SECTION BELOW FOR UPDATES EACH TIME!
 
+- UPDATES being made for content for the Spring 2026 edition for the *** Intro to Spectroscopy - BAROSpection - p4b ***. Class starts  
 - Sep 13th: ***The BAROSpection course is now complete! Thank you for attending and providing feedback.  It looks like it was well received by all of you. Thank you! The Google VM prices have gone higher. Hence, I have decided that the Google VM will be available only upon request. I am sorry about this. However, please let me know on slack the dates and when (including Timezones) during those days you need it, I will schedule it to be turned on. Please give me several days notice. I would like to not waste money on unused CPU time.  I will write once more about scheduling special sessions for Poster and Paper Publications work on Spectroscopy.***
 - Sep 10th: [Instrument Response files for spectral images taken on both 09/01/25 & 09/04/25](https://drunarayan.github.io/barospection/notebooks/hrd_project.html) are posted for downloading to be used in RSpec
 - Sep 10th: [Q&A session is @6:30 PM today, please join!](https://drunarayan.github.io/barospection/#workshop-meeting-and-recording-links)
@@ -181,14 +182,14 @@ Project|Topics|Notebook|Due Date|Partial Solution|
 
 Item|Status|Date|Topic|Google Meet Link|Google Recording Link
 ---|---|---|---|---|---
-1a|<span style="color:red;">COMPLETE</span>|Fri, Aug 15, 2025 6:30 - 8:00 PM Pacific Time|Intro to Spectroscopy & Jupyter Notebooks|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|The recording from the following session contains the full 3.5 hours from Aug 15th
-1b|<span style="color:red;">COMPLETE</span>|Fri, Aug 15, 2025 8:00 - 11:00 PM Pacific Time|OPTIONAL - Obtain Spectra from BARO telescope|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meeting Recording](https://drive.google.com/file/d/18gcrqDIVmb6X6sJXX8UXVBMbA17a9oRf/view?usp=sharing)
-2|<span style="color:blue;"><span style="color:red;">COMPLETE</span></span>|Thu, Aug 21, 2025 6:30 - 8:00 PM Pacific Time|OPTIONAL - Informal/Friendly Walkthrough of RSpec by Mr. Tom Field|[Zoom link](https://us02web.zoom.us/j/86288551677?pwd=pS1hZBz2puUwFNIY09FDK8eO7jVoDd.1)|[Tom Field's RSpec Meeting Recording](https://drive.google.com/file/d/1Gg6ZpX-YEi5o7WKnJGfxVzuD7VeSETUu/view?usp=sharing)
-3|<span style="color:red;">COMPLETE</span>|Fri, Aug 22, 2025 6:30 - 8:00 PM Pacific Time|Light & Matter. Absorption & Emission Spectra & Types of Spectroscopy|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meeting Recording](https://drive.google.com/file/d/1He_F4tpt1IxNAd0y8_KPukWTOGw7H-ia/view?usp=sharing)
-4|<span style="color:red;">COMPLETE</span>|Fri, Aug 29, 2025 6:30 - 8:00 PM Pacific Time|Star Classifications and RSpec analysis of BARO spectra obtained|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meeting Recording](https://drive.google.com/file/d/1-zORvrkzrrhorLQOlRUDBPMCC5-cn7Si/view?usp=sharing)
-5|<span style="color:red;">COMPLETE</span>|Thu, Sep 04, 2025 6:30 - 8:00 PM Pacific Time| OPTIONAL - Photonics Guest Lecture by Demis John!!|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meeting Recording](https://drive.google.com/file/d/1oKOTCnEsVXtxT3TUNMgfeWFC61cqf8ph/view?usp=sharing)
-6|<span style="color:red;">COMPLETE</span>|Fri, Sep 05, 2025 6:30 - 8:00 PM Pacific Time| Hertzsprung Russell Diagram and Final Project ***<span style="color:red;">Mystery Stars</span>***|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meeting Recording](https://drive.google.com/file/d/106CCIG462yEFKdxMCqJpw0aNds8xwTb9/view?usp=sharing)
-6|<span style="color:red;">COMPLETE</span>|Wed, Sep 10, 2025 6:30 - 8:00 PM Pacific Time| <span style="color:red;">***HRD WORK SESSION  Mystery Stars***</span>|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meeting Recording](https://drive.google.com/file/d/1lJAdNlRE1h1y-6JF2XZfxsjSWoobAx4y/view?usp=sharing)
-7|<span style="color:red;">COMPLETE</span>|Fri, Sep 12, 2025 6:30 - 8:00 PM Pacific Time|Share our final results by sharing our published data in Jupyter Notebooks|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meeting Recording](https://drive.google.com/file/d/1qQSj7ZEbag185FsXvCT3ji0m2eHrwK8X/view?usp=sharing)
+1a|Posted|Tue, Apr 28, 2026 6:30 - 8:00 PM Pacific Time|Intro to Spectroscopy & Jupyter Notebooks|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|The recording from the following session contains the full 3.5 hours from Aug 15th
+1b|Posted|Tue, Apr 28, 2026 8:00 - 11:00 PM Pacific Time|OPTIONAL - Obtain Spectra from BARO telescope|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meet Recording from 2025 Seminar](https://drive.google.com/file/d/18gcrqDIVmb6X6sJXX8UXVBMbA17a9oRf/view?usp=sharing)
+2|<span style="color:blue;">Posted</span>|Mon, May 04, 2026 6:30 - 8:00 PM Pacific Time|OPTIONAL - Informal/Friendly Walkthrough of RSpec by Mr. Tom Field|[Zoom link](https://us02web.zoom.us/j/86288551677?pwd=pS1hZBz2puUwFNIY09FDK8eO7jVoDd.1)|[Tom Field's RSpec Meeting Recording](https://drive.google.com/file/d/1Gg6ZpX-YEi5o7WKnJGfxVzuD7VeSETUu/view?usp=sharing)
+3|Posted|Tue, May 05, 2026 6:30 - 8:00 PM Pacific Time|Light & Matter. Absorption & Emission Spectra & Types of Spectroscopy|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meet Recording from 2025 Seminar](https://drive.google.com/file/d/1He_F4tpt1IxNAd0y8_KPukWTOGw7H-ia/view?usp=sharing)
+4|Posted|Tue, May 12, 2026 6:30 - 8:00 PM Pacific Time|Star Classifications and RSpec analysis of BARO spectra obtained|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meet Recording from 2025 Seminar](https://drive.google.com/file/d/1-zORvrkzrrhorLQOlRUDBPMCC5-cn7Si/view?usp=sharing)
+5|Posted|Thu, May 19, 2026 6:30 - 8:00 PM Pacific Time| OPTIONAL - Photonics Guest Lecture by Demis John!!|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meet Recording from 2025 Seminar](https://drive.google.com/file/d/1oKOTCnEsVXtxT3TUNMgfeWFC61cqf8ph/view?usp=sharing)
+6|Posted|Tue, May 26, 2026 6:30 - 8:00 PM Pacific Time| Hertzsprung Russell Diagram and Final Project ***<span style="color:red;">Mystery Stars</span>***|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meet Recording from 2025 Seminar](https://drive.google.com/file/d/106CCIG462yEFKdxMCqJpw0aNds8xwTb9/view?usp=sharing)
+6|Posted|Wed, Jun 02, 2026 6:30 - 8:00 PM Pacific Time| <span style="color:red;">***HRD WORK SESSION  Mystery Stars***</span>|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meet Recording from 2025 Seminar](https://drive.google.com/file/d/1lJAdNlRE1h1y-6JF2XZfxsjSWoobAx4y/view?usp=sharing)
+7|Posted|Tue, Jun 09, 2026 6:30 - 8:00 PM Pacific Time|Share our final results by sharing our published data in Jupyter Notebooks|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meet Recording from 2025 Seminar](https://drive.google.com/file/d/1qQSj7ZEbag185FsXvCT3ji0m2eHrwK8X/view?usp=sharing)
 
 
