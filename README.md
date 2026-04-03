@@ -30,7 +30,7 @@ Skills we will teach include:
 1. Pandas & Numpy (dataframes and math libraries for Python)
 1. SQL (structured query language for querying astro databases)
 
-We expect to run for a total of ***6 sessions every Tuesday starting Apr 28, 2026***. Look for a Google Meet schedule links to be available at this page ahead of the workshop start date. 
+We expect to run for a total of ***8 sessions every Tuesday starting Apr 28, 2026***. Look for a Google Meet schedule links to be available at this page ahead of the workshop start date. 
 
 Please check this link below for ALL UPDATES.  I will try not to send emails or notifications for any updates.  All materials will show up on this link below.  So please bookmark it check it frequently. 
 
