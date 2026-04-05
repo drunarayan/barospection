@@ -1,5 +1,5 @@
 ## Course repository for the ***Intro to Spectroscopy 2026*** *seminar starts Apr 28*
-taught for BRIEF Boyce Astro Foundation by Chandru Narayan. (updated April 3, 2026) - email chandru@ [drunarayan@gmail.com](email://drunarayan@gmail.com) if you have any questions about the seminar.
+taught for BRIEF Boyce Astro Foundation by Chandru Narayan. (updated April 5, 2026) - email chandru@ [drunarayan@gmail.com](email://drunarayan@gmail.com) if you have any questions about the seminar.
 
 
 ### BAROSpection - Introduction to Spectroscopy [2026 course flyer](docs/barospection_flyer.png)
@@ -119,10 +119,10 @@ Project|Topics|Notebook|Due Date|Partial Solution|
 ### Star Properties
 1. Star Types
 1. What can you learn from Star Spectra
-2. HertzSprung Russell Diagram (HRD)
+2. [HertzSprung Russell Diagram (HRD)](https://en.wikipedia.org/wiki/Main_sequence)
 3. Plot an HRD for Sun's 100 Parsec neighbourhood
 1. Final Project - [Mystery Stars & HRD](https://drunarayan.github.io/barospection/notebooks/hrd_project.html)
-1. [HRD Presetntation](references/hrd_presentation.md)
+1. [HRD Presentation](references/hrd_presentation.md)
 
 ### Obtain Live Spectra from the BARO Telescope
 1. Spectral Grating configuration on BARO
