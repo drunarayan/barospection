@@ -1,11 +1,11 @@
-## Course repository for the ***Intro to Spectroscopy 2026*** Workshop 
+## Course repository for the ***Intro to Spectroscopy 2026*** *seminar starts Apr 28*
 taught for BRIEF Boyce Astro Foundation by Chandru Narayan. (updated April 3, 2026) - email chandru@ [drunarayan@gmail.com](email://drunarayan@gmail.com) if you have any questions about the seminar.
 
 
 ### BAROSpection - Introduction to Spectroscopy [2026 course flyer](docs/barospection_flyer.png)
 ![](barospection.png) 
 
-### [Add yourself to the waitlist for this Seminar](https://boyce-astro.org/spectroscopy-sign-up/)
+### [Add yourself to the waitlist for this Seminar](https://boyce-astro.org/spectroscopy-sign-up/) ***Class Starts Apr 28, 2026***
 
 ---
 
@@ -124,14 +124,14 @@ Project|Topics|Notebook|Due Date|Partial Solution|
 1. Final Project - [Mystery Stars & HRD](https://drunarayan.github.io/barospection/notebooks/hrd_project.html)
 1. [HRD Presetntation](references/hrd_presentation.md)
 
-### Obtain Spectra from the BARO Telescope
+### Obtain Live Spectra from the BARO Telescope
 1. Spectral Grating configuration on BARO
 1. Selecting Targets in the Solar Neiborhood
 1. Create Target List for Hot & Cool Stars & Nebulae
 1. Schedule to obtain Spectra
 1. Calibrate using [RSpec](https://rspec-astro.com/) 
 
-### Analyze & Publish Spectral Images
+### Analyze & Publish Spectral Images using RSpec
 1. [Annotated HR Diagram](https://people.highline.edu/iglozman/classes/astronotes/media/hr_diagram.jpg){:target="_blank"}
 1. Use RSpec to Analyze Spectral Lines
 1. Measure Wavelenghts & Frequencies
