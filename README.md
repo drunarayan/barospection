@@ -1,5 +1,5 @@
 ## Course repository for the ***Intro to Spectroscopy 2026*** *seminar starts Apr 28*
-taught for BRIEF Boyce Astro Foundation by Chandru Narayan. (updated April 17, 2026) - email chandru@ [drunarayan@gmail.com](email://drunarayan@gmail.com) if you have any questions about the seminar.
+taught for BRIEF Boyce Astro Foundation by Chandru Narayan. (updated April 22, 2026) - email chandru@ [drunarayan@gmail.com](email://drunarayan@gmail.com) if you have any questions about the seminar.
 
 
 ### BAROSpection - Introduction to Spectroscopy [2026 course flyer](docs/barospection_flyer.png)
@@ -9,7 +9,7 @@ taught for BRIEF Boyce Astro Foundation by Chandru Narayan. (updated April 17, 2
 
 ---
 
-### [SLACK CHANNEL FOR ALL COMMUNICATIONS](https://briefprograms.slack.com/archives/C0AKJ3J08KG)! - Please look here for Q&A
+### [SLACK CHANNEL FOR ALL COMMUNICATIONS](https://briefprograms.slack.com/archives/C0ATVGNRG8N)! - Please look here for Q&A
 
 <!-- ### [SLACK CHANNEL FOR ALL COMMUNICATIONS](https://briefprograms.slack.com/archives/C0918TX0SVC)! - Please look here for Q&A -->
 
