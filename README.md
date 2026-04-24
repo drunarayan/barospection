@@ -1,5 +1,5 @@
 ## Course repository for the ***Intro to Spectroscopy 2026*** *seminar starts Apr 28*
-taught for BRIEF Boyce Astro Foundation by Chandru Narayan. (updated April 24, 2026) - email chandru@ [drunarayan@gmail.com](email://drunarayan@gmail.com) if you have any questions about the seminar.
+*taught for BRIEF Boyce Astro Foundation by Chandru Narayan. (updated April 24, 2026) - email chandru@ [drunarayan@gmail.com](email://drunarayan@gmail.com) if you have any questions about the seminar*.
 
 
 ### BAROSpection - Introduction to Spectroscopy [2026 course flyer](docs/barospection_flyer.png)
@@ -31,11 +31,11 @@ Skills we will teach include:
 1. Matplotlib (plotting large amounts of data)
 1. LaTeX (web and github enables equation editor for research)
 1. SQL (structured query language for querying astro databases)
-1. Lastly, and significantly, [using RSpec to analyze](https://rspec-astro.com/) Spectra of Stars and Nebulae in our Milky Way and the deep sky beyond!
+1. Lastly, and significantly, [using RSpec to analyze](https://rspec-astro.com/){:target="_blank"} Spectra of Stars and Nebulae in our Milky Way and the deep sky beyond!
 
 We expect to run for a total of ***8 sessions every Tuesday starting Apr 28, 2026***. Look for a Google Meet schedule links to be available at this page ahead of the workshop start date. 
 
-Please check this link below for ALL UPDATES.  I will try not to send emails or notifications for any updates.  All materials will show up on this link below.  So please bookmark it check it frequently. 
+Please bookmark this website for ALL UPDATES.  I will try not to send emails or notifications for any updates.  All materials will show up here.  
 
 ## What is Jupyter?
 
@@ -45,24 +45,26 @@ All of the content provided here are accessible to you using a combination of te
 
 You will be accessing your own 'virtual laptop' hosted on a Google virtual machine somewhere in the globe to do your work.  You class materials will be available to you there and you will store the products of your learning there and not on your physical computer from which you are accessing this course. Your work will be to modify the Jupyter Notebooks to add text, images, video, to write your own code, query and retrieve astronomical databases, analyze and plot your results graphically.
 
-## Create your JupyterLab Login for use later!
+## Create your JupyterLab Password for use later!
 
-You will be logging into JupyterHub for getting workshop materials and creating your own Jupyter Notebooks.  Your username is simply ```<your first name>.``` followed by the word ```p4b```. For instance, my username would be ```chandru.p4b```. ***See & use the created usernames below. The first time you log in, create and type in any password you make up yourself.***  That will become your actual password for this JupyterHub - please try not to forget it.  If you do, email me at drunarayan@gmail.com, I will reset it.  Please see created usernames below.
-
-## Workshop organization & JupyterLab - your own virtual laptop in the sky!
-
-### [Click here to read about the BAROSpection workshop Infrastructure](notebooks/barospection_workshop_infrastructure.md){:target="_blank"}
+You will be logging into JupyterHub for getting workshop materials and creating your own Jupyter Notebooks.  If you have registered, your username has been created. Your username will be ```<your first name>.``` followed by the word ```p4b```. For instance, my username would be ```chandru.p4b```. ***See & use the created usernames below. The first time you log in, create and type in any password you make up yourself.***  That will become your actual password for this JupyterHub - please try not to forget it.  If you do, email me at drunarayan@gmail.com, I will reset it.  Please see created usernames below.
 
 ## User Names & Student Assignments 
 
-### [Click here to see Students, Intial Star Assignments, Usernames, Status](notebooks/initial_students_usernames.md){:target="_blank"}
+### [Click here to see Student Intial Star Assignments, Usernames, Status](notebooks/initial_students_usernames.md){:target="_blank"}
 
+<!--->
 ### [Click here to see Student Submissions](student_solutions/readme.md){:target="_blank"}
 
 ### [Click for FINAL PROJECT Instructions - Analyze Mystery Star and Build Hertzsprung Russell Diagram](notebooks/hrd_project.md){:target="_blank"} 
 
 ## Projects & Materials Access
 #### Please complete these steps including ``Project 0`` ahead of the first session
+--->
+
+## Workshop organization & JupyterLab - your own virtual laptop in the sky!
+
+### [Click here to read about the BAROSpection workshop Infrastructure](notebooks/barospection_workshop_infrastructure.md){:target="_blank"}
 
 * [Access Online OpenStax Astronomy Textbook here](https://openstax.org/books/astronomy-2e/pages/1-introduction){:target="_blank"}
 * Complete ```Project 0-3: First Login to Jupyter & Slack and other introductory assignments``` which should be available for you to create your first lines of code in Markdown & Python for this class.  I encourage you to click each of the Project 0-3 Notebooks below, ***login with your username and password as identified in the previous paragraphs***. See if you can complete these ahead of our first 2 introductory sessions!
@@ -82,7 +84,7 @@ You will be logging into JupyterHub for getting workshop materials and creating 
 
 Project|Topics|Notebook|Due Date|Partial Solution|
 ---|---|---|---|---|
-0.0.|First Access to Slack  - Make your first contribution to Slack about your assigned Star!|[Slack](https://briefprograms.slack.com/archives/C0918TX0SVC){:target="_blank"} | TBD|None
+0.0.|First Access to Slack  - Make your first contribution to Slack about your assigned Star!|[Slack](https://briefprograms.slack.com/archives/C0ATVGNRG8N){:target="_blank"} | TBD|None
 0.1.|First Login to JupyterHub  - Hand compute celestial coordinates for your assigned star|[Hand Compute CC](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fbarospection&branch=gh-pages&urlpath=lab%2Ftree%2Fbarospection%2Fnotebooks%2F00_hand_compute_cc.ipynb?reset){:target="_blank"} | TBD|[View Only](https://nbviewer.org/github/drunarayan/barospection/blob/gh-pages/student_solutions/chandru/soln_00_hand_compute_cc.ipynb?flush_cache=true){:target="_blank"}
 0.2.|What is JupyterLab - Jupyter Notebooks - Learn Basics|[Intro to Jupyter](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fbarospection&branch=gh-pages&urlpath=lab%2Ftree%2Fbarospection%2Fnotebooks%2F01_jupyter_notebooks.ipynb?reset){:target="_blank"} | TBD|[View Only](https://nbviewer.org/github/drunarayan/barospection/blob/gh-pages/notebooks/01_jupyter_notebooks.ipynb?flush_cache=true){:target="_blank"}
 1.|Introduction to coding Python inside JupyterLab|[Intro to Python Part 1](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fbarospection&branch=gh-pages&urlpath=lab%2Ftree%2Fbarospection%2Fnotebooks%2F02_Python.ipynb?reset){:target="_blank"} |TBD |[View Only](https://nbviewer.org/github/drunarayan/barospection/blob/gh-pages/notebooks/02_Python.ipynb){:target="_blank"}
