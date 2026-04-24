@@ -1,36 +1,37 @@
 ## Course repository for the ***Intro to Spectroscopy 2026*** *seminar starts Apr 28*
-taught for BRIEF Boyce Astro Foundation by Chandru Narayan. (updated April 22, 2026) - email chandru@ [drunarayan@gmail.com](email://drunarayan@gmail.com) if you have any questions about the seminar.
+taught for BRIEF Boyce Astro Foundation by Chandru Narayan. (updated April 24, 2026) - email chandru@ [drunarayan@gmail.com](email://drunarayan@gmail.com) if you have any questions about the seminar.
 
 
 ### BAROSpection - Introduction to Spectroscopy [2026 course flyer](docs/barospection_flyer.png)
 ![](barospection.png) 
 
-### [Add yourself to the waitlist for this Seminar](https://boyce-astro.org/spectroscopy-sign-up/) ***Class Starts Apr 28, 2026***
+### [Add yourself to the waitlist for this Seminar](https://boyce-astro.org/spectroscopy-sign-up/) ***Class Starts Tuesday, Apr 28, 2026***
 
 ---
 
-### [SLACK CHANNEL FOR ALL COMMUNICATIONS](https://briefprograms.slack.com/archives/C0ATVGNRG8N)! - Please look here for Q&A
+### [SLACK CHANNEL LINK FOR ALL COMMUNICATIONS](https://briefprograms.slack.com/archives/C0ATVGNRG8N)! - Please look here for Q&A and student contributions
 
 <!-- ### [SLACK CHANNEL FOR ALL COMMUNICATIONS](https://briefprograms.slack.com/archives/C0918TX0SVC)! - Please look here for Q&A -->
 
-### NEWS - READ THIS SECTION BELOW FOR UPDATES EACH TIME!
+### What's New
 
-- UPDATES being made for content for the Spring 2026 edition for the ***Intro to Spectroscopy - BAROSpection - p4b***. 
-- ***Class starts Apr 28, 2026*** 
-
+- 042626 - *wide-ranging content updates and Jupyter notebooks for Spring 2026 BAROSpection seminar*.
 
 
-Our workshop will cover a smattering of interesting or historically significant Spectroscopy topics in no particular sequence.  However, the main goal of this course is to teach critical college and research skills that you will need as a student & professional. We will attempt to develop these skills primarily on Spectroscopy related topics as you clearly are astro enthusiasts!  The primary audience for this course are High/Middle School, College students, or Early Career professionals. We also care about accessibility of these resources across student communities who may be underrepresented and of a diverse socio economic background. We hope to keep these resources free and open for use as much as possible to anyone who may be interested.  Please contact me at drunarayan@gmail.com if you would like to learn more about this course.
+
+
+The ````BAROSpection - Intro to Spectroscopy```` seminar will cover a smattering of interesting or historically significant Spectroscopy topics in no particular sequence.  However, the main goal of this course is to teach critical college and research skills that you will need as a motivated student, researcher or hobbiyist. We will attempt to develop these skills primarily on Spectroscopy related topics as you clearly are astro enthusiasts!  The primary audience for this course are advanced High/Middle School, College students, Hobbyists or Early Career Researchers. We also care about accessibility of these resources across student communities who may be underrepresented and of a diverse socio economic background. We hope to keep these resources free and open for use as much as possible to anyone who may be interested.  Please contact me at drunarayan@gmail.com if you would like to learn more about this course.
 
 Skills we will teach include:
 1. Jupyter Notebooks (the backbone of JupyterLab)
 1. JupyterHub & JupyterLab (dev environment for Jupyter Notebooks adopted widely by universities)
 1. Markdown Syntax (dynamic text, images, video and code embedded publishing)
-1. LaTeX (web and github enables equation editor for research)
 1. Python (language of choice for data science and STEM publications)
-1. Matplotlib (plotting large amounts of data)
 1. Pandas & Numpy (dataframes and math libraries for Python)
+1. Matplotlib (plotting large amounts of data)
+1. LaTeX (web and github enables equation editor for research)
 1. SQL (structured query language for querying astro databases)
+1. Lastly, and significantly, [using RSpec to analyze](https://rspec-astro.com/) Spectra of Stars and Nebulae in our Milky Way and the deep sky beyond!
 
 We expect to run for a total of ***8 sessions every Tuesday starting Apr 28, 2026***. Look for a Google Meet schedule links to be available at this page ahead of the workshop start date. 
 
