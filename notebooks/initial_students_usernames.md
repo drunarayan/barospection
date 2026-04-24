@@ -1,7 +1,7 @@
 if your status shows <span style="color:red;">pending</span> you did not start the course and you will need to contact me by email drunarayan@gmail.com to continue in the workshop. 
 
 First|Last|email|username|status|current
----|---|---|---|---||current
+---|---|---|---|---|---|
 Deci|Hermosilla|decirh@gmail.com|deci.p4b|current
 Doctor|Astronaut|aurelialwaller@gmail.com|doctor.p4b|current
 Jeff|Haynes|Jeffhaynes1@gmail.com|jeff.p4b|current
