@@ -53,7 +53,7 @@ You will be logging into JupyterHub for getting workshop materials and creating 
 
 ### [Click here to see Student Intial Star Assignments, Usernames, Status](notebooks/initial_students_usernames.md){:target="_blank"}
 
-<!--->
+<!---
 ### [Click here to see Student Submissions](student_solutions/readme.md){:target="_blank"}
 
 ### [Click for FINAL PROJECT Instructions - Analyze Mystery Star and Build Hertzsprung Russell Diagram](notebooks/hrd_project.md){:target="_blank"} 
