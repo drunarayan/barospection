@@ -12,4 +12,4 @@ Kuppuswany|TS|kuppuswamyts@gmail.com|kuppuswany.p4b|current|[Merak](https://en.w
 Lauren|Albin|lauren.albin29@gmail.com|lauren.p4b|current|[Eta Leonis](https://en.wikipedia.org/w/index.php?search=Astronomy+Eta%20Leonis&title=Special%3ASearch&profile=advanced&fulltext=1&ns0=1)
 Matt|Boerlage|matthijs.boerlage@gmail.com|matt.p4b|current|[Phecda](https://en.wikipedia.org/w/index.php?search=Astronomy+Phecda&title=Special%3ASearch&profile=advanced&fulltext=1&ns0=1)
 Richard|Jaworski|richjaw001@gmail.com|richard.p4b|current|[Megrez](https://en.wikipedia.org/w/index.php?search=Astronomy+Megrez&title=Special%3ASearch&profile=advanced&fulltext=1&ns0=1&searchToken=b7wezz160gd0q9j4wkc77ejqi)
-Shanzeh|Khan|khanshanzeh.09@gmail.com|shanzeh.p4b|current|[Zosma](https://en.wikipedia.org/w/index.php?search=Astronomy+Zosma&title=Special%3ASearch&profile=advanced&fulltext=1&ns0=1)
+Shanzeh|Khan|khanshanzeh.09@gmail.com|shanzeh.p4b|current|[Seginus](https://en.wikipedia.org/w/index.php?search=Astronomy+Seginus&title=Special%3ASearch&profile=advanced&fulltext=1&ns0=1)
