@@ -1,5 +1,5 @@
 ## Course repository for the ***Intro to Spectroscopy 2026*** *seminar starts Apr 28*
-*taught for BRIEF Boyce Astro Foundation by Chandru Narayan. (updated April 24, 2026) - email chandru@ [drunarayan@gmail.com](email://drunarayan@gmail.com) if you have any questions about the seminar*.
+*taught for BRIEF Boyce Astro Foundation by Chandru Narayan. (updated April 25, 2026) - email chandru@ [drunarayan@gmail.com](email://drunarayan@gmail.com) if you have any questions about the seminar*.
 
 
 ### BAROSpection - Introduction to Spectroscopy [2026 course flyer](docs/barospection_flyer.png)
@@ -14,8 +14,8 @@
 <!-- ### [SLACK CHANNEL FOR ALL COMMUNICATIONS](https://briefprograms.slack.com/archives/C0918TX0SVC)! - Please look here for Q&A -->
 
 ### What's New
-
-- 042626 - *wide-ranging content updates and Jupyter notebooks for Spring 2026 BAROSpection seminar*.
+- 042526 - [***````Complete the Slack & Hand Compute CC assignments ahead of April 28th````***](https://drunarayan.github.io/barospection/#python-for-spectroscopy-course-content-notebooks--assignments)
+- 042426 - *wide-ranging content updates and Jupyter notebooks for Spring 2026 BAROSpection seminar*.
 
 
 
@@ -85,11 +85,11 @@ You will be logging into JupyterHub for getting workshop materials and creating 
 
 Project|Topics|Notebook|Due Date|Partial Solution|
 ---|---|---|---|---|
-0.0.|First Access to Slack  - Introduce yourself with a short background saying hello to your fellow participants|[Slack](https://briefprograms.slack.com/archives/C0ATVGNRG8N){:target="_blank"} | TBD|None
-0.1.|Hand compute celestial coordinates for your assigned star using Notebook. Make a contribution to Slack about an interesting fact about your assigned star [using wikipedia](https://en.wikipedia.org/w/index.php?search=Astronomy+Vega&title=Special%3ASearch&profile=advanced&fulltext=1&ns0=1)!|[Hand Compute CC](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fbarospection&branch=gh-pages&urlpath=lab%2Ftree%2Fbarospection%2Fnotebooks%2F00_hand_compute_cc.ipynb?reset){:target="_blank"} | TBD|[View Only](https://nbviewer.org/github/drunarayan/barospection/blob/gh-pages/student_solutions/chandru/soln_00_hand_compute_cc.ipynb?flush_cache=true){:target="_blank"}
+0.0.|First Access to Slack  - Introduce yourself with a short background saying hello to your fellow participants|[Slack](https://briefprograms.slack.com/archives/C0ATVGNRG8N){:target="_blank"} |***```BEFORE Apr 28th```***|None
+0.1.|Hand compute celestial coordinates for your assigned star using Notebook. Make a contribution to Slack about an interesting fact about your assigned star [using wikipedia](https://en.wikipedia.org/w/index.php?search=Astronomy+Vega&title=Special%3ASearch&profile=advanced&fulltext=1&ns0=1)!|[Hand Compute CC](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fbarospection&branch=gh-pages&urlpath=lab%2Ftree%2Fbarospection%2Fnotebooks%2F00_hand_compute_cc.ipynb?reset){:target="_blank"} |***```BEFORE Apr 28th```***|[View Only](https://nbviewer.org/github/drunarayan/barospection/blob/gh-pages/student_solutions/chandru/soln_00_hand_compute_cc.ipynb?flush_cache=true){:target="_blank"}
 0.2.|What is JupyterLab - Jupyter Notebooks - Learn Basics|[Intro to Jupyter](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fbarospection&branch=gh-pages&urlpath=lab%2Ftree%2Fbarospection%2Fnotebooks%2F01_jupyter_notebooks.ipynb?reset){:target="_blank"} | TBD|[View Only](https://nbviewer.org/github/drunarayan/barospection/blob/gh-pages/notebooks/01_jupyter_notebooks.ipynb?flush_cache=true){:target="_blank"}
 1.|Introduction to coding Python inside JupyterLab|[Intro to Python Part 1](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fbarospection&branch=gh-pages&urlpath=lab%2Ftree%2Fbarospection%2Fnotebooks%2F02_Python.ipynb?reset){:target="_blank"} |TBD |[View Only](https://nbviewer.org/github/drunarayan/barospection/blob/gh-pages/notebooks/02_Python.ipynb){:target="_blank"}
-2.|Compute Celestial Coordinates to obtain Live Spectra of Stars|[Celestial Coordinates](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fbarospection&branch=gh-pages&urlpath=lab%2Ftree%2Fbarospection%2Fnotebooks%2F02B_Celestial_Coordinates.ipynb?reset){:target="_blank"} | TBD|[View Only](https://nbviewer.org/github/drunarayan/barospection/blob/gh-pages/notebooks/02B_Celestial_Coordinates.ipynb){:target="_blank"}
+2.|Compute Celestial Coordinates to obtain Live Spectra of Multiple Star Types|[Celestial Coordinates](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fbarospection&branch=gh-pages&urlpath=lab%2Ftree%2Fbarospection%2Fnotebooks%2F02B_Celestial_Coordinates.ipynb?reset){:target="_blank"} | TBD|[View Only](https://nbviewer.org/github/drunarayan/barospection/blob/gh-pages/notebooks/02B_Celestial_Coordinates.ipynb){:target="_blank"}
 3.|Install the RSpec Application on your Windows system for analysis of your star spectra. Please include word "BAROspection" in the form for download |[RSpec download & Install](https://rspec-astro.com/setupdownload/){:target="_blank"} | TBD| None
 4.|RSpec Spectral Analysis|[First RSpec Analysis of your Star](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fbarospection&branch=gh-pages&urlpath=lab%2Ftree%2Fbarospection%2Fnotebooks%2Flight_basics_assignment_with_rspec.ipynb?reset){:target="_blank"} |  TBD|[View Only](https://nbviewer.org/github/drunarayan/barospection/blob/gh-pages/notebooks/light_basics_assignment_with_rspec.ipynb){:target="_blank"}
 5a.|Calculate Temperature of your star using Wein's law & build Instrument Response Curve|[Star temperature & Instrument Response](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fbarospection&branch=gh-pages&urlpath=lab%2Ftree%2Fbarospection%2Fnotebooks%2Flight_matter_interactions.ipynb?reset){:target="_blank"} |  TBD|[View Only](https://nbviewer.org/github/drunarayan/barospection/blob/gh-pages/notebooks/light_basics_assignment_with_rspec.ipynb){:target="_blank"}
