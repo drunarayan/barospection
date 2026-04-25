@@ -11,5 +11,5 @@ Kenny|Chan|kennychan222@gmail.com|kenny.p4b|current|[Mizar](https://en.wikipedia
 Kuppuswany|TS|kuppuswamyts@gmail.com|kuppuswany.p4b|current|[Merak](https://en.wikipedia.org/w/index.php?search=Astronomy+Eta%20Leonis&title=Special%3ASearch&profile=advanced&fulltext=1&ns0=1)
 Lauren|Albin|lauren.albin29@gmail.com|lauren.p4b|current|[Eta Leonis](https://en.wikipedia.org/w/index.php?search=Astronomy+Eta%20Leonis&title=Special%3ASearch&profile=advanced&fulltext=1&ns0=1)
 Matt|Boerlage|matthijs.boerlage@gmail.com|matt.p4b|current|[Phecda](https://en.wikipedia.org/w/index.php?search=Astronomy+Phecda&title=Special%3ASearch&profile=advanced&fulltext=1&ns0=1)
-Richard|Jaworski|richjaw001@gmail.com|richard.p4b|current|[Tania Australis](https://en.wikipedia.org/w/index.php?search=Astronomy+Tania%20Australis&title=Special%3ASearch&profile=advanced&fulltext=1&ns0=1)
+Richard|Jaworski|richjaw001@gmail.com|richard.p4b|current|[Megrez](https://en.wikipedia.org/w/index.php?search=Astronomy+Megrez&title=Special%3ASearch&profile=advanced&fulltext=1&ns0=1&searchToken=b7wezz160gd0q9j4wkc77ejqi)
 Shanzeh|Khan|khanshanzeh.09@gmail.com|shanzeh.p4b|current|[Zosma](https://en.wikipedia.org/w/index.php?search=Astronomy+Zosma&title=Special%3ASearch&profile=advanced&fulltext=1&ns0=1)
