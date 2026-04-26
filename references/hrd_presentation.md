@@ -6,6 +6,7 @@
 
 ![](./stellar_evolution.png)
 
+## [Tour of Stellar Spectra](https://www.youtube.com/watch?v=PX3u5lJ5d5g)
 1. Most Important in all of Astrophysics
 1. Spectroscopy is a ***Keystone*** of Astronomy
 1. ***HUGE Dynamic Range of Stellar Luminosities***
