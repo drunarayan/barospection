@@ -83,14 +83,11 @@ You will be logging into JupyterHub for getting workshop materials and creating 
 1. What is Light?
 1. Electromagnetic Waves
 1. Photons & Matter
-1. Class Jupyter Notebook - [Light Basics](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fbarospection&branch=gh-pages&urlpath=lab%2Ftree%2Fbarospection%2Fnotebooks%2Flight_basics_assignment_with_rspec.ipynb?reset){:target="_blank"} | [View Only](https://nbviewer.org/github/drunarayan/barospection/blob/gh-pages/notebooks/light_basics_assignment_with_rspec.ipynb){:target="_blank"}
-
-### Light & Matter Interactions
-1.  What is a Blackbody 
-1.  Electromagnetic Spectrum
-1.  Modeling a Black Body
-1.  Waves & Particles
-1. Jupyter Notebook - [Light & Matter Interactions](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fbarospection&branch=gh-pages&urlpath=lab%2Ftree%2Fbarospection%2Fnotebooks%2Flight_matter_interactions.ipynb?reset){:target="_blank"} | [View Only](https://nbviewer.org/github/drunarayan/barospection/blob/gh-pages/notebooks/light_matter_interactions.ipynb){:target="_blank"}
+1. What is a Blackbody 
+1. Electromagnetic Spectrum
+1. Modeling a Black Body
+1. Waves & Particles
+1. Class Jupyter Notebook - [Light Basics](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fbarospection&branch=gh-pages&urlpath=lab%2Ftree%2Fbarospection%2Fnotebooks%2Flight_basics_assignment_with_rspec.ipynb?reset){:target="_blank"}
 
 ### Spectroscopy
 1. What is Spectroscopy
