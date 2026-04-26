@@ -1,5 +1,5 @@
 ## Course repository for the ***Intro to Spectroscopy 2026*** *seminar starts Apr 28*
-*taught for BRIEF Boyce Astro Foundation by Chandru Narayan. (updated April 25, 2026) - email chandru@ [drunarayan@gmail.com](email://drunarayan@gmail.com) if you have any questions about the seminar*.
+*taught for BRIEF Boyce Astro Foundation by Chandru Narayan. (updated April 26, 2026) - email chandru@ [drunarayan@gmail.com](email://drunarayan@gmail.com) if you have any questions about the seminar*.
 
 
 ### BAROSpection - Introduction to Spectroscopy [2026 course flyer](docs/barospection_flyer.png)
@@ -98,7 +98,7 @@ You will be logging into JupyterHub for getting workshop materials and creating 
 1. Source of Spectral Lines
 1. Calculating Balmer's Constant
 1. Doppler Effect on Spectral Lines
-1. Jupyter Notebook - [Absorption & Emission Spectra](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fbarospection&branch=gh-pages&urlpath=lab%2Ftree%2Fbarospection%2Fnotebooks%2Fmatter_absorption_emission.ipynb?reset){:target="_blank"} | [View Only](https://nbviewer.org/github/drunarayan/barospection/blob/gh-pages/notebooks/matter_absorption_emission.ipynb){:target="_blank"}
+1. Jupyter Notebook - [Absorption & Emission Spectra](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fbarospection&branch=gh-pages&urlpath=lab%2Ftree%2Fbarospection%2Fnotebooks%2Fmatter_absorption_emission.ipynb?reset){:target="_blank"}
 
 ### Star Properties
 1. Star Types
@@ -126,7 +126,7 @@ You will be logging into JupyterHub for getting workshop materials and creating 
 
 
 ### References for creating your descriptions about your calibration and assigned stars
-1. <a href="http://www.astrosurf.com/heidemann/spectroscopie/spectroscopic_atlas_walker_4.pdf" download="spectroscopic_atlas_walker_4.pdf"  target="_blank" rel="noopener">Walker Spectroscopic Atlas from Astrosurf: </a> Use this amazing resource to look at professional calibrated spectra of stars of all types. This is a very useful document to use in yoru analysis of calibrated RSpec spectra of your star and identification stellar elements. Look up the Stellar type and see if you can identify absorption/emission features identified for the specific stellar type in your own spectrum. If you do identify it, annotate the spectrum with the wavelength and the element noted!  You will be using this reference to fully complete your annotated spectra and Jupyter Notebook assignment #4: ````light_basics_assignment_with_rspec.ipynb````.
+1. <a href="http://www.astrosurf.com/heidemann/spectroscopie/spectroscopic_atlas_walker_4.pdf" download="spectroscopic_atlas_walker_4.pdf"  target="_blank" rel="noopener">Walker Spectroscopic Atlas from Astrosurf: </a> Use this amazing resource to look at professional calibrated spectra of stars of all types. This is a very useful document to use in yoru analysis of calibrated RSpec spectra of your star and identification stellar elements. Look up the Stellar type and see if you can identify absorption/emission features identified for the specific stellar type in your own spectrum. If you do identify it, annotate the spectrum with the wavelength and the element noted!  You will be using this reference to fully complete your annotated spectra and Jupyter Notebook assignment: ````light_basics_assignment_with_rspec.ipynb````.
 
 1. The ````02B_Celestial_Coordinates.ipynb```` notebook you already completed contains a cell which produced many reference links that can also be used to get much more information about your star. These should be used to describe everything you discovered about your star with external pictures, text and any interesting observations. You will be using this reference to fully complete your annotated spectra and Jupyter Notebook assignment #4: ````light_basics_assignment_with_rspec.ipynb```` and beyond.
 
