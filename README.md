@@ -18,8 +18,6 @@
 - 042426 - *wide-ranging content updates and Jupyter notebooks for Spring 2026 BAROSpection seminar*.
 
 
-
-
 The ````BAROSpection - Intro to Spectroscopy```` seminar will cover a smattering of interesting or historically significant Spectroscopy topics in no particular sequence.  However, the main goal of this course is to teach critical college and research skills that you will need as a motivated student, researcher or hobbiyist. We will attempt to develop these skills primarily on Spectroscopy related topics as you clearly are astro enthusiasts!  The primary audience for this course are advanced High/Middle School, College students, Hobbyists or Early Career Researchers. We also care about accessibility of these resources across student communities who may be underrepresented and of a diverse socio economic background. We hope to keep these resources free and open for use as much as possible to anyone who may be interested.  Please contact me at drunarayan@gmail.com if you would like to learn more about this course.
 
 Skills we will teach include:
@@ -79,9 +77,7 @@ You will be logging into JupyterHub for getting workshop materials and creating 
     1. Click down to your "star folder" under "Images" folder. Then Download your specific "Star" folder or some other "Star" folder. You will get a zip file which you can extract on your system.
     1. Download the entire "Images" Folder.  You will get a zip file which you can extract on your system. Be warned - this is several GB and wmight take a very long time. Although we may not exceed this limit, Dropbox will prevent you from downloading more than 20GB
 
-
-
-### Python for Spectroscopy Course Content Notebooks & Assignments
+## Intro to Spectroscopy Notebook Assignments
 
 Project|Topics|Notebook|Due Date|Partial Solution|
 ---|---|---|---|---|
@@ -97,6 +93,8 @@ Project|Topics|Notebook|Due Date|Partial Solution|
 6.|More Advanced topics in Python|[Intro to Python Part 2](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fbarospection&branch=gh-pages&urlpath=lab%2Ftree%2Fbarospection%2Fnotebooks%2F02C_Python.ipynb?reset){:target="_blank"} | None. For reference and help only|[View Only](https://nbviewer.org/github/drunarayan/barospection/blob/gh-pages/notebooks/02C_Python.ipynb){:target="_blank"}
 7.|Numpy and Pandas libraries for numerical calculations and learning to use Dataframes|[Intro to Numpy](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fbarospection&branch=gh-pages&urlpath=lab%2Ftree%2Fbarospection%2Fnotebooks%2F03_numpy.ipynb?reset){:target="_blank"} | TBD|[View Only](https://nbviewer.org/github/drunarayan/barospection/blob/gh-pages/notebooks/03_numpy.ipynb){:target="_blank"}
 8.|Visualizations and Animations|[Intro to Visualization](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fbarospection&branch=gh-pages&urlpath=lab%2Ftree%2Fbarospection%2Fnotebooks%2F04_Visualization.ipynb?reset){:target="_blank"} |TBD |[View Only](https://nbviewer.org/github/drunarayan/barospection/blob/gh-pages/notebooks/04_Visualization.ipynb){:target="_blank"}
+
+## Intro to Spectroscopy Presentation Content
 
 ### Light & Matter and Electromagnetism
 1. What is Light?
