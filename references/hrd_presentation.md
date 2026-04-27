@@ -9,7 +9,8 @@
 ## [Tour of Stellar Spectra](https://www.youtube.com/watch?v=PX3u5lJ5d5g)
 1. Most Important in all of Astrophysics
 1. Spectroscopy is a ***Keystone*** of Astronomy
-1. ***HUGE Dynamic Range of Stellar Luminosities***
+1. ***HUGE Dynamic Range of Stellar Luminosities (Flux)***
+1. [look at this example jupyter notebook that shows dynamic range of flux comparisons](../notebooks/flux_comparisons.html)
 1. ***MEDIUM range of Stellar Radii***
 1. ***SMALLER range of Stellar Masses***
 1. ***TINY range of Stellar Temperatures***
