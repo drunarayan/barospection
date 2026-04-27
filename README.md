@@ -79,6 +79,8 @@ You will be logging into JupyterHub for getting workshop materials and creating 
 
 ## Intro to Spectroscopy Presentation Content
 
+![](star_power.png)
+
 ### Light & Matter and Electromagnetism
 1. What is Light?
 1. Electromagnetic Waves
