@@ -46,7 +46,8 @@
 1. Stellar velocities - Doppler Blue/Red shifts in stellar lines
 1. Hubble Constant Cosmological Expansion - Doppler Red shifts in Galaxies bright extra galactic objects Quasars, AGN, WR stars
 
-
+## More Excellent Reference Materials
+1. [Sloan Digital Sky Survey & New Mexico State University](SDSS_NMSU.md)
 
 ## The Ultimate yellow brick road !!
 
