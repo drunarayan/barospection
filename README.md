@@ -35,21 +35,7 @@ Skills we will teach include:
 We expect to run for a total of ***8 sessions every Tuesday starting Apr 28, 2026***. Look for a Google Meet schedule links to be available at this page ahead of the workshop start date. 
 
 Please bookmark this website for ALL UPDATES.  I will try not to send emails or notifications for any updates.  All materials will show up here.  
-
-## What is Jupyter?
-
-If you are not familiar with [Project Jupyter](http://jupyter.org/), and [JupyterHub](http://jupyter.org/hub), I highly recommend learning about them by following the embedded links.  
-
-All of the content provided here are accessible to you using a combination of technologies provided by [Jupyter](http://jupyter.org/) and [Github](https://github.com/) where 83+ million researchers around the world come together to publish the share their work.  
-
-You will be accessing your own 'virtual laptop' hosted on a Google virtual machine somewhere in the globe to do your work.  You class materials will be available to you there and you will store the products of your learning there and not on your physical computer from which you are accessing this course. Your work will be to modify the Jupyter Notebooks to add text, images, video, to write your own code, query and retrieve astronomical databases, analyze and plot your results graphically.
-
-## Create your JupyterLab Password for use later!
-
-You will be logging into JupyterHub for getting workshop materials and creating your own Jupyter Notebooks.  If you have registered, your username has been created. Your username will be ```<your first name>.``` followed by the word ```p4b```. For instance, my username would be ```chandru.p4b```. ***See & use the created usernames below. The first time you log in, create and type in any password you make up yourself.***  That will become your actual password for this JupyterHub - please try not to forget it.  If you do, email me at drunarayan@gmail.com, I will reset it.  Please see created usernames below.
-
-## User Names & Student Assignments 
-
+## Workshop organization & JupyterLab - your own virtual laptop in the sky!
 ### [Click here to see Student Intial Star Assignments, Usernames, Status](notebooks/initial_students_usernames.md){:target="_blank"}
 
 <!---
@@ -60,8 +46,6 @@ You will be logging into JupyterHub for getting workshop materials and creating 
 ## Projects & Materials Access
 #### Please complete these steps including ``Project 0`` ahead of the first session
 --->
-
-## Workshop organization & JupyterLab - your own virtual laptop in the sky!
 
 ### [Click here to read about the BAROSpection workshop Infrastructure](notebooks/barospection_workshop_infrastructure.md){:target="_blank"}
 
@@ -80,71 +64,7 @@ You will be logging into JupyterHub for getting workshop materials and creating 
 
 ## [Intro to Spectroscopy Presentation Content](docs)
 
-### Light & Matter and Electromagnetism
-1. What is Light?
-1. Electromagnetic Waves
-1. Photons & Matter
-1. What is a Blackbody 
-1. Electromagnetic Spectrum
-1. Modeling a Black Body
-1. Waves & Particles
-1. Class Jupyter Notebook - [Light Basics](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fbarospection&branch=gh-pages&urlpath=lab%2Ftree%2Fbarospection%2Fnotebooks%2Flight_basics_assignment_with_rspec.ipynb?reset){:target="_blank"}
-
-### Spectroscopy
-1. What is Spectroscopy
-1. Types of Spectra
-    1. Continuous Spectrum
-    1. Absorption Spectrum
-    1. Emission Spectrum
-1. Source of Spectral Lines
-1. Calculating Balmer's Constant
-1. Doppler Effect on Spectral Lines
-1. Jupyter Notebook - [Absorption & Emission Spectra](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fbarospection&branch=gh-pages&urlpath=lab%2Ftree%2Fbarospection%2Fnotebooks%2Fmatter_absorption_emission.ipynb?reset){:target="_blank"}
-
-### Star Properties
-1. Star Types
-1. What can you learn from Star Spectra
-2. [HertzSprung Russell Diagram (HRD)](https://en.wikipedia.org/wiki/Main_sequence)
-3. Plot an HRD for Sun's 100 Parsec neighbourhood
-1. Final Project - [Mystery Stars & HRD](https://drunarayan.github.io/barospection/notebooks/hrd_project.html)
-1. [HRD Presentation](references/hrd_presentation.md)
-
-### Obtain Live Spectra from the BARO Telescope
-1. Spectral Grating configuration on BARO
-1. Selecting Targets in the Solar Neiborhood
-1. Create Target List for Hot & Cool Stars & Nebulae
-1. Schedule to obtain Spectra
-1. Calibrate using [RSpec](https://rspec-astro.com/) 
-
-### Analyze & Publish Spectral Images using RSpec
-1. [Annotated HR Diagram](https://people.highline.edu/iglozman/classes/astronotes/media/hr_diagram.jpg){:target="_blank"}
-1. Use RSpec to Analyze Spectral Lines
-1. Measure Wavelenghts & Frequencies
-1. Measure Shift in Spectral Lines
-1. Compare against NIST Standard
-1. Publish your results in a Jupyter Notebook
-1. Post examples to [RSpec website](https://rspec-astro.com/)
-
-
-### References for creating your descriptions about your calibration and assigned stars
-1. <a href="http://www.astrosurf.com/heidemann/spectroscopie/spectroscopic_atlas_walker_4.pdf" download="spectroscopic_atlas_walker_4.pdf"  target="_blank" rel="noopener">Walker Spectroscopic Atlas from Astrosurf: </a> Use this amazing resource to look at professional calibrated spectra of stars of all types. This is a very useful document to use in yoru analysis of calibrated RSpec spectra of your star and identification stellar elements. Look up the Stellar type and see if you can identify absorption/emission features identified for the specific stellar type in your own spectrum. If you do identify it, annotate the spectrum with the wavelength and the element noted!  You will be using this reference to fully complete your annotated spectra and Jupyter Notebook assignment: ````light_basics_assignment_with_rspec.ipynb````.
-
-1. The ````02B_Celestial_Coordinates.ipynb```` notebook you already completed contains a cell which produced many reference links that can also be used to get much more information about your star. These should be used to describe everything you discovered about your star with external pictures, text and any interesting observations. You will be using this reference to fully complete your annotated spectra and Jupyter Notebook assignment #4: ````light_basics_assignment_with_rspec.ipynb```` and beyond.
-
-1. [Online OpenStax Astronomy Textbook](https://openstax.org/books/astronomy-2e/pages/1-introduction){:target="_blank"} An excelent online Astronomy textbook written and maintained by over 30 academics. I highly recommend that you use this resource for clarifications of concepts in Astronomy, and specifically Spectroscopy. I recommend reading Chapter 5 in its entireity.
-
-1. [Astro 801](https://courses.ems.psu.edu/astro801/content) - A penn state online undergraduate study in Astronomy
-
-1. <a href="https://rspec-astro.com/download/Weins-Law-not-so-simple-paper.pdf" download="spectroscopic_atlas_walker_4.pdf" target="_blank" rel="noopener">Stars are not Blackbodies</a>  Here is an excellent paper on why estimating star surface temperatures using Wein's displacement law could be inaccurate. However, you can get a rough estimation.
-
-1. [How to create an instrument Response profile for BARO](https://rspec-astro.com/more-videos/#:~:text=15.%20Adjustment%20for%20Instrument%20Response%20(part%20of%20Update%203)){:target="_blank"}. Follow this excellent video from Tom that shows how to create an instrument response profile on your own and apply it to a mystery star!
-
-1. [Download Pre-created Instrument Response File for BARO](docs/baro_inst_resp2.dat)
-
-1. [HR Diagram References](references/stellar_classification_references.md)
-
-1. Use this notebook to [explore your Mystery Star!](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fbarospection&branch=gh-pages&urlpath=lab%2Ftree%2Fbarospection%2Fnotebooks%2Fdecode_star.ipynb?reset){:target="_blank"}
-
+## [References for creating your descriptions about your calibration and assigned stars](references)
 
 ## Intro to Spectroscopy Notebook Assignments
 
