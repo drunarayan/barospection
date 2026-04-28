@@ -62,9 +62,9 @@ Please bookmark this website for ALL UPDATES.  I will try not to send emails or
     1. Click down to your "star folder" under "Images" folder. Then Download your specific "Star" folder or some other "Star" folder. You will get a zip file which you can extract on your system.
     1. Download the entire "Images" Folder.  You will get a zip file which you can extract on your system. Be warned - this is several GB and wmight take a very long time. Although we may not exceed this limit, Dropbox will prevent you from downloading more than 20GB
 
-## [Intro to Spectroscopy Presentation Content](docs)
+## [Intro to Spectroscopy Presentation Content](docs){:target="_blank"}
 
-## [References for creating your descriptions about your calibration and assigned stars](references)
+## [References for creating your descriptions about your calibration and assigned stars](references){:target="_blank"}
 
 ## Intro to Spectroscopy Notebook Assignments
 
