@@ -1,5 +1,5 @@
 ## Course repository for the ***Intro to Spectroscopy 2026*** *seminar starts Apr 28*
-*taught for BRIEF Boyce Astro Foundation by Chandru Narayan. (updated April 27, 2026) - email chandru@ [drunarayan@gmail.com](email://drunarayan@gmail.com) if you have any questions about the seminar*.
+*taught for BRIEF Boyce Astro Foundation by Chandru Narayan. (updated April 28, 2026) - email chandru@ [drunarayan@gmail.com](email://drunarayan@gmail.com) if you have any questions about the seminar*.
 
 
 ### BAROSpection - Introduction to Spectroscopy [2026 course flyer](docs/barospection_flyer.png)
@@ -14,6 +14,7 @@
 <!-- ### [SLACK CHANNEL FOR ALL COMMUNICATIONS](https://briefprograms.slack.com/archives/C0918TX0SVC)! - Please look here for Q&A -->
 
 ### What's New
+- 042826 - [***````Added LIVE spectral imaging session April 28th 8:00 PM Pacific````***](#workshop-meeting-and-recording-links)
 - 042526 - [***````Complete the Slack & Hand Compute CC assignments ahead of April 28th````***](https://drunarayan.github.io/barospection/#python-for-spectroscopy-course-content-notebooks--assignments)
 - 042426 - *wide-ranging content updates and Jupyter notebooks for Spring 2026 BAROSpection seminar*.
 
@@ -77,9 +78,7 @@ You will be logging into JupyterHub for getting workshop materials and creating 
     1. Click down to your "star folder" under "Images" folder. Then Download your specific "Star" folder or some other "Star" folder. You will get a zip file which you can extract on your system.
     1. Download the entire "Images" Folder.  You will get a zip file which you can extract on your system. Be warned - this is several GB and wmight take a very long time. Although we may not exceed this limit, Dropbox will prevent you from downloading more than 20GB
 
-## Intro to Spectroscopy Presentation Content
-
-![](star_power.png)
+## [Intro to Spectroscopy Presentation Content](docs)
 
 ### Light & Matter and Electromagnetism
 1. What is Light?
@@ -169,13 +168,13 @@ Project|Topics|Notebook|Due Date|Partial Solution|
 
 Item|Status|Date|Topic|Google Meet Link|Google Recording Link
 ---|---|---|---|---|---
-1a|Posted|Tue, Apr 28, 2026 6:30 - 8:00 PM Pacific Time|Intro to Spectroscopy & Informal/Friendly Walkthrough of RSpec by Mr. Tom Field|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|Google Meet Recording TBA
-1b|Posted|Tue, Apr 28, 2026 8:00 - 11:00 PM Pacific Time|OPTIONAL - ````Obtain YOUR OWN LIVE Spectra from BARO telescope````|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|Google Meet Recording TBA
-2|Posted|Tue, May 05, 2026 6:30 - 8:00 PM Pacific Time|Light & Matter. Absorption & Emission Spectra & Types of Spectroscopy|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|Google Meet Recording TBA
-3|Posted|Tue, May 12, 2026 6:30 - 8:00 PM Pacific Time|Star Classifications and RSpec analysis of BARO spectra obtained|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|Google Meet Recording TBA
-4|Posted|Thu, May 19, 2026 6:30 - 8:00 PM Pacific Time| OPTIONAL - Catch-up session as needed|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|Google Meet Recording TBA
-5|Posted|Tue, May 26, 2026 6:30 - 8:00 PM Pacific Time| Hertzsprung Russell Diagram and Final Project ***TBD***|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|Google Meet Recording TBA
-6|Posted|Wed, Jun 02, 2026 6:30 - 8:00 PM Pacific Time| TBD|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|Google Meet Recording TBA
-7|Posted|Tue, Jun 09, 2026 6:30 - 8:00 PM Pacific Time|Share our final results by sharing our published data in Jupyter Notebooks|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|Google Meet Recording TBA
+1a|Posted|[Tue, Apr 28, 2026 6:30 - 8:00 PM Pacific Time - Click to convert to your timezone!](https://www.inyourowntime.zone/2026-04-28_18.30_America.Los_Angeles?forget=1)|Intro to Spectroscopy & Informal/Friendly Walkthrough of RSpec by Mr. Tom Field|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|Google Meet Recording TBA
+1b|Posted|[Tue, Apr 28, 2026 8:00 - 11:00 PM Pacific Time - Click to convert to your timezone!](https://www.inyourowntime.zone/2026-04-28_20.00_America.Los_Angeles?forget=1)|OPTIONAL - ````Obtain YOUR OWN LIVE Spectra from BARO telescope````|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|Google Meet Recording TBA
+2|Posted|[Tue, May 05, 2026 6:30 - 8:00 PM Pacific Time - Click to convert to your timezone!](https://www.inyourowntime.zone/2026-05-05_18.30_America.Los_Angeles?forget=1)|Light & Matter. Absorption & Emission Spectra & Types of Spectroscopy|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|Google Meet Recording TBA
+3|Posted|[Tue, May 12, 2026 6:30 - 8:00 PM Pacific Time - Click to convert to your timezone!](https://www.inyourowntime.zone/2026-05-12_18.30_America.Los_Angeles?forget=1)|Star Classifications and RSpec analysis of BARO spectra obtained|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|Google Meet Recording TBA
+4|Posted|[Thu, May 19, 2026 6:30 - 8:00 PM Pacific Time - Click to convert to your timezone!](https://www.inyourowntime.zone/2026-05-19_18.30_America.Los_Angeles?forget=1)| OPTIONAL - Catch-up session as needed|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|Google Meet Recording TBA
+5|Posted|[Tue, May 26, 2026 6:30 - 8:00 PM Pacific Time - Click to convert to your timezone!](https://www.inyourowntime.zone/2026-05-26_18.30_America.Los_Angeles?forget=1)| Hertzsprung Russell Diagram and Final Project ***TBD***|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|Google Meet Recording TBA
+6|Posted|[Wed, Jun 02, 2026 6:30 - 8:00 PM Pacific Time - Click to convert to your timezone!](https://www.inyourowntime.zone/2026-06-02_18.30_America.Los_Angeles?forget=1)| TBD|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|Google Meet Recording TBA
+7|Posted|[Tue, Jun 09, 2026 6:30 - 8:00 PM Pacific Time - Click to convert to your timezone!](https://www.inyourowntime.zone/2026-06-09_18.30_America.Los_Angeles?forget=1)|Share our final results by sharing our published data in Jupyter Notebooks|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|Google Meet Recording TBA
 
 
