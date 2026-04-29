@@ -14,6 +14,7 @@
 <!-- ### [SLACK CHANNEL FOR ALL COMMUNICATIONS](https://briefprograms.slack.com/archives/C0918TX0SVC)! - Please look here for Q&A -->
 
 ### What's New
+- 042826 - [Google Meet Recordings posted for both April 28th Class & Live sessions](https://drunarayan.github.io/barospection/#workshop-meeting-and-recording-links)
 - 042826 - [***````Added LIVE spectral imaging session April 28th 8:00 PM Pacific````***](#workshop-meeting-and-recording-links)
 - 042526 - [***````Complete the Slack & Hand Compute CC assignments ahead of April 28th````***](https://drunarayan.github.io/barospection/#python-for-spectroscopy-course-content-notebooks--assignments)
 - 042426 - *wide-ranging content updates and Jupyter notebooks for Spring 2026 BAROSpection seminar*.
@@ -88,8 +89,8 @@ Project|Topics|Notebook|Due Date|Partial Solution|
 
 Item|Status|Date|Topic|Google Meet Link|Google Recording Link
 ---|---|---|---|---|---
-1a|Posted|[Tue, Apr 28, 2026 6:30 - 8:00 PM Pacific Time - Click to convert to your timezone!](https://www.inyourowntime.zone/2026-04-28_18.30_America.Los_Angeles?forget=1)|Intro to Spectroscopy & Informal/Friendly Walkthrough of RSpec by Mr. Tom Field|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|Google Meet Recording TBA
-1b|Posted|[Tue, Apr 28, 2026 8:00 - 11:00 PM Pacific Time - Click to convert to your timezone!](https://www.inyourowntime.zone/2026-04-28_20.00_America.Los_Angeles?forget=1)|OPTIONAL - ````Obtain YOUR OWN LIVE Spectra from BARO telescope````|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|Google Meet Recording TBA
+1a|Posted|[Tue, Apr 28, 2026 6:30 - 8:00 PM Pacific Time - Click to convert to your timezone!](https://www.inyourowntime.zone/2026-04-28_18.30_America.Los_Angeles?forget=1)|Intro to Spectroscopy & Informal/Friendly Walkthrough of RSpec by Mr. Tom Field|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meet Recording](https://drive.google.com/file/d/1JqFodtw0GMF0bZZgYquSSvQr1s-Njwdl/view?usp=sharing)
+1b|Posted|[Tue, Apr 28, 2026 8:00 - 11:00 PM Pacific Time - Click to convert to your timezone!](https://www.inyourowntime.zone/2026-04-28_20.00_America.Los_Angeles?forget=1)|OPTIONAL - ````Obtain YOUR OWN LIVE Spectra from BARO telescope````|[Google Meet Recording](https://drive.google.com/file/d/1BqArLooSlAklFcW1VrZQEUCrZZyweiD5/view?usp=sharing)
 2|Posted|[Tue, May 05, 2026 6:30 - 8:00 PM Pacific Time - Click to convert to your timezone!](https://www.inyourowntime.zone/2026-05-05_18.30_America.Los_Angeles?forget=1)|Light & Matter. Absorption & Emission Spectra & Types of Spectroscopy|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|Google Meet Recording TBA
 3|Posted|[Tue, May 12, 2026 6:30 - 8:00 PM Pacific Time - Click to convert to your timezone!](https://www.inyourowntime.zone/2026-05-12_18.30_America.Los_Angeles?forget=1)|Star Classifications and RSpec analysis of BARO spectra obtained|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|Google Meet Recording TBA
 4|Posted|[Thu, May 19, 2026 6:30 - 8:00 PM Pacific Time - Click to convert to your timezone!](https://www.inyourowntime.zone/2026-05-19_18.30_America.Los_Angeles?forget=1)| OPTIONAL - Catch-up session as needed|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|Google Meet Recording TBA
