@@ -14,7 +14,7 @@
 <!-- ### [SLACK CHANNEL FOR ALL COMMUNICATIONS](https://briefprograms.slack.com/archives/C0918TX0SVC)! - Please look here for Q&A -->
 
 ### What's New
-- 050226 - [Mystery Star Assignments for Final Project - read ahead start now if you like!](notebooks/mystery_star_assignments.html)
+- 050226 - [Mystery Star Assignments for Final Project - read ahead start now if you like!](notebooks/hrd_project.html)
 - 050226 - [Added Tom Field's amazing instructions for our RSpec analysis](Processing_Spectra_for_BaroSpection.pdf)
 - 042826 - [Google Meet Recordings posted for both April 28th Class & Live sessions](https://drunarayan.github.io/barospection/#workshop-meeting-and-recording-links)
 - 042826 - [***````Added LIVE spectral imaging session April 28th 8:00 PM Pacific````***](#workshop-meeting-and-recording-links)
