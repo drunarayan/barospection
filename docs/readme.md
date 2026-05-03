@@ -11,7 +11,7 @@
 1. What is a Blackbody 
 ![](solar_radiation_spectrum.png)
 1. Electromagnetic Spectrum
-1. [Modeling a Black Body]((https://astro.unl.edu/classaction/animations/light/bbexplorer.html))
+1. [Modeling a Black Body](https://astro.unl.edu/classaction/animations/light/bbexplorer.html)
 1. Waves & Particles
 1. Class Jupyter Notebook - [Light Basics](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fbarospection&branch=gh-pages&urlpath=lab%2Ftree%2Fbarospection%2Fnotebooks%2Flight_basics_assignment_with_rspec.ipynb?reset){:target="_blank"}
 
