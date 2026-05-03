@@ -5,7 +5,7 @@ Each of you have been assigned ***ONE Calibration Type A Star*** and ***FIVE dif
 
 1. Note that you will need to enter information as you go into the [Global HRD Data Input Google Sheet linked here](https://docs.google.com/spreadsheets/d/1tRVdZ1ojMYrLLjbfzVTEa1W06D4c7lnKBFFzTx0IRO0/edit?usp=sharing){:target="_blank"} as you perform these steps. This Google Sheet also contains your Mystery Star Assignments!
 
-1. Please note that the Star Type is no longer given to you. The BIDXXXXXXX you see is an encoded number You will have to find the Star Type by doing a spectral analysis on RSpec.  Once you have completed this step and ````entered all 5 of your Estimated Star Types into the Google HRD sheet````, I will release the decode Jupyter Notebook which will reveal the Henry Draper catalog number (HD Catalog Number) and give you helpful links to find the actual Star Type and much more interesting information about yout star.
+1. Please note that the Star Type is no longer given to you. The BIDXXXXXXX you see is an encoded number You will have to find the Star Type by doing a spectral analysis on RSpec.  ***Once you have completed this step and ````entered all 5 of your Estimated Star Types into the Google HRD sheet````, I will release the decode Jupyter Notebook which will reveal the Henry Draper catalog number (HD Catalog Number) and give you helpful links to find the actual Star Type and much more interesting information about yout star.***
 
 1. Please use this [Global HRD Results sheet with wikipedia actual types]() reported side-by-side to your estimated star type. This sheet will be provided when you submit your result!.
 
