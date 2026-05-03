@@ -1,0 +1,18 @@
+## University of Nebraska-Lincoln Astronomy Education
+
+1. [UNL Astronomy Education](https://astro.unl.edu)
+1. [Astronomy Simulations & Animations](https://astro.unl.edu/animationsLinks.html)
+1. [Index Listing of Classaction Animations](https://astro.unl.edu/classaction/animations/)
+1. [Three Views Spectrum Demonstrator](https://astro.unl.edu/classaction/animations/light/threeviewsspectra.html)
+1. [Spectrum Explorer](https://astro.unl.edu/classaction/animations/light/spectrum010.html)
+1. [Spectrospic Parallax Simulator](https://astro.unl.edu/classaction/animations/stellarprops/spectroparallax.html)
+1. [Blackbody Curves](https://astro.unl.edu/classaction/animations/light/bbexplorer.html)
+1. [Filters Simulator](https://astro.unl.edu/classaction/animations/light/filters.html)
+1. [Galactic Redshift Simulator](https://astro.unl.edu/classaction/animations/cosmology/galacticredshift.html)
+1. [Hydrogen Atom Simulator](https://astro.unl.edu/classaction/animations/light/hydrogenatom.html)
+1. [RA/Dec Simulator](https://astro.unl.edu/classaction/animations/coordsmotion/radecdemo.html#:~:text=Celestial%2DEquatorial%20(RA/Dec,V%E2%81%A8%20%E2%81%A9%20for%20paste)
+1. [Parallax Calculator](https://astro.unl.edu/classaction/animations/stellarprops/parallaxdiag.html)
+1. [Distance Modulus Explorer](https://astro.unl.edu/classaction/animations/stellarprops/stellarmag.html)
+1. [HR Diagram HRD Explorer](https://astro.unl.edu/classaction/animations/stellarprops/hrexplorer.html)
+1. [HRD Cluster Fitting Explorer - Cosmic Distance Ladder](https://astro.unl.edu/naap/distance/animations/clusterFittingExplorer.html)
+1. [Seasons Simulator](https://astro.unl.edu/classaction/animations/coordsmotion/eclipticsimulator.html)

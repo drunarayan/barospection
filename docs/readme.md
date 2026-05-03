@@ -9,14 +9,15 @@
 1. Electromagnetic Waves
 1. Photons & Matter
 1. What is a Blackbody 
+![](solar_radiation_spectrum.png)
 1. Electromagnetic Spectrum
-1. Modeling a Black Body
+1. [Modeling a Black Body]((https://astro.unl.edu/classaction/animations/light/bbexplorer.html))
 1. Waves & Particles
 1. Class Jupyter Notebook - [Light Basics](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fbarospection&branch=gh-pages&urlpath=lab%2Ftree%2Fbarospection%2Fnotebooks%2Flight_basics_assignment_with_rspec.ipynb?reset){:target="_blank"}
 
 ### Spectroscopy
 1. What is Spectroscopy
-1. Types of Spectra
+1. [Types of Spectra](https://astro.unl.edu/classaction/animations/light/threeviewsspectra.html)
     1. Continuous Spectrum
     1. Absorption Spectrum
     1. Emission Spectrum
@@ -29,6 +30,7 @@
 1. Star Types
 1. What can you learn from Star Spectra
 2. [HertzSprung Russell Diagram (HRD)](https://en.wikipedia.org/wiki/Main_sequence)
+1. [HRD Explorer](https://astro.unl.edu/classaction/animations/stellarprops/hrexplorer.html)
 3. Plot an HRD for Sun's 100 Parsec neighbourhood
 1. Final Project - [Mystery Stars & HRD](https://drunarayan.github.io/barospection/notebooks/hrd_project.html)
 1. [HRD Presentation](references/hrd_presentation.md)

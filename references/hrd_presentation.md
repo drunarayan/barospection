@@ -15,6 +15,7 @@
 1. ***SMALLER range of Stellar Masses***
 1. ***TINY range of Stellar Temperatures***
 1. Luminosity Classes - Stellar Radii - Isochrones
+![](star_luminosity_temperature_radius_relation.png)
 1. [HRD explorer](https://astro.unl.edu/naap/hr/animations/hrExplorer.html) Show effect of varying star mass, luminosity, temperature and star radius
 1. Stellar Evolution
 1. ![electronexcitation](https://upload.wikimedia.org/wikipedia/commons/3/31/Bohr_atom_animation.gif)
@@ -49,6 +50,8 @@
 
 ## More Excellent Reference Materials
 1. [Sloan Digital Sky Survey & New Mexico State University](SDSS_NMSU.md)
+1. [University of Nebraska-Lincoln Astronomy Animations](UNL_animations.md)
+1. [Teach Astronomy Textbook](https://www.teachastronomy.com/textbook/How-Science-Works/The-Scientific-Method/)
 
 ## The Ultimate yellow brick road !!
 
