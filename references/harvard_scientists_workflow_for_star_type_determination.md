@@ -3,18 +3,28 @@
 ![](computers.png)
 
 
-Knowing a star’s distance defeats the purpose of this exercise which is intended to walk in the footsteps of astronomers like [Williamena Fleming](https://en.wikipedia.org/wiki/Williamina_Fleming),  [Annie Jump Cannon](https://en.wikipedia.org/wiki/Annie_Jump_Cannon), [Cecila Payne Gaposhkin](https://en.wikipedia.org/wiki/Cecilia_Payne-Gaposchkin) and other “Computers” as they were known. BTB. All the steps described below is the subject of my first 5-week seminar (Python for Astronomy)  where we derived all of the equations from first principles and then used Python to actually query for many 100k+ stars and made calculations on them and plotting the HRDs. The Harvard work flow looked something like this:
+Knowing a star's distance defeats the purpose of this exercise. It is intended to walk in the footsteps of astronomers like [Williamina Fleming](https://en.wikipedia.org/wiki/Williamina_Fleming), [Annie Jump Cannon](https://en.wikipedia.org/wiki/Annie_Jump_Cannon), [Cecilia Payne-Gaposchkin](https://en.wikipedia.org/wiki/Cecilia_Payne-Gaposchkin), and other "Computers" (women hired to analyze astronomical data, long before the term referred to machines).
 
-1. It is important to realize that at the time astronomers led by Pickering at Harvard embarked to establishing the “cosmic distance ladder”, all they could measure from the stars was their electromagnetic radiation were just 3 things
-Brightness (visual magnitude)
-Spectral distribution profiles by analyzing the spectra multiple 1000s of stars 
-Then later on the period of peak to peak brightness of Cepheid variables method pioneered by Henrietta Swan Levitt.
-1. Most importantly, the distance and hence Absolute Magnitude was not not known for most of the stars! There was no Gaia satellite either!
-1. The astronomers had a handful of stars for which, the could compute the distance to them by using visual parallax methods by using the orbit of the earth around the sun as a base of the triangle.  
-1. Then they mapped if any of the stars they measured parallax for was in the Hyades cluster which is fairly close to earth.  The real benefit of this is that it is clear that all of the stars in the cluster are at the same distance from Earth.  
-1. They could now calculate the Absolute magnitude of the star (luminosity or power output) by knowing its apparent (visual magnitude) and parallax distance they had measured, Again, these equations were derived from fundamentals in my first seminar and HRD plots created many clusters including the Hyades cluster which clearly showed the “Main Sequence” and lines of luminosity classes they fell into. The reason they could this is because they could determine both the x-axis (color, temperature, stellar type) and the y-axis (absolute magnitude) for stars for which the visual parallax were known - This is called the “Spectroscopic Parallax” method.
-1. They could now compare the distance known from visual parallax and spectroscopic parallax measurements for all stars in the Hyades cluster to be the same and validated their workflow. This was the most important step in the “cosmic distance ladder”.  What this meant was that they could confidently place an unknown star  on the HRD they had created by knowing only the star type (X-axis of HRD) and luminosity class (Body of the HRD) with luminosity class lined plotted). This is done by simply drawing a vertical line and see where it hits the Main Sequence or another Luminosity Class  based on the SED (spectral energy distribution) observed. Once they get that point, they simply drew a horizontal line to get the Absolute magnitude and hence its distance - BRILLIANT!
+The Harvard work flow looked something like this:
 
-This is exactly the method I want you to follow in the final project.  We will talk about this in great detail through out this seminar.
+It is important to realize that when astronomers led by Pickering at Harvard set out to establish the [cosmic distance ladder](https://en.wikipedia.org/wiki/Cosmic_distance_ladder), all they could measure from stars was their electromagnetic radiation -- specifically three things: 
 
-For now, we are just getting practice from yoru 5 stars by estimating Star Types and a rough temperature by making educated guesses from the SED profile from the analyzed FITS image by looking purely at the absorption lines, their “thickness” and the identified elements by comparing to the standard wavelengths known for atoms of Hydrogen, Helium, Magnesium, Sodium, Calcium, Titanium Monoxide and the like.  But do NOT use distance - assume that it is NOT known. If you watched the full video in this assignment, you will see that we did not once mention the distance of the star or its Absolute magnitude in determining the star types. AND -that is the key!
+    - Star Brightness (visual magnitude) 
+    - Spectral Energy Distribution profiles (by analyzing the spectra of thousands of stars)
+    - Periods of Cepheid variable stars (a method pioneered by [Henrietta Swan Leavitt](https://en.wikipedia.org/wiki/Henrietta_Swan_Leavitt)).
+
+Most significantly, the distance -- and therefore the Absolute Magnitude -- was not known for most stars. There was no Gaia satellite then either.
+For a handful of nearby stars, astronomers could calculate distance using visual parallax: measuring the apparent shift in a star’s position as the Earth orbits the Sun, using that orbit as the baseline of a triangle.
+They then checked whether any of those parallax-measured stars belonged to the Hyades cluster, which is relatively close to Earth. The key advantage: all stars in a cluster are at essentially the same distance from us, so the distance measured for one applies to all.
+With both apparent (visual) magnitude and parallax distance in hand, astronomers could calculate each star’s Absolute Magnitude -- its true luminosity or power output. 
+
+For stars with known parallax, they could now plot both axes of the HRD: the x-axis (color, temperature, spectral type) and the y-axis (Absolute Magnitude). This gave them a calibrated diagram with real physical meaning. 
+This is the foundation of the Spectroscopic Parallax method -- a technique for estimating a star’s distance using only its spectrum and where it falls on the HRD. (These equations were derived from first principles in my first seminar, and HRD plots were created for several clusters, including the Hyades, clearly showing the Main Sequence and the luminosity classes.)
+They then compared distances derived from visual parallax with those derived from spectroscopic parallax for stars in the Hyades cluster -- and confirmed the two methods agreed. This validation was the critical step in building the cosmic distance ladder. <br><br> What it meant was profound: for any unknown star, you only need to know its spectral type (the x-axis) and its luminosity class (which band of the HRD it falls in) to estimate its Absolute Magnitude, and from that, its distance. 
+The method itself is elegant. Draw a vertical line at the star’s spectral type. Find where it intersects the appropriate Main Sequence or luminosity class line. Then draw a horizontal line across to read off the Absolute Magnitude. Distance follows directly. Brilliant.
+
+### Your Assignment
+
+This is exactly the method I want you to follow in the final project. We will discuss it in detail throughout this seminar.
+For now, we are just getting practice. Using your 5 assigned stars, estimate the star type and approximate temperature by making educated guesses from the SED (spectral energy distribution) profile in your analyzed FITS image. Do this by examining the absorption lines: their width, depth, and the elements they correspond to, comparing against standard wavelengths for Hydrogen, Helium, Magnesium, Sodium, Calcium, Titanium Oxide, and similar species.
+Do not use distance -- assume it is unknown. If you watched the full video for this assignment, you will notice that we never once mentioned a star’s distance or Absolute Magnitude when determining star type. That is the key point.
