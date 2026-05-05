@@ -1,6 +1,9 @@
 
 ## Mystery Star Assignments & Instructions for Final Project
 
+### Notes on the Purpose of this assignment - Please read first
+#### [Harvard Scientists Workflow on determining Star Types](../references/harvard_scientists_workflow_for_star_type_determination.html)
+
 Each of you have been assigned ***ONE Calibration Type A Star*** and ***FIVE different and distinct Mystery stars*** for which you do ***NOT*** know their ***Star Type classification***.  You will find the Star Types for all FIVE stars by analysing them on RSpec. You will then place the FIVE stars in a class-level ***Hertzsprung Russel diagram***. Here is the overall process description of the final project.
 
 1. Note that you will need to enter information as you go into the [Global HRD Data Input Google Sheet linked here](https://docs.google.com/spreadsheets/d/1tRVdZ1ojMYrLLjbfzVTEa1W06D4c7lnKBFFzTx0IRO0/edit?usp=sharing){:target="_blank"} as you perform these steps. This Google Sheet also contains your Mystery Star Assignments!
@@ -28,6 +31,8 @@ Please note the following important points when doing this exercise.
 1. It is better to ````reduce window clutter```` (described in video) before starting analysis on a new star for analysis. This is shown in the video below. 
 
 1. Use the following video and notes liberally in learning about and identifying each star type and spectral lines for the stars we imaged during this course!
+
+### Please Read first - [Harvard Scientists Workflow on determining Star Types](../references/harvard_scientists_workflow_for_star_type_determination.html)
 
 ### Here is the complete [Mystery Star Video Script](./mystery_star_video_script.md) (<span style="color:red;">Ready to view now!</span>)  that can be used as exhaustive written instructions for completing your Mystery Star Type detection process.
 

@@ -1,5 +1,5 @@
 ## Course repository for the ***Intro to Spectroscopy 2026*** *seminar starts Apr 28*
-*taught for BRIEF Boyce Astro Foundation by Chandru Narayan. (updated May 2, 2026) - email chandru@ [drunarayan@gmail.com](email://drunarayan@gmail.com) if you have any questions about the seminar*.
+*taught for BRIEF Boyce Astro Foundation by Chandru Narayan. (updated May 5, 2026) - email chandru@ [drunarayan@gmail.com](email://drunarayan@gmail.com) if you have any questions about the seminar*.
 
 
 ### BAROSpection - Introduction to Spectroscopy [2026 course flyer](docs/barospection_flyer.png)
@@ -14,7 +14,8 @@
 <!-- ### [SLACK CHANNEL FOR ALL COMMUNICATIONS](https://briefprograms.slack.com/archives/C0918TX0SVC)! - Please look here for Q&A -->
 
 ### What's New
-- 050226 - [Mystery Star Assignments for Final Project - read ahead start now if you like!](notebooks/hrd_project.html)
+- 050526 - [Assignment Note on Harvard Scientists workflow for determining star types](references/harvard_scientists_workflow_for_star_type_determination.md)
+- 050526 - [Mystery Star Assignments for Final Project - read ahead start now if you like!](notebooks/hrd_project.html)
 - 050226 - [Added Tom Field's amazing instructions for our RSpec analysis](Processing_Spectra_for_BaroSpection.pdf)
 - 042826 - [Google Meet Recordings posted for both April 28th Class & Live sessions](https://drunarayan.github.io/barospection/#workshop-meeting-and-recording-links)
 - 042826 - [***````Added LIVE spectral imaging session April 28th 8:00 PM Pacific````***](#workshop-meeting-and-recording-links)
