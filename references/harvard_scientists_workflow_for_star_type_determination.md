@@ -1,6 +1,8 @@
 ### Determining Star Types Assignment Notes
 
 ![](computers.png)
+
+
 Knowing a star’s distance defeats the purpose of this exercise which is intended to walk in the footsteps of astronomers like [Williamena Fleming](https://en.wikipedia.org/wiki/Williamina_Fleming),  [Annie Jump Cannon](https://en.wikipedia.org/wiki/Annie_Jump_Cannon), [Cecila Payne Gaposhkin](https://en.wikipedia.org/wiki/Cecilia_Payne-Gaposchkin) and other “Computers” as they were known. BTB. All the steps described below is the subject of my first 5-week seminar (Python for Astronomy)  where we derived all of the equations from first principles and then used Python to actually query for many 100k+ stars and made calculations on them and plotting the HRDs. The Harvard work flow looked something like this:
 
 1. It is important to realize that at the time astronomers led by Pickering at Harvard embarked to establishing the “cosmic distance ladder”, all they could measure from the stars was their electromagnetic radiation were just 3 things
