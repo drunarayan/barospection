@@ -1,5 +1,5 @@
 ## Course repository for the ***Intro to Spectroscopy 2026*** *seminar starts Apr 28*
-*taught for BRIEF Boyce Astro Foundation by Chandru Narayan. (updated May 5, 2026) - email chandru@ [drunarayan@gmail.com](email://drunarayan@gmail.com) if you have any questions about the seminar*.
+*taught for BRIEF Boyce Astro Foundation by Chandru Narayan. (updated May 6, 2026) - email chandru@ [drunarayan@gmail.com](email://drunarayan@gmail.com) if you have any questions about the seminar*.
 
 
 ### BAROSpection - Introduction to Spectroscopy [2026 course flyer](docs/barospection_flyer.png)
@@ -14,6 +14,7 @@
 <!-- ### [SLACK CHANNEL FOR ALL COMMUNICATIONS](https://briefprograms.slack.com/archives/C0918TX0SVC)! - Please look here for Q&A -->
 
 ### What's New
+- 050626 - [Session recording added](#workshop-meeting-and-recording-links)
 - 050526 - [Assignment Note on Harvard Scientists workflow for determining star types](references/harvard_scientists_workflow_for_star_type_determination.md)
 - 050526 - [Mystery Star Assignments for Final Project - read ahead start now if you like!](notebooks/hrd_project.html)
 - 050226 - [Added Tom Field's amazing instructions for our RSpec analysis](Processing_Spectra_for_BaroSpection.pdf)
@@ -93,7 +94,7 @@ Item|Status|Date|Topic|Google Meet Link|Google Recording Link
 ---|---|---|---|---|---
 1a|Posted|[Tue, Apr 28, 2026 6:30 - 8:00 PM Pacific Time - Click to convert to your timezone!](https://www.inyourowntime.zone/2026-04-28_18.30_America.Los_Angeles?forget=1)|Intro to Spectroscopy & Informal/Friendly Walkthrough of RSpec by Mr. Tom Field|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meet Recording](https://drive.google.com/file/d/1JqFodtw0GMF0bZZgYquSSvQr1s-Njwdl/view?usp=sharing)
 1b|Posted|[Tue, Apr 28, 2026 8:00 - 11:00 PM Pacific Time - Click to convert to your timezone!](https://www.inyourowntime.zone/2026-04-28_20.00_America.Los_Angeles?forget=1)|OPTIONAL - ````Obtain YOUR OWN LIVE Spectra from BARO telescope````|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meet Recording](https://drive.google.com/file/d/1BqArLooSlAklFcW1VrZQEUCrZZyweiD5/view?usp=sharing)
-2|Posted|[Tue, May 05, 2026 6:30 - 8:00 PM Pacific Time - Click to convert to your timezone!](https://www.inyourowntime.zone/2026-05-05_18.30_America.Los_Angeles?forget=1)|Light & Matter. Absorption & Emission Spectra & Types of Spectroscopy|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|Google Meet Recording TBA
+2|Posted|[Tue, May 05, 2026 6:30 - 8:00 PM Pacific Time - Click to convert to your timezone!](https://www.inyourowntime.zone/2026-05-05_18.30_America.Los_Angeles?forget=1)|Light & Matter. Absorption & Emission Spectra & Types of Spectroscopy|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meet Recording](https://drive.google.com/file/d/1f09WeNKieZg8FtoIB8Hitx7Rcza0V4iD/view?usp=sharing)
 3|Posted|[Tue, May 12, 2026 6:30 - 8:00 PM Pacific Time - Click to convert to your timezone!](https://www.inyourowntime.zone/2026-05-12_18.30_America.Los_Angeles?forget=1)|Star Type Classifications and RSpec analysis of BARO Mystery spectra|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|Google Meet Recording TBA
 4|Posted|[Thu, May 19, 2026 6:30 - 8:00 PM Pacific Time - Click to convert to your timezone!](https://www.inyourowntime.zone/2026-05-19_18.30_America.Los_Angeles?forget=1)| Hertzsprung Russell Diagram and Final Mystery Star Project|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|Google Meet Recording TBA
 5|Posted|Tue, May 26 - NO LIVE SESSION TODAY!| Final Project Continued  - WORK ON YOUR OWN| NO GOOGLE MEETING TODAY
