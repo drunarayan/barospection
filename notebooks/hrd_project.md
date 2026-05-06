@@ -42,4 +42,8 @@ Please note the following important points when doing this exercise.
 
 ### [Read these Useful HRD Specific References](https://drunarayan.github.io/barospection/references/stellar_classification_references.html)
 
+<!--
+
 ### [BID Key Sheet is linked here](https://docs.google.com/spreadsheets/d/1eRtMpNg4EZ9bWFoRq0m8W-D5UW4ehGkpofw-NYtZrlo/edit?usp=sharing)
+
+-->
