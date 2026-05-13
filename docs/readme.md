@@ -33,7 +33,7 @@
 1. [HRD Explorer](https://astro.unl.edu/classaction/animations/stellarprops/hrexplorer.html)
 3. Plot an HRD for Sun's 100 Parsec neighbourhood
 1. Final Project - [Mystery Stars & HRD](https://drunarayan.github.io/barospection/notebooks/hrd_project.html)
-1. [HRD Presentation](references/hrd_presentation.md)
+1. [HRD Presentation](https://drunarayan.github.io/barospection/references/hrd_presentation.html)
 
 ### Obtain Live Spectra from the BARO Telescope
 1. Spectral Grating configuration on BARO
