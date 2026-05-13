@@ -1,5 +1,5 @@
 ## Course repository for the ***Intro to Spectroscopy 2026*** *seminar starts Apr 28*
-*taught for BRIEF Boyce Astro Foundation by Chandru Narayan. (updated May 11, 2026) - email chandru@ [drunarayan@gmail.com](email://drunarayan@gmail.com) if you have any questions about the seminar*.
+*taught for BRIEF Boyce Astro Foundation by Chandru Narayan. (updated May 12, 2026) - email chandru@ [drunarayan@gmail.com](email://drunarayan@gmail.com) if you have any questions about the seminar*.
 
 
 ### BAROSpection - Introduction to Spectroscopy [2026 course flyer](docs/barospection_flyer.png)
@@ -14,7 +14,8 @@
 <!-- ### [SLACK CHANNEL FOR ALL COMMUNICATIONS](https://briefprograms.slack.com/archives/C0918TX0SVC)! - Please look here for Q&A -->
 
 ### What's New
-- 051126 - [Added Final Project #6 Notebook](#intro-to-spectroscopy-notebook-assignments)
+- 051226 - [Added OPEN CLUSTER HRD Project #6 Notebook](#intro-to-spectroscopy-notebook-assignments)
+- 051126 - [Added Final Project #7 Notebook](#intro-to-spectroscopy-notebook-assignments)
 - 050626 - [Session recording added](#workshop-meeting-and-recording-links)
 - 050526 - [Assignment Note on Harvard Scientists workflow for determining star types](references/harvard_scientists_workflow_for_star_type_determination.md)
 - 050526 - [Mystery Star Assignments for Final Project - read ahead start now if you like!](notebooks/hrd_project.html)
@@ -86,7 +87,8 @@ Project|Topics|Notebook|Due Date|Partial Solution|
 4.|Identification of Star Types from Spectra|[Mystery Star & HRD Project Assignment](notebooks/hrd_project.html){:target="_blank"} | May 12th & May 19th|None
 5a.|Calculate Temperature of your star using Wein's law & build Instrument Response Curve|[Star temperature & Instrument Response](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fbarospection&branch=gh-pages&urlpath=lab%2Ftree%2Fbarospection%2Fnotebooks%2Flight_matter_interactions.ipynb?reset){:target="_blank"} |  June 2|[View Only](https://nbviewer.org/github/drunarayan/barospection/blob/gh-pages/notebooks/light_basics_assignment_with_rspec.ipynb){:target="_blank"}
 5b.|Identify Spectral lines  in your Instrument Corrected Spectrum by using the <a href="http://www.astrosurf.com/heidemann/spectroscopie/spectroscopic_atlas_walker_4.pdf" download="spectroscopic_atlas_walker_4.pdf" rel="noopener" target="_blank">Walker Spectroscopic Atlas</a>|[RSpec Image of your Star showing Identified Spectral Lines](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fbarospection&branch=gh-pages&urlpath=lab%2Ftree%2Fbarospection%2Fnotebooks%2Fidentified_spectral_lines.ipynb?reset){:target="_blank"} |  June 2|[View Only](https://nbviewer.org/github/drunarayan/barospection/blob/gh-pages/notebooks/identified_spectral_lines.ipynb){:target="_blank"}
-6.|Final HRD Project Notebook|[Create Final HRD plot using Student Stars with Spectral Types Determined](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fbarospection&branch=gh-pages&urlpath=lab%2Ftree%2Fbarospection%2Fnotebooks%2FPlot_HRD_with_student_stars_v1.ipynb?reset){:target="_blank"} | Jun 9th|None
+6.|Open Cluster HRD Project Notebook|[Plot & Study first HRD for an Open Cluster](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fbarospection&branch=gh-pages&urlpath=lab%2Ftree%2Fbarospection%2Fnotebooks%2FGaia_HRD_Open_Clusters_v1.ipynb?reset){:target="_blank"} | Jun 9th|None
+7.|Final HRD Project Notebook|[Create Final HRD plot using Student Stars with Spectral Types Determined](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fbarospection&branch=gh-pages&urlpath=lab%2Ftree%2Fbarospection%2Fnotebooks%2FPlot_HRD_with_student_stars_v1.ipynb?reset){:target="_blank"} | Jun 9th|None
 
 
 
