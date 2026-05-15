@@ -15,7 +15,7 @@
 
 ### What's New
 - 051526 - [Solution for OPEN CLUSTER M45 HRD Project #6 Notebook posted. Please complete M67 in a similar manner](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fbarospection&branch=gh-pages&urlpath=lab%2Ftree%2Fbarospection%2Freferences%2FSOLN_M45_Gaia_HRD_Open_Clusters_v1.ipynb?reset){:target="_blank"}
-- 050626 - [Session recording added](#workshop-meeting-and-recording-links)
+- 051226 - [Session recording added](#workshop-meeting-and-recording-links)
 - 051226 - [Added OPEN CLUSTER HRD Project #6 Notebook](#intro-to-spectroscopy-notebook-assignments)
 - 051126 - [Added Final Project #7 Notebook](#intro-to-spectroscopy-notebook-assignments)
 - 050626 - [Session recording added](#workshop-meeting-and-recording-links)
