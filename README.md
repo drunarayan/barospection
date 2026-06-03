@@ -14,7 +14,7 @@
 <!-- ### [SLACK CHANNEL FOR ALL COMMUNICATIONS](https://briefprograms.slack.com/archives/C0918TX0SVC)! - Please look here for Q&A -->
 
 ### What's New
-- 060326 - [Meeting today at 6:30 PM for completeing our OPEN Cluster analysis]
+- 060226 - [Meeting today at 6:30 PM for completeing our OPEN Cluster analysis]
 - 051526 - [Solution for OPEN CLUSTER M45 HRD Project #6 Notebook posted. Please complete M67 in a similar manner](https://
 - 051926 - [NO SESSION TODAY - NOT FEELING WELL](missing_session.md)
 - 051526 - [Solution for OPEN CLUSTER M45 HRD Project #6 Notebook posted. Please complete M67 in a similar manner](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fbarospection&branch=gh-pages&urlpath=lab%2Ftree%2Fbarospection%2Freferences%2FSOLN_M45_Gaia_HRD_Open_Clusters_v1.ipynb?reset){:target="_blank"}
@@ -107,7 +107,7 @@ Item|Status|Date|Topic|Google Meet Link|Google Recording Link
 3|Posted|[Tue, May 12, 2026 6:30 - 8:00 PM Pacific Time - Click to convert to your timezone!](https://www.inyourowntime.zone/2026-05-12_18.30_America.Los_Angeles?forget=1)|Star Type Classifications and RSpec analysis of BARO Mystery spectra|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meet Recording](https://drive.google.com/file/d/107uJbiBlNEtzXSVSpHunA407f03EUiFW/view?usp=sharing){:target="_blank"}
 4|Posted|Tue, May 19 - **NO LIVE SESSION TODAY!**|[NO GOOGLE MEETING TODAY - UNWELL](missing_session.html)| [Continue your work on Mystery Star Project and Open Cluster HRD project](https://drunarayan.github.io/barospection/#whats-new)|
 5|Posted|Tue, May 26 - **NO LIVE SESSION TODAY!**|NO GOOGLE MEETING TODAY| [Continue your work on Mystery Star Project and Open Cluster HRD project](https://drunarayan.github.io/barospection/#whats-new)|
-6|Posted|[Wed, Jun 02, 2026 6:30 - 8:00 PM Pacific Time - Click to convert to your timezone!](https://www.inyourowntime.zone/2026-06-02_18.30_America.Los_Angeles?forget=1)| OPEN CLUSTER HRD with Student Stars |[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|Google Meet Recording TBA
+6|Posted|[Tue, Jun 02, 2026 6:30 - 8:00 PM Pacific Time - Click to convert to your timezone!](https://www.inyourowntime.zone/2026-06-02_18.30_America.Los_Angeles?forget=1)| OPEN CLUSTER HRD with Student Stars |[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|Google Meet Recording TBA
 7|Posted|[Tue, Jun 09, 2026 6:30 - 8:00 PM Pacific Time - Click to convert to your timezone!](https://www.inyourowntime.zone/2026-06-09_18.30_America.Los_Angeles?forget=1)|OPTIONAL - Share our final results by sharing our published data in Jupyter Notebooks|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|Google Meet Recording TBA
 
 
