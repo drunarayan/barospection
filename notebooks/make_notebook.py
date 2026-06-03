@@ -1,0 +1,158 @@
+import json
+
+# Define the notebook structure
+notebook_content = {
+    "cells": [
+        {
+            "cell_type": "markdown",
+            "metadata": {},
+            "source": [
+                "# Measuring the Sun's Angular Diameter Using a Smart Telescope\n",
+                "\n",
+                "This notebook calculates the angular diameter of the Sun using data collected from a \"drift transit\" experiment using a ZWO Seestar S50 telescope. Because the telescope remains stationary while the Earth rotates, the Sun drifts across the camera sensor. \n",
+                "\n",
+                "We will use trigonometry to correct for the diagonal angle of the Sun's path across the sensor and apply a correction for the Sun's current celestial declination."
+            ]
+        },
+        {
+            "cell_type": "code",
+            "execution_count": None,
+            "metadata": {},
+            "outputs": [],
+            "source": [
+                "import numpy as np\n",
+                "import matplotlib.pyplot as plt\n",
+                "\n",
+                "# --- CONFIGURABLE EXPERIMENTAL DATA ---\n",
+                "# Replace these values with your actual measurements from the Seestar video\n",
+                "\n",
+                "delta_x = 800       # Horizontal pixel displacement of the drift path\n",
+                "delta_y = 450       # Vertical pixel displacement of the drift path\n",
+                "t_measured = 152.5  # Observed transit time in seconds (leading edge to trailing edge)\n",
+                "declination_deg = 20.8  # Sun's declination in degrees for late May\n",
+                "# --------------------------------------\n",
+                "\n",
+                "print(\"Experimental data loaded successfully.\")"
+            ]
+        },
+        {
+            "cell_type": "markdown",
+            "metadata": {},
+            "source": [
+                "## Step 1: Visualizing the Drift Angle and Vector Geometry\n",
+                "\n",
+                "Before calculating, let's visualize how the Sun moves across the rectangular sensor array. The true path of the Sun forms the hypotenuse of a right triangle created by the horizontal ($\\Delta X$) and vertical ($\\Delta Y$) pixel movements."
+            ]
+        },
+        {
+            "cell_type": "code",
+            "execution_count": None,
+            "metadata": {},
+            "outputs": [],
+            "source": [
+                "# Calculate the drift angle (alpha) in radians and degrees\n",
+                "alpha_rad = np.arctan(delta_y / delta_x)\n",
+                "alpha_deg = np.degrees(alpha_rad)\n",
+                "\n",
+                "# Plotting the geometric vector\n",
+                "plt.figure(figsize=(8, 5))\n",
+                "plt.plot([0, delta_x], [0, delta_y], 'ro-', label=\"Sun's Drift Path (Hypotenuse)\", linewidth=2)\n",
+                "plt.axhline(0, color='black', linestyle='--', label=\"Sensor Horizontal Axis (X)\")\n",
+                "plt.axvline(delta_x, color='gray', linestyle=':', label=\"Sensor Vertical Axis (Y)\")\n",
+                "\n",
+                "# Annotate the plot\n",
+                "plt.text(delta_x / 2, delta_y / 2 + 30, \"True Path\", fontsize=11, color='red')\n",
+                "plt.text(delta_x * 0.2, 15, f\"Angle α = {alpha_deg:.2f}°\", fontsize=12, fontweight='bold')\n",
+                "plt.title(\"Geometry of the Sun's Diagonal Drift Across the Seestar Sensor\")\n",
+                "plt.xlabel(\"Horizontal Pixels (ΔX)\")\n",
+                "plt.ylabel(\"Vertical Pixels (ΔY)\")\n",
+                "plt.xlim(-50, delta_x + 100)\n",
+                "plt.ylim(-50, delta_y + 100)\n",
+                "plt.grid(True, linestyle=':', alpha=0.6)\n",
+                "plt.legend(loc=\"upper left\")\n",
+                "plt.show()\n",
+                "\n",
+                "print(f\"Calculated Drift Angle (α): {alpha_deg:.2f} degrees\")"
+            ]
+        },
+        {
+            "cell_type": "markdown",
+            "metadata": {},
+            "source": [
+                "## Step 2: Correcting the Transit Time\n",
+                "\n",
+                "Because the Sun travels at a diagonal angle $\\alpha$, its apparent transit time across a fixed vertical reference line is stretched out. We calculate the true perpendicular transit time ($T_{\\text{true}}$) across its own diameter using the cosine of our drift angle:\n",
+                "\n",
+                "$$T_{\\text{true}} = T_{\\text{measured}} \\times \\cos(\\alpha)$$"
+            ]
+        },
+        {
+            "cell_type": "code",
+            "execution_count": None,
+            "metadata": {},
+            "outputs": [],
+            "source": [
+                "# Calculate the corrected transit time\n",
+                "t_true = t_measured * np.cos(alpha_rad)\n",
+                "\n",
+                "print(f\"Measured Transit Time: {t_measured:.2f} seconds\")\n",
+                "print(f\"Corrected Perpendicular Transit Time (T_true): {t_true:.2f} seconds\")"
+            ]
+        },
+        {
+            "cell_type": "markdown",
+            "metadata": {},
+            "source": [
+                "## Step 3: Calculating Angular Diameter with Declination Correction\n",
+                "\n",
+                "The Earth rotates $360^\\circ$ relative to the Sun in approximately 24 hours (86,400 seconds), yielding an uncorrected angular speed of:\n",
+                "\n",
+                "$$\\omega = \\frac{360^\\circ}{86400 \\text{ s}} \\approx 0.004167^\\circ/\\text{s}$$\n",
+                "\n",
+                "Because we are observing from a mid-latitude location, the Sun's path shrinks along a smaller circle of latitude as its declination increases. We apply the cosine of the Sun's declination ($\\delta$) to find the true angular diameter ($\\theta$):\n",
+                "\n",
+                "$$\\theta = (T_{\\text{true}} \\times 0.004167^\\circ/\\text{s}) \\times \\cos(\\delta)$$"
+            ]
+        },
+        {
+            "cell_type": "code",
+            "execution_count": None,
+            "metadata": {},
+            "outputs": [],
+            "source": [
+                "# Constants\n",
+                "earth_rotation_speed = 360.0 / 86400.0\n",
+                "\n",
+                "# Convert declination to radians\n",
+                "declination_rad = np.radians(declination_deg)\n",
+                "\n",
+                "# Calculate Angular Diameter in degrees\n",
+                "angular_diameter_deg = (t_true * earth_rotation_speed) * np.cos(declination_rad)\n",
+                "\n",
+                "# Convert to arcminutes (1 degree = 60 arcminutes)\n",
+                "angular_diameter_arcmin = angular_diameter_deg * 60.0\n",
+                "\n",
+                "# Print final results\n",
+                "print(\"============= FINAL RESULTS =============\")\n",
+                "print(f\"Calculated Angular Diameter: {angular_diameter_deg:.4f}°\")\n",
+                "print(f\"Calculated Angular Diameter: {angular_diameter_arcmin:.2f} arcminutes\")\n",
+                "print(\"=========================================\")\n",
+                "print(\"Note: The accepted true value fluctuates around ~32 arcminutes (~0.533°).\")"
+            ]
+        }
+    ],
+    "metadata": {
+        "language_info": {
+            "name": "python"
+        }
+    },
+    "nbformat": 4,
+    "nbformat_minor": 2
+}
+
+# Write to file
+filename = "sun_transit_experiment.ipynb"
+with open(filename, "w", encoding="utf-8") as f:
+    json.dump(notebook_content, f, indent=2)
+
+print(f"Successfully created '{filename}'!")
