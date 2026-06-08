@@ -14,6 +14,7 @@
 <!-- ### [SLACK CHANNEL FOR ALL COMMUNICATIONS](https://briefprograms.slack.com/archives/C0918TX0SVC)! - Please look here for Q&A -->
 
 ### What's New
+- 060726 - [Complete the following steps for plotting your Mystery Stars against a background of Milky Way Stars in the FINAL HRD](final_project_steps.md)
 - 060226 - [Meeting Recording from today at 6:30 PM for completeing our OPEN Cluster analysis](https://drive.google.com/file/d/17zGKaR20KktVEHfY7Y4DPyvOHa5PrvXu/view?usp=sharing)
 - 051926 - [NO SESSION TODAY - NOT FEELING WELL](missing_session.md)
 - 051526 - [Solution for OPEN CLUSTER M45 HRD Project #6 Notebook posted. Please complete M67 in a similar manner](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fbarospection&branch=gh-pages&urlpath=lab%2Ftree%2Fbarospection%2Freferences%2FSOLN_M45_Gaia_HRD_Open_Clusters_v1.ipynb?reset){:target="_blank"}
