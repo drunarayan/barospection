@@ -1,11 +1,11 @@
-## Course repository for the ***Intro to Spectroscopy 2026*** *seminar starts Apr 28*
-*taught for BRIEF Boyce Astro Foundation by Chandru Narayan. (updated May 23, 2026) - email chandru@ [drunarayan@gmail.com](email://drunarayan@gmail.com) if you have any questions about the seminar*.
+## Course repository for the ***Intro to Spectroscopy Fall/Winter 2026*** *seminar first class starts Nov 23*
+*taught for BRIEF Boyce Astro Foundation by Chandru Narayan. (updated Aug 10, 2026) - email chandru@ [drunarayan@gmail.com](email://drunarayan@gmail.com) if you have any questions about the seminar*.
 
 
-### BAROSpection - Introduction to Spectroscopy [2026 course flyer](docs/barospection_flyer.png)
+### BAROSpection - Introduction to Spectroscopy [2026 Fall/Winter course flyer](docs/barospection_flyer.png)
 ![](barospection.png) 
 
-### [Add yourself to the waitlist for this Seminar](https://boyce-astro.org/spectroscopy-sign-up/) ***Class Starts Tuesday, Apr 28, 2026***
+### [Add yourself to the waitlist for this Seminar](https://boyce-astro.org/spectroscopy-sign-up/) ***Class Starts Nov 23, 2026***
 
 ---
 
