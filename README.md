@@ -1,5 +1,5 @@
 
-## Course repository for the ***Intro to Spectroscopy 2026***
+## ***Intro to Spectroscopy*** fall/winter 2026 seminar
 *taught for BRIEF Boyce Astro Foundation by Chandru Narayan. (updated Aug 10, 2026) - email chandru [drunarayan@gmail.com](email://drunarayan@gmail.com) if you have any questions about the seminar*.
 
 
