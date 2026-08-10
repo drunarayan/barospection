@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 ## Course repository for the ***Intro to Spectroscopy Fall/Winter 2026*** *seminar first class starts Nov 23*
 *taught for BRIEF Boyce Astro Foundation by Chandru Narayan. (updated Aug 10, 2026) - email chandru@ [drunarayan@gmail.com](email://drunarayan@gmail.com) if you have any questions about the seminar*.
+=======
+## Course repository for the ***Intro to Spectroscopy 2026***
+*taught for BRIEF Boyce Astro Foundation by Chandru Narayan. (updated Jun 10, 2026) - email chandru@ [drunarayan@gmail.com](email://drunarayan@gmail.com) if you have any questions about the seminar*.
+>>>>>>> 783d0e20b008ff42ca6687983d582324b8e3f9b2
 
 
 ### BAROSpection - Introduction to Spectroscopy [2026 Fall/Winter course flyer](docs/barospection_flyer.png)
@@ -14,6 +19,10 @@
 <!-- ### [SLACK CHANNEL FOR ALL COMMUNICATIONS](https://briefprograms.slack.com/archives/C0918TX0SVC)! - Please look here for Q&A -->
 
 ### What's New
+- 061026 - Closing - It was a real pleasure for me to work with you in this version of Intro to Spectroscopy. Later this year (in pilot form) and next year I plan to begin offering a semester long version of the combined Python for Astronomy and BAROSpection seminars. More on this top follow on Slack.  Please publish your final project results there.  Could I also ask that you share your views ajd fedback for the seminar there?  I would appreciate it very much. Kindly, Chandru
+- 061026 - [Final HRD Project Completed. Download results Notebook PDF here.](notebooks/Plot_HRD_with_student_stars_v1.pdf) [Final Session Recording Posted](https://drunarayan.github.io/barospection/#workshop-meeting-and-recording-links)
+- 060726 - [Complete the following steps for plotting your Mystery Stars against a background of Milky Way Stars in the FINAL HRD](final_project_steps.md)
+- 060226 - [Meeting Recording from today at 6:30 PM for completeing our OPEN Cluster analysis](https://drive.google.com/file/d/17zGKaR20KktVEHfY7Y4DPyvOHa5PrvXu/view?usp=sharing)
 - 051926 - [NO SESSION TODAY - NOT FEELING WELL](missing_session.md)
 - 051526 - [Solution for OPEN CLUSTER M45 HRD Project #6 Notebook posted. Please complete M67 in a similar manner](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fbarospection&branch=gh-pages&urlpath=lab%2Ftree%2Fbarospection%2Freferences%2FSOLN_M45_Gaia_HRD_Open_Clusters_v1.ipynb?reset){:target="_blank"}
 - 051226 - [Session recording added](#workshop-meeting-and-recording-links)
@@ -105,7 +114,7 @@ Item|Status|Date|Topic|Google Meet Link|Google Recording Link
 3|Posted|[Tue, May 12, 2026 6:30 - 8:00 PM Pacific Time - Click to convert to your timezone!](https://www.inyourowntime.zone/2026-05-12_18.30_America.Los_Angeles?forget=1)|Star Type Classifications and RSpec analysis of BARO Mystery spectra|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meet Recording](https://drive.google.com/file/d/107uJbiBlNEtzXSVSpHunA407f03EUiFW/view?usp=sharing){:target="_blank"}
 4|Posted|Tue, May 19 - **NO LIVE SESSION TODAY!**|[NO GOOGLE MEETING TODAY - UNWELL](missing_session.html)| [Continue your work on Mystery Star Project and Open Cluster HRD project](https://drunarayan.github.io/barospection/#whats-new)|
 5|Posted|Tue, May 26 - **NO LIVE SESSION TODAY!**|NO GOOGLE MEETING TODAY| [Continue your work on Mystery Star Project and Open Cluster HRD project](https://drunarayan.github.io/barospection/#whats-new)|
-6|Posted|[Wed, Jun 02, 2026 6:30 - 8:00 PM Pacific Time - Click to convert to your timezone!](https://www.inyourowntime.zone/2026-06-02_18.30_America.Los_Angeles?forget=1)| OPEN CLUSTER HRD with Student Stars |[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|Google Meet Recording TBA
-7|Posted|[Tue, Jun 09, 2026 6:30 - 8:00 PM Pacific Time - Click to convert to your timezone!](https://www.inyourowntime.zone/2026-06-09_18.30_America.Los_Angeles?forget=1)|OPTIONAL - Share our final results by sharing our published data in Jupyter Notebooks|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|Google Meet Recording TBA
+6|Posted|[Tue, Jun 02, 2026 6:30 - 8:00 PM Pacific Time - Click to convert to your timezone!](https://www.inyourowntime.zone/2026-06-02_18.30_America.Los_Angeles?forget=1)| OPEN CLUSTER HRD with Student Stars |[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meet Recording](https://drive.google.com/file/d/17zGKaR20KktVEHfY7Y4DPyvOHa5PrvXu/view?usp=sharing)
+7|Posted|[Tue, Jun 09, 2026 6:30 - 8:00 PM Pacific Time - Click to convert to your timezone!](https://www.inyourowntime.zone/2026-06-09_18.30_America.Los_Angeles?forget=1)|OPTIONAL - Share our final results by sharing our published data in Jupyter Notebooks|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meet Recording](https://drive.google.com/file/d/1xlJgm6nBMJp8FtjoOs6gGnAUvzGrGOqE/view?usp=sharing)
 
 
