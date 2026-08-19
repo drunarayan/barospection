@@ -3,10 +3,10 @@
 *taught for BRIEF Boyce Astro Foundation by Chandru Narayan. (updated Aug 10, 2026) - email chandru [drunarayan@gmail.com](email://drunarayan@gmail.com) if you have any questions about the seminar*.
 
 
-### BAROSpection - Introduction to Spectroscopy [2026 Fall/Winter course flyer](docs/barospection_flyer.png)
-![](barospection.png) 
+### BAROSpection - Introduction to Spectroscopy [2026 Fall/Winter course flyer](docs/p4b_flyer.png)
+![](docs/p4b_flyer.png) 
 
-### [Add yourself to the waitlist for this Seminar](https://boyce-astro.org/spectroscopy-sign-up/) ***Class Starts Nov 23, 2026***
+### [Add yourself to the waitlist for this Seminar](https://boyce-astro.org/spectroscopy-sign-up/) ***Class Starts Dec 16th, 2026***
 
 ---
 
